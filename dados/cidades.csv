@@ -1,0 +1,41 @@
+cidade,uf,regiao,populacao_mil,lat,lon
+São Paulo,SP,Sudeste,11450,-23.55,-46.63
+Rio de Janeiro,RJ,Sudeste,6211,-22.91,-43.17
+Brasília,DF,Centro-Oeste,2817,-15.79,-47.88
+Fortaleza,CE,Nordeste,2428,-3.73,-38.52
+Salvador,BA,Nordeste,2418,-12.97,-38.5
+Belo Horizonte,MG,Sudeste,2315,-19.92,-43.94
+Manaus,AM,Norte,2063,-3.12,-60.02
+Curitiba,PR,Sul,1773,-25.43,-49.27
+Recife,PE,Nordeste,1488,-8.05,-34.88
+Goiânia,GO,Centro-Oeste,1437,-16.68,-49.25
+Porto Alegre,RS,Sul,1332,-30.03,-51.23
+Belém,PA,Norte,1303,-1.46,-48.49
+Guarulhos,SP,Sudeste,1291,-23.45,-46.53
+Campinas,SP,Sudeste,1139,-22.91,-47.06
+São Luís,MA,Nordeste,1037,-2.53,-44.3
+Maceió,AL,Nordeste,957,-9.67,-35.74
+Campo Grande,MS,Centro-Oeste,898,-20.47,-54.62
+Teresina,PI,Nordeste,866,-5.09,-42.8
+João Pessoa,PB,Nordeste,833,-7.12,-34.86
+Natal,RN,Nordeste,751,-5.79,-35.21
+Ribeirão Preto,SP,Sudeste,698,-21.18,-47.81
+Uberlândia,MG,Sudeste,713,-18.92,-48.28
+Sorocaba,SP,Sudeste,723,-23.5,-47.46
+Cuiabá,MT,Centro-Oeste,650,-15.6,-56.1
+Aracaju,SE,Nordeste,602,-10.91,-37.07
+Joinville,SC,Sul,616,-26.3,-48.85
+Londrina,PR,Sul,555,-23.31,-51.16
+Juiz de Fora,MG,Sudeste,540,-21.76,-43.35
+Florianópolis,SC,Sul,537,-27.6,-48.55
+Porto Velho,RO,Norte,460,-8.76,-63.9
+Macapá,AP,Norte,442,0.03,-51.07
+Caxias do Sul,RS,Sul,463,-29.17,-51.18
+Vitória,ES,Sudeste,322,-20.32,-40.34
+Maringá,PR,Sul,409,-23.42,-51.94
+Feira de Santana,BA,Nordeste,616,-12.27,-38.97
+Campina Grande,PB,Nordeste,419,-7.23,-35.88
+Boa Vista,RR,Norte,413,2.82,-60.67
+Santos,SP,Sudeste,418,-23.96,-46.33
+Palmas,TO,Norte,302,-10.18,-48.33
+Anápolis,GO,Centro-Oeste,398,-16.33,-48.95

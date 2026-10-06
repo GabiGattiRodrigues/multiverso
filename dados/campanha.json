@@ -1,0 +1,17 @@
+{
+  "empresa": "Orbe (banco digital fictício)",
+  "canal": "TV aberta",
+  "inicio_teste": "2026-05-04",
+  "fim_teste": "2026-05-31",
+  "dias_teste": 28,
+  "cidades_tratadas": [
+    "Sorocaba",
+    "Curitiba",
+    "Recife"
+  ],
+  "investimento_tv": 240000,
+  "verdade_lift_pct": 8.67,
+  "verdade_incrementais": 1004,
+  "lift_plato_pct": 10.0,
+  "seed": 42
+}

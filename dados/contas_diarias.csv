@@ -1,0 +1,5881 @@
+data,cidade,contas
+2026-01-05,São Paulo,1128
+2026-01-06,São Paulo,1034
+2026-01-07,São Paulo,971
+2026-01-08,São Paulo,959
+2026-01-09,São Paulo,840
+2026-01-10,São Paulo,711
+2026-01-11,São Paulo,659
+2026-01-12,São Paulo,932
+2026-01-13,São Paulo,992
+2026-01-14,São Paulo,937
+2026-01-15,São Paulo,869
+2026-01-16,São Paulo,840
+2026-01-17,São Paulo,719
+2026-01-18,São Paulo,653
+2026-01-19,São Paulo,1001
+2026-01-20,São Paulo,998
+2026-01-21,São Paulo,941
+2026-01-22,São Paulo,862
+2026-01-23,São Paulo,799
+2026-01-24,São Paulo,733
+2026-01-25,São Paulo,695
+2026-01-26,São Paulo,963
+2026-01-27,São Paulo,921
+2026-01-28,São Paulo,878
+2026-01-29,São Paulo,932
+2026-01-30,São Paulo,896
+2026-01-31,São Paulo,718
+2026-02-01,São Paulo,719
+2026-02-02,São Paulo,1063
+2026-02-03,São Paulo,970
+2026-02-04,São Paulo,929
+2026-02-05,São Paulo,1025
+2026-02-06,São Paulo,939
+2026-02-07,São Paulo,741
+2026-02-08,São Paulo,713
+2026-02-09,São Paulo,1070
+2026-02-10,São Paulo,1029
+2026-02-11,São Paulo,1034
+2026-02-12,São Paulo,988
+2026-02-13,São Paulo,1009
+2026-02-14,São Paulo,638
+2026-02-15,São Paulo,560
+2026-02-16,São Paulo,788
+2026-02-17,São Paulo,751
+2026-02-18,São Paulo,985
+2026-02-19,São Paulo,973
+2026-02-20,São Paulo,1032
+2026-02-21,São Paulo,931
+2026-02-22,São Paulo,778
+2026-02-23,São Paulo,1124
+2026-02-24,São Paulo,1069
+2026-02-25,São Paulo,1047
+2026-02-26,São Paulo,975
+2026-02-27,São Paulo,970
+2026-02-28,São Paulo,840
+2026-03-01,São Paulo,829
+2026-03-02,São Paulo,1232
+2026-03-03,São Paulo,1135
+2026-03-04,São Paulo,1017
+2026-03-05,São Paulo,1073
+2026-03-06,São Paulo,1015
+2026-03-07,São Paulo,880
+2026-03-08,São Paulo,771
+2026-03-09,São Paulo,1118
+2026-03-10,São Paulo,1093
+2026-03-11,São Paulo,1036
+2026-03-12,São Paulo,1060
+2026-03-13,São Paulo,968
+2026-03-14,São Paulo,882
+2026-03-15,São Paulo,787
+2026-03-16,São Paulo,1108
+2026-03-17,São Paulo,1020
+2026-03-18,São Paulo,937
+2026-03-19,São Paulo,950
+2026-03-20,São Paulo,930
+2026-03-21,São Paulo,843
+2026-03-22,São Paulo,724
+2026-03-23,São Paulo,1156
+2026-03-24,São Paulo,1054
+2026-03-25,São Paulo,1042
+2026-03-26,São Paulo,1030
+2026-03-27,São Paulo,1024
+2026-03-28,São Paulo,878
+2026-03-29,São Paulo,865
+2026-03-30,São Paulo,1130
+2026-03-31,São Paulo,1101
+2026-04-01,São Paulo,976
+2026-04-02,São Paulo,967
+2026-04-03,São Paulo,908
+2026-04-04,São Paulo,817
+2026-04-05,São Paulo,817
+2026-04-06,São Paulo,1161
+2026-04-07,São Paulo,1069
+2026-04-08,São Paulo,993
+2026-04-09,São Paulo,975
+2026-04-10,São Paulo,934
+2026-04-11,São Paulo,755
+2026-04-12,São Paulo,704
+2026-04-13,São Paulo,1109
+2026-04-14,São Paulo,1043
+2026-04-15,São Paulo,958
+2026-04-16,São Paulo,928
+2026-04-17,São Paulo,913
+2026-04-18,São Paulo,801
+2026-04-19,São Paulo,752
+2026-04-20,São Paulo,1176
+2026-04-21,São Paulo,1114
+2026-04-22,São Paulo,1040
+2026-04-23,São Paulo,962
+2026-04-24,São Paulo,936
+2026-04-25,São Paulo,828
+2026-04-26,São Paulo,770
+2026-04-27,São Paulo,1128
+2026-04-28,São Paulo,1118
+2026-04-29,São Paulo,1090
+2026-04-30,São Paulo,1042
+2026-05-01,São Paulo,1025
+2026-05-02,São Paulo,863
+2026-05-03,São Paulo,807
+2026-05-04,São Paulo,1224
+2026-05-05,São Paulo,1248
+2026-05-06,São Paulo,1169
+2026-05-07,São Paulo,1052
+2026-05-08,São Paulo,973
+2026-05-09,São Paulo,905
+2026-05-10,São Paulo,821
+2026-05-11,São Paulo,1184
+2026-05-12,São Paulo,1152
+2026-05-13,São Paulo,1134
+2026-05-14,São Paulo,1023
+2026-05-15,São Paulo,1075
+2026-05-16,São Paulo,902
+2026-05-17,São Paulo,802
+2026-05-18,São Paulo,1195
+2026-05-19,São Paulo,1153
+2026-05-20,São Paulo,1105
+2026-05-21,São Paulo,1097
+2026-05-22,São Paulo,926
+2026-05-23,São Paulo,861
+2026-05-24,São Paulo,773
+2026-05-25,São Paulo,1085
+2026-05-26,São Paulo,1050
+2026-05-27,São Paulo,1033
+2026-05-28,São Paulo,1011
+2026-05-29,São Paulo,961
+2026-05-30,São Paulo,862
+2026-05-31,São Paulo,710
+2026-01-05,Rio de Janeiro,785
+2026-01-06,Rio de Janeiro,765
+2026-01-07,Rio de Janeiro,663
+2026-01-08,Rio de Janeiro,653
+2026-01-09,Rio de Janeiro,643
+2026-01-10,Rio de Janeiro,558
+2026-01-11,Rio de Janeiro,521
+2026-01-12,Rio de Janeiro,707
+2026-01-13,Rio de Janeiro,697
+2026-01-14,Rio de Janeiro,709
+2026-01-15,Rio de Janeiro,655
+2026-01-16,Rio de Janeiro,629
+2026-01-17,Rio de Janeiro,554
+2026-01-18,Rio de Janeiro,470
+2026-01-19,Rio de Janeiro,816
+2026-01-20,Rio de Janeiro,765
+2026-01-21,Rio de Janeiro,776
+2026-01-22,Rio de Janeiro,661
+2026-01-23,Rio de Janeiro,646
+2026-01-24,Rio de Janeiro,592
+2026-01-25,Rio de Janeiro,493
+2026-01-26,Rio de Janeiro,726
+2026-01-27,Rio de Janeiro,751
+2026-01-28,Rio de Janeiro,671
+2026-01-29,Rio de Janeiro,650
+2026-01-30,Rio de Janeiro,627
+2026-01-31,Rio de Janeiro,513
+2026-02-01,Rio de Janeiro,530
+2026-02-02,Rio de Janeiro,737
+2026-02-03,Rio de Janeiro,790
+2026-02-04,Rio de Janeiro,686
+2026-02-05,Rio de Janeiro,758
+2026-02-06,Rio de Janeiro,643
+2026-02-07,Rio de Janeiro,577
+2026-02-08,Rio de Janeiro,535
+2026-02-09,Rio de Janeiro,866
+2026-02-10,Rio de Janeiro,762
+2026-02-11,Rio de Janeiro,759
+2026-02-12,Rio de Janeiro,704
+2026-02-13,Rio de Janeiro,699
+2026-02-14,Rio de Janeiro,427
+2026-02-15,Rio de Janeiro,408
+2026-02-16,Rio de Janeiro,535
+2026-02-17,Rio de Janeiro,557
+2026-02-18,Rio de Janeiro,729
+2026-02-19,Rio de Janeiro,711
+2026-02-20,Rio de Janeiro,691
+2026-02-21,Rio de Janeiro,619
+2026-02-22,Rio de Janeiro,558
+2026-02-23,Rio de Janeiro,794
+2026-02-24,Rio de Janeiro,801
+2026-02-25,Rio de Janeiro,798
+2026-02-26,Rio de Janeiro,694
+2026-02-27,Rio de Janeiro,698
+2026-02-28,Rio de Janeiro,668
+2026-03-01,Rio de Janeiro,602
+2026-03-02,Rio de Janeiro,783
+2026-03-03,Rio de Janeiro,823
+2026-03-04,Rio de Janeiro,758
+2026-03-05,Rio de Janeiro,762
+2026-03-06,Rio de Janeiro,713
+2026-03-07,Rio de Janeiro,630
+2026-03-08,Rio de Janeiro,554
+2026-03-09,Rio de Janeiro,740
+2026-03-10,Rio de Janeiro,741
+2026-03-11,Rio de Janeiro,777
+2026-03-12,Rio de Janeiro,682
+2026-03-13,Rio de Janeiro,700
+2026-03-14,Rio de Janeiro,568
+2026-03-15,Rio de Janeiro,560
+2026-03-16,Rio de Janeiro,837
+2026-03-17,Rio de Janeiro,806
+2026-03-18,Rio de Janeiro,774
+2026-03-19,Rio de Janeiro,767
+2026-03-20,Rio de Janeiro,799
+2026-03-21,Rio de Janeiro,690
+2026-03-22,Rio de Janeiro,594
+2026-03-23,Rio de Janeiro,844
+2026-03-24,Rio de Janeiro,833
+2026-03-25,Rio de Janeiro,827
+2026-03-26,Rio de Janeiro,742
+2026-03-27,Rio de Janeiro,733
+2026-03-28,Rio de Janeiro,643
+2026-03-29,Rio de Janeiro,575
+2026-03-30,Rio de Janeiro,873
+2026-03-31,Rio de Janeiro,821
+2026-04-01,Rio de Janeiro,768
+2026-04-02,Rio de Janeiro,684
+2026-04-03,Rio de Janeiro,725
+2026-04-04,Rio de Janeiro,656
+2026-04-05,Rio de Janeiro,613
+2026-04-06,Rio de Janeiro,832
+2026-04-07,Rio de Janeiro,782
+2026-04-08,Rio de Janeiro,711
+2026-04-09,Rio de Janeiro,736
+2026-04-10,Rio de Janeiro,670
+2026-04-11,Rio de Janeiro,545
+2026-04-12,Rio de Janeiro,522
+2026-04-13,Rio de Janeiro,770
+2026-04-14,Rio de Janeiro,731
+2026-04-15,Rio de Janeiro,687
+2026-04-16,Rio de Janeiro,774
+2026-04-17,Rio de Janeiro,703
+2026-04-18,Rio de Janeiro,593
+2026-04-19,Rio de Janeiro,505
+2026-04-20,Rio de Janeiro,877
+2026-04-21,Rio de Janeiro,777
+2026-04-22,Rio de Janeiro,744
+2026-04-23,Rio de Janeiro,694
+2026-04-24,Rio de Janeiro,728
+2026-04-25,Rio de Janeiro,659
+2026-04-26,Rio de Janeiro,539
+2026-04-27,Rio de Janeiro,804
+2026-04-28,Rio de Janeiro,805
+2026-04-29,Rio de Janeiro,767
+2026-04-30,Rio de Janeiro,650
+2026-05-01,Rio de Janeiro,688
+2026-05-02,Rio de Janeiro,552
+2026-05-03,Rio de Janeiro,514
+2026-05-04,Rio de Janeiro,808
+2026-05-05,Rio de Janeiro,829
+2026-05-06,Rio de Janeiro,777
+2026-05-07,Rio de Janeiro,759
+2026-05-08,Rio de Janeiro,728
+2026-05-09,Rio de Janeiro,619
+2026-05-10,Rio de Janeiro,593
+2026-05-11,Rio de Janeiro,877
+2026-05-12,Rio de Janeiro,849
+2026-05-13,Rio de Janeiro,791
+2026-05-14,Rio de Janeiro,800
+2026-05-15,Rio de Janeiro,748
+2026-05-16,Rio de Janeiro,644
+2026-05-17,Rio de Janeiro,567
+2026-05-18,Rio de Janeiro,841
+2026-05-19,Rio de Janeiro,744
+2026-05-20,Rio de Janeiro,724
+2026-05-21,Rio de Janeiro,745
+2026-05-22,Rio de Janeiro,666
+2026-05-23,Rio de Janeiro,618
+2026-05-24,Rio de Janeiro,514
+2026-05-25,Rio de Janeiro,841
+2026-05-26,Rio de Janeiro,826
+2026-05-27,Rio de Janeiro,756
+2026-05-28,Rio de Janeiro,759
+2026-05-29,Rio de Janeiro,643
+2026-05-30,Rio de Janeiro,581
+2026-05-31,Rio de Janeiro,584
+2026-01-05,Brasília,300
+2026-01-06,Brasília,252
+2026-01-07,Brasília,253
+2026-01-08,Brasília,216
+2026-01-09,Brasília,233
+2026-01-10,Brasília,181
+2026-01-11,Brasília,188
+2026-01-12,Brasília,274
+2026-01-13,Brasília,285
+2026-01-14,Brasília,242
+2026-01-15,Brasília,237
+2026-01-16,Brasília,224
+2026-01-17,Brasília,192
+2026-01-18,Brasília,180
+2026-01-19,Brasília,264
+2026-01-20,Brasília,272
+2026-01-21,Brasília,256
+2026-01-22,Brasília,241
+2026-01-23,Brasília,251
+2026-01-24,Brasília,218
+2026-01-25,Brasília,197
+2026-01-26,Brasília,315
+2026-01-27,Brasília,292
+2026-01-28,Brasília,271
+2026-01-29,Brasília,260
+2026-01-30,Brasília,252
+2026-01-31,Brasília,227
+2026-02-01,Brasília,182
+2026-02-02,Brasília,258
+2026-02-03,Brasília,297
+2026-02-04,Brasília,245
+2026-02-05,Brasília,280
+2026-02-06,Brasília,271
+2026-02-07,Brasília,206
+2026-02-08,Brasília,219
+2026-02-09,Brasília,317
+2026-02-10,Brasília,261
+2026-02-11,Brasília,271
+2026-02-12,Brasília,277
+2026-02-13,Brasília,252
+2026-02-14,Brasília,138
+2026-02-15,Brasília,146
+2026-02-16,Brasília,211
+2026-02-17,Brasília,170
+2026-02-18,Brasília,215
+2026-02-19,Brasília,233
+2026-02-20,Brasília,245
+2026-02-21,Brasília,219
+2026-02-22,Brasília,204
+2026-02-23,Brasília,312
+2026-02-24,Brasília,243
+2026-02-25,Brasília,247
+2026-02-26,Brasília,280
+2026-02-27,Brasília,236
+2026-02-28,Brasília,207
+2026-03-01,Brasília,219
+2026-03-02,Brasília,299
+2026-03-03,Brasília,276
+2026-03-04,Brasília,275
+2026-03-05,Brasília,283
+2026-03-06,Brasília,278
+2026-03-07,Brasília,202
+2026-03-08,Brasília,210
+2026-03-09,Brasília,293
+2026-03-10,Brasília,289
+2026-03-11,Brasília,276
+2026-03-12,Brasília,279
+2026-03-13,Brasília,252
+2026-03-14,Brasília,254
+2026-03-15,Brasília,250
+2026-03-16,Brasília,305
+2026-03-17,Brasília,313
+2026-03-18,Brasília,287
+2026-03-19,Brasília,272
+2026-03-20,Brasília,282
+2026-03-21,Brasília,225
+2026-03-22,Brasília,219
+2026-03-23,Brasília,334
+2026-03-24,Brasília,267
+2026-03-25,Brasília,292
+2026-03-26,Brasília,264
+2026-03-27,Brasília,274
+2026-03-28,Brasília,254
+2026-03-29,Brasília,192
+2026-03-30,Brasília,304
+2026-03-31,Brasília,303
+2026-04-01,Brasília,282
+2026-04-02,Brasília,288
+2026-04-03,Brasília,280
+2026-04-04,Brasília,230
+2026-04-05,Brasília,220
+2026-04-06,Brasília,363
+2026-04-07,Brasília,298
+2026-04-08,Brasília,260
+2026-04-09,Brasília,288
+2026-04-10,Brasília,269
+2026-04-11,Brasília,192
+2026-04-12,Brasília,208
+2026-04-13,Brasília,315
+2026-04-14,Brasília,302
+2026-04-15,Brasília,265
+2026-04-16,Brasília,263
+2026-04-17,Brasília,225
+2026-04-18,Brasília,224
+2026-04-19,Brasília,225
+2026-04-20,Brasília,341
+2026-04-21,Brasília,298
+2026-04-22,Brasília,271
+2026-04-23,Brasília,263
+2026-04-24,Brasília,291
+2026-04-25,Brasília,217
+2026-04-26,Brasília,238
+2026-04-27,Brasília,341
+2026-04-28,Brasília,286
+2026-04-29,Brasília,280
+2026-04-30,Brasília,272
+2026-05-01,Brasília,282
+2026-05-02,Brasília,251
+2026-05-03,Brasília,211
+2026-05-04,Brasília,303
+2026-05-05,Brasília,309
+2026-05-06,Brasília,269
+2026-05-07,Brasília,243
+2026-05-08,Brasília,215
+2026-05-09,Brasília,219
+2026-05-10,Brasília,186
+2026-05-11,Brasília,284
+2026-05-12,Brasília,258
+2026-05-13,Brasília,279
+2026-05-14,Brasília,269
+2026-05-15,Brasília,282
+2026-05-16,Brasília,199
+2026-05-17,Brasília,197
+2026-05-18,Brasília,316
+2026-05-19,Brasília,282
+2026-05-20,Brasília,268
+2026-05-21,Brasília,242
+2026-05-22,Brasília,252
+2026-05-23,Brasília,197
+2026-05-24,Brasília,206
+2026-05-25,Brasília,282
+2026-05-26,Brasília,305
+2026-05-27,Brasília,285
+2026-05-28,Brasília,291
+2026-05-29,Brasília,280
+2026-05-30,Brasília,223
+2026-05-31,Brasília,218
+2026-01-05,Fortaleza,291
+2026-01-06,Fortaleza,263
+2026-01-07,Fortaleza,213
+2026-01-08,Fortaleza,205
+2026-01-09,Fortaleza,209
+2026-01-10,Fortaleza,201
+2026-01-11,Fortaleza,176
+2026-01-12,Fortaleza,274
+2026-01-13,Fortaleza,243
+2026-01-14,Fortaleza,245
+2026-01-15,Fortaleza,239
+2026-01-16,Fortaleza,238
+2026-01-17,Fortaleza,196
+2026-01-18,Fortaleza,184
+2026-01-19,Fortaleza,321
+2026-01-20,Fortaleza,280
+2026-01-21,Fortaleza,290
+2026-01-22,Fortaleza,267
+2026-01-23,Fortaleza,253
+2026-01-24,Fortaleza,218
+2026-01-25,Fortaleza,182
+2026-01-26,Fortaleza,265
+2026-01-27,Fortaleza,283
+2026-01-28,Fortaleza,294
+2026-01-29,Fortaleza,254
+2026-01-30,Fortaleza,229
+2026-01-31,Fortaleza,234
+2026-02-01,Fortaleza,223
+2026-02-02,Fortaleza,276
+2026-02-03,Fortaleza,276
+2026-02-04,Fortaleza,262
+2026-02-05,Fortaleza,267
+2026-02-06,Fortaleza,297
+2026-02-07,Fortaleza,200
+2026-02-08,Fortaleza,200
+2026-02-09,Fortaleza,268
+2026-02-10,Fortaleza,253
+2026-02-11,Fortaleza,227
+2026-02-12,Fortaleza,227
+2026-02-13,Fortaleza,273
+2026-02-14,Fortaleza,145
+2026-02-15,Fortaleza,137
+2026-02-16,Fortaleza,174
+2026-02-17,Fortaleza,191
+2026-02-18,Fortaleza,244
+2026-02-19,Fortaleza,273
+2026-02-20,Fortaleza,285
+2026-02-21,Fortaleza,237
+2026-02-22,Fortaleza,213
+2026-02-23,Fortaleza,288
+2026-02-24,Fortaleza,319
+2026-02-25,Fortaleza,270
+2026-02-26,Fortaleza,255
+2026-02-27,Fortaleza,246
+2026-02-28,Fortaleza,235
+2026-03-01,Fortaleza,241
+2026-03-02,Fortaleza,291
+2026-03-03,Fortaleza,297
+2026-03-04,Fortaleza,287
+2026-03-05,Fortaleza,291
+2026-03-06,Fortaleza,245
+2026-03-07,Fortaleza,214
+2026-03-08,Fortaleza,207
+2026-03-09,Fortaleza,268
+2026-03-10,Fortaleza,261
+2026-03-11,Fortaleza,261
+2026-03-12,Fortaleza,234
+2026-03-13,Fortaleza,249
+2026-03-14,Fortaleza,213
+2026-03-15,Fortaleza,209
+2026-03-16,Fortaleza,289
+2026-03-17,Fortaleza,293
+2026-03-18,Fortaleza,237
+2026-03-19,Fortaleza,248
+2026-03-20,Fortaleza,252
+2026-03-21,Fortaleza,231
+2026-03-22,Fortaleza,196
+2026-03-23,Fortaleza,292
+2026-03-24,Fortaleza,253
+2026-03-25,Fortaleza,275
+2026-03-26,Fortaleza,265
+2026-03-27,Fortaleza,242
+2026-03-28,Fortaleza,222
+2026-03-29,Fortaleza,204
+2026-03-30,Fortaleza,289
+2026-03-31,Fortaleza,290
+2026-04-01,Fortaleza,284
+2026-04-02,Fortaleza,246
+2026-04-03,Fortaleza,285
+2026-04-04,Fortaleza,248
+2026-04-05,Fortaleza,232
+2026-04-06,Fortaleza,326
+2026-04-07,Fortaleza,294
+2026-04-08,Fortaleza,280
+2026-04-09,Fortaleza,279
+2026-04-10,Fortaleza,281
+2026-04-11,Fortaleza,227
+2026-04-12,Fortaleza,240
+2026-04-13,Fortaleza,301
+2026-04-14,Fortaleza,279
+2026-04-15,Fortaleza,264
+2026-04-16,Fortaleza,260
+2026-04-17,Fortaleza,266
+2026-04-18,Fortaleza,257
+2026-04-19,Fortaleza,199
+2026-04-20,Fortaleza,351
+2026-04-21,Fortaleza,329
+2026-04-22,Fortaleza,305
+2026-04-23,Fortaleza,275
+2026-04-24,Fortaleza,280
+2026-04-25,Fortaleza,201
+2026-04-26,Fortaleza,196
+2026-04-27,Fortaleza,278
+2026-04-28,Fortaleza,280
+2026-04-29,Fortaleza,268
+2026-04-30,Fortaleza,256
+2026-05-01,Fortaleza,243
+2026-05-02,Fortaleza,207
+2026-05-03,Fortaleza,225
+2026-05-04,Fortaleza,291
+2026-05-05,Fortaleza,274
+2026-05-06,Fortaleza,261
+2026-05-07,Fortaleza,246
+2026-05-08,Fortaleza,274
+2026-05-09,Fortaleza,229
+2026-05-10,Fortaleza,215
+2026-05-11,Fortaleza,284
+2026-05-12,Fortaleza,285
+2026-05-13,Fortaleza,269
+2026-05-14,Fortaleza,266
+2026-05-15,Fortaleza,266
+2026-05-16,Fortaleza,234
+2026-05-17,Fortaleza,224
+2026-05-18,Fortaleza,284
+2026-05-19,Fortaleza,307
+2026-05-20,Fortaleza,308
+2026-05-21,Fortaleza,292
+2026-05-22,Fortaleza,290
+2026-05-23,Fortaleza,230
+2026-05-24,Fortaleza,256
+2026-05-25,Fortaleza,305
+2026-05-26,Fortaleza,322
+2026-05-27,Fortaleza,294
+2026-05-28,Fortaleza,289
+2026-05-29,Fortaleza,238
+2026-05-30,Fortaleza,194
+2026-05-31,Fortaleza,188
+2026-01-05,Salvador,305
+2026-01-06,Salvador,274
+2026-01-07,Salvador,235
+2026-01-08,Salvador,246
+2026-01-09,Salvador,245
+2026-01-10,Salvador,212
+2026-01-11,Salvador,224
+2026-01-12,Salvador,278
+2026-01-13,Salvador,253
+2026-01-14,Salvador,258
+2026-01-15,Salvador,272
+2026-01-16,Salvador,227
+2026-01-17,Salvador,219
+2026-01-18,Salvador,211
+2026-01-19,Salvador,267
+2026-01-20,Salvador,285
+2026-01-21,Salvador,284
+2026-01-22,Salvador,238
+2026-01-23,Salvador,255
+2026-01-24,Salvador,233
+2026-01-25,Salvador,203
+2026-01-26,Salvador,278
+2026-01-27,Salvador,241
+2026-01-28,Salvador,233
+2026-01-29,Salvador,236
+2026-01-30,Salvador,231
+2026-01-31,Salvador,202
+2026-02-01,Salvador,162
+2026-02-02,Salvador,265
+2026-02-03,Salvador,252
+2026-02-04,Salvador,253
+2026-02-05,Salvador,287
+2026-02-06,Salvador,240
+2026-02-07,Salvador,237
+2026-02-08,Salvador,212
+2026-02-09,Salvador,288
+2026-02-10,Salvador,234
+2026-02-11,Salvador,244
+2026-02-12,Salvador,247
+2026-02-13,Salvador,240
+2026-02-14,Salvador,169
+2026-02-15,Salvador,170
+2026-02-16,Salvador,221
+2026-02-17,Salvador,191
+2026-02-18,Salvador,293
+2026-02-19,Salvador,272
+2026-02-20,Salvador,257
+2026-02-21,Salvador,267
+2026-02-22,Salvador,212
+2026-02-23,Salvador,259
+2026-02-24,Salvador,298
+2026-02-25,Salvador,233
+2026-02-26,Salvador,252
+2026-02-27,Salvador,266
+2026-02-28,Salvador,222
+2026-03-01,Salvador,215
+2026-03-02,Salvador,284
+2026-03-03,Salvador,282
+2026-03-04,Salvador,254
+2026-03-05,Salvador,270
+2026-03-06,Salvador,252
+2026-03-07,Salvador,235
+2026-03-08,Salvador,205
+2026-03-09,Salvador,306
+2026-03-10,Salvador,300
+2026-03-11,Salvador,304
+2026-03-12,Salvador,276
+2026-03-13,Salvador,229
+2026-03-14,Salvador,219
+2026-03-15,Salvador,222
+2026-03-16,Salvador,271
+2026-03-17,Salvador,284
+2026-03-18,Salvador,250
+2026-03-19,Salvador,271
+2026-03-20,Salvador,282
+2026-03-21,Salvador,241
+2026-03-22,Salvador,214
+2026-03-23,Salvador,283
+2026-03-24,Salvador,312
+2026-03-25,Salvador,276
+2026-03-26,Salvador,268
+2026-03-27,Salvador,234
+2026-03-28,Salvador,242
+2026-03-29,Salvador,221
+2026-03-30,Salvador,288
+2026-03-31,Salvador,280
+2026-04-01,Salvador,238
+2026-04-02,Salvador,243
+2026-04-03,Salvador,252
+2026-04-04,Salvador,247
+2026-04-05,Salvador,249
+2026-04-06,Salvador,332
+2026-04-07,Salvador,302
+2026-04-08,Salvador,285
+2026-04-09,Salvador,265
+2026-04-10,Salvador,237
+2026-04-11,Salvador,207
+2026-04-12,Salvador,224
+2026-04-13,Salvador,279
+2026-04-14,Salvador,290
+2026-04-15,Salvador,264
+2026-04-16,Salvador,256
+2026-04-17,Salvador,257
+2026-04-18,Salvador,253
+2026-04-19,Salvador,207
+2026-04-20,Salvador,292
+2026-04-21,Salvador,279
+2026-04-22,Salvador,277
+2026-04-23,Salvador,226
+2026-04-24,Salvador,236
+2026-04-25,Salvador,224
+2026-04-26,Salvador,230
+2026-04-27,Salvador,260
+2026-04-28,Salvador,281
+2026-04-29,Salvador,262
+2026-04-30,Salvador,258
+2026-05-01,Salvador,246
+2026-05-02,Salvador,208
+2026-05-03,Salvador,196
+2026-05-04,Salvador,258
+2026-05-05,Salvador,282
+2026-05-06,Salvador,239
+2026-05-07,Salvador,245
+2026-05-08,Salvador,221
+2026-05-09,Salvador,248
+2026-05-10,Salvador,196
+2026-05-11,Salvador,285
+2026-05-12,Salvador,272
+2026-05-13,Salvador,277
+2026-05-14,Salvador,267
+2026-05-15,Salvador,235
+2026-05-16,Salvador,226
+2026-05-17,Salvador,228
+2026-05-18,Salvador,261
+2026-05-19,Salvador,272
+2026-05-20,Salvador,304
+2026-05-21,Salvador,289
+2026-05-22,Salvador,253
+2026-05-23,Salvador,233
+2026-05-24,Salvador,215
+2026-05-25,Salvador,317
+2026-05-26,Salvador,285
+2026-05-27,Salvador,249
+2026-05-28,Salvador,268
+2026-05-29,Salvador,261
+2026-05-30,Salvador,204
+2026-05-31,Salvador,212
+2026-01-05,Belo Horizonte,304
+2026-01-06,Belo Horizonte,284
+2026-01-07,Belo Horizonte,230
+2026-01-08,Belo Horizonte,258
+2026-01-09,Belo Horizonte,224
+2026-01-10,Belo Horizonte,224
+2026-01-11,Belo Horizonte,194
+2026-01-12,Belo Horizonte,292
+2026-01-13,Belo Horizonte,232
+2026-01-14,Belo Horizonte,234
+2026-01-15,Belo Horizonte,236
+2026-01-16,Belo Horizonte,230
+2026-01-17,Belo Horizonte,210
+2026-01-18,Belo Horizonte,175
+2026-01-19,Belo Horizonte,282
+2026-01-20,Belo Horizonte,288
+2026-01-21,Belo Horizonte,255
+2026-01-22,Belo Horizonte,249
+2026-01-23,Belo Horizonte,248
+2026-01-24,Belo Horizonte,221
+2026-01-25,Belo Horizonte,198
+2026-01-26,Belo Horizonte,255
+2026-01-27,Belo Horizonte,244
+2026-01-28,Belo Horizonte,246
+2026-01-29,Belo Horizonte,245
+2026-01-30,Belo Horizonte,231
+2026-01-31,Belo Horizonte,213
+2026-02-01,Belo Horizonte,172
+2026-02-02,Belo Horizonte,266
+2026-02-03,Belo Horizonte,268
+2026-02-04,Belo Horizonte,270
+2026-02-05,Belo Horizonte,275
+2026-02-06,Belo Horizonte,266
+2026-02-07,Belo Horizonte,197
+2026-02-08,Belo Horizonte,196
+2026-02-09,Belo Horizonte,284
+2026-02-10,Belo Horizonte,277
+2026-02-11,Belo Horizonte,246
+2026-02-12,Belo Horizonte,248
+2026-02-13,Belo Horizonte,243
+2026-02-14,Belo Horizonte,160
+2026-02-15,Belo Horizonte,149
+2026-02-16,Belo Horizonte,205
+2026-02-17,Belo Horizonte,213
+2026-02-18,Belo Horizonte,277
+2026-02-19,Belo Horizonte,314
+2026-02-20,Belo Horizonte,297
+2026-02-21,Belo Horizonte,258
+2026-02-22,Belo Horizonte,211
+2026-02-23,Belo Horizonte,329
+2026-02-24,Belo Horizonte,283
+2026-02-25,Belo Horizonte,279
+2026-02-26,Belo Horizonte,265
+2026-02-27,Belo Horizonte,228
+2026-02-28,Belo Horizonte,206
+2026-03-01,Belo Horizonte,192
+2026-03-02,Belo Horizonte,311
+2026-03-03,Belo Horizonte,303
+2026-03-04,Belo Horizonte,271
+2026-03-05,Belo Horizonte,319
+2026-03-06,Belo Horizonte,284
+2026-03-07,Belo Horizonte,212
+2026-03-08,Belo Horizonte,203
+2026-03-09,Belo Horizonte,297
+2026-03-10,Belo Horizonte,233
+2026-03-11,Belo Horizonte,236
+2026-03-12,Belo Horizonte,248
+2026-03-13,Belo Horizonte,254
+2026-03-14,Belo Horizonte,204
+2026-03-15,Belo Horizonte,193
+2026-03-16,Belo Horizonte,272
+2026-03-17,Belo Horizonte,299
+2026-03-18,Belo Horizonte,287
+2026-03-19,Belo Horizonte,250
+2026-03-20,Belo Horizonte,237
+2026-03-21,Belo Horizonte,233
+2026-03-22,Belo Horizonte,188
+2026-03-23,Belo Horizonte,267
+2026-03-24,Belo Horizonte,289
+2026-03-25,Belo Horizonte,243
+2026-03-26,Belo Horizonte,239
+2026-03-27,Belo Horizonte,255
+2026-03-28,Belo Horizonte,227
+2026-03-29,Belo Horizonte,228
+2026-03-30,Belo Horizonte,271
+2026-03-31,Belo Horizonte,271
+2026-04-01,Belo Horizonte,260
+2026-04-02,Belo Horizonte,229
+2026-04-03,Belo Horizonte,268
+2026-04-04,Belo Horizonte,241
+2026-04-05,Belo Horizonte,241
+2026-04-06,Belo Horizonte,316
+2026-04-07,Belo Horizonte,266
+2026-04-08,Belo Horizonte,250
+2026-04-09,Belo Horizonte,237
+2026-04-10,Belo Horizonte,257
+2026-04-11,Belo Horizonte,241
+2026-04-12,Belo Horizonte,191
+2026-04-13,Belo Horizonte,276
+2026-04-14,Belo Horizonte,254
+2026-04-15,Belo Horizonte,260
+2026-04-16,Belo Horizonte,246
+2026-04-17,Belo Horizonte,253
+2026-04-18,Belo Horizonte,237
+2026-04-19,Belo Horizonte,197
+2026-04-20,Belo Horizonte,313
+2026-04-21,Belo Horizonte,304
+2026-04-22,Belo Horizonte,282
+2026-04-23,Belo Horizonte,250
+2026-04-24,Belo Horizonte,249
+2026-04-25,Belo Horizonte,208
+2026-04-26,Belo Horizonte,184
+2026-04-27,Belo Horizonte,311
+2026-04-28,Belo Horizonte,240
+2026-04-29,Belo Horizonte,263
+2026-04-30,Belo Horizonte,241
+2026-05-01,Belo Horizonte,234
+2026-05-02,Belo Horizonte,219
+2026-05-03,Belo Horizonte,211
+2026-05-04,Belo Horizonte,276
+2026-05-05,Belo Horizonte,301
+2026-05-06,Belo Horizonte,277
+2026-05-07,Belo Horizonte,258
+2026-05-08,Belo Horizonte,285
+2026-05-09,Belo Horizonte,252
+2026-05-10,Belo Horizonte,229
+2026-05-11,Belo Horizonte,296
+2026-05-12,Belo Horizonte,302
+2026-05-13,Belo Horizonte,282
+2026-05-14,Belo Horizonte,281
+2026-05-15,Belo Horizonte,264
+2026-05-16,Belo Horizonte,252
+2026-05-17,Belo Horizonte,198
+2026-05-18,Belo Horizonte,297
+2026-05-19,Belo Horizonte,301
+2026-05-20,Belo Horizonte,306
+2026-05-21,Belo Horizonte,285
+2026-05-22,Belo Horizonte,240
+2026-05-23,Belo Horizonte,251
+2026-05-24,Belo Horizonte,235
+2026-05-25,Belo Horizonte,352
+2026-05-26,Belo Horizonte,314
+2026-05-27,Belo Horizonte,295
+2026-05-28,Belo Horizonte,299
+2026-05-29,Belo Horizonte,269
+2026-05-30,Belo Horizonte,239
+2026-05-31,Belo Horizonte,203
+2026-01-05,Manaus,208
+2026-01-06,Manaus,207
+2026-01-07,Manaus,205
+2026-01-08,Manaus,183
+2026-01-09,Manaus,159
+2026-01-10,Manaus,157
+2026-01-11,Manaus,140
+2026-01-12,Manaus,194
+2026-01-13,Manaus,178
+2026-01-14,Manaus,214
+2026-01-15,Manaus,179
+2026-01-16,Manaus,162
+2026-01-17,Manaus,149
+2026-01-18,Manaus,158
+2026-01-19,Manaus,194
+2026-01-20,Manaus,215
+2026-01-21,Manaus,204
+2026-01-22,Manaus,186
+2026-01-23,Manaus,172
+2026-01-24,Manaus,142
+2026-01-25,Manaus,144
+2026-01-26,Manaus,200
+2026-01-27,Manaus,201
+2026-01-28,Manaus,174
+2026-01-29,Manaus,167
+2026-01-30,Manaus,173
+2026-01-31,Manaus,160
+2026-02-01,Manaus,142
+2026-02-02,Manaus,192
+2026-02-03,Manaus,196
+2026-02-04,Manaus,169
+2026-02-05,Manaus,203
+2026-02-06,Manaus,183
+2026-02-07,Manaus,152
+2026-02-08,Manaus,132
+2026-02-09,Manaus,209
+2026-02-10,Manaus,212
+2026-02-11,Manaus,177
+2026-02-12,Manaus,174
+2026-02-13,Manaus,151
+2026-02-14,Manaus,109
+2026-02-15,Manaus,106
+2026-02-16,Manaus,136
+2026-02-17,Manaus,139
+2026-02-18,Manaus,176
+2026-02-19,Manaus,164
+2026-02-20,Manaus,182
+2026-02-21,Manaus,169
+2026-02-22,Manaus,157
+2026-02-23,Manaus,205
+2026-02-24,Manaus,199
+2026-02-25,Manaus,187
+2026-02-26,Manaus,187
+2026-02-27,Manaus,193
+2026-02-28,Manaus,162
+2026-03-01,Manaus,160
+2026-03-02,Manaus,196
+2026-03-03,Manaus,193
+2026-03-04,Manaus,201
+2026-03-05,Manaus,227
+2026-03-06,Manaus,205
+2026-03-07,Manaus,176
+2026-03-08,Manaus,176
+2026-03-09,Manaus,231
+2026-03-10,Manaus,212
+2026-03-11,Manaus,208
+2026-03-12,Manaus,200
+2026-03-13,Manaus,197
+2026-03-14,Manaus,173
+2026-03-15,Manaus,166
+2026-03-16,Manaus,232
+2026-03-17,Manaus,202
+2026-03-18,Manaus,240
+2026-03-19,Manaus,183
+2026-03-20,Manaus,221
+2026-03-21,Manaus,181
+2026-03-22,Manaus,177
+2026-03-23,Manaus,188
+2026-03-24,Manaus,206
+2026-03-25,Manaus,170
+2026-03-26,Manaus,182
+2026-03-27,Manaus,168
+2026-03-28,Manaus,154
+2026-03-29,Manaus,152
+2026-03-30,Manaus,208
+2026-03-31,Manaus,183
+2026-04-01,Manaus,198
+2026-04-02,Manaus,204
+2026-04-03,Manaus,187
+2026-04-04,Manaus,161
+2026-04-05,Manaus,177
+2026-04-06,Manaus,216
+2026-04-07,Manaus,214
+2026-04-08,Manaus,226
+2026-04-09,Manaus,173
+2026-04-10,Manaus,212
+2026-04-11,Manaus,179
+2026-04-12,Manaus,183
+2026-04-13,Manaus,220
+2026-04-14,Manaus,215
+2026-04-15,Manaus,206
+2026-04-16,Manaus,223
+2026-04-17,Manaus,192
+2026-04-18,Manaus,177
+2026-04-19,Manaus,179
+2026-04-20,Manaus,223
+2026-04-21,Manaus,204
+2026-04-22,Manaus,206
+2026-04-23,Manaus,207
+2026-04-24,Manaus,167
+2026-04-25,Manaus,158
+2026-04-26,Manaus,149
+2026-04-27,Manaus,205
+2026-04-28,Manaus,217
+2026-04-29,Manaus,206
+2026-04-30,Manaus,204
+2026-05-01,Manaus,171
+2026-05-02,Manaus,169
+2026-05-03,Manaus,156
+2026-05-04,Manaus,178
+2026-05-05,Manaus,218
+2026-05-06,Manaus,202
+2026-05-07,Manaus,190
+2026-05-08,Manaus,181
+2026-05-09,Manaus,174
+2026-05-10,Manaus,134
+2026-05-11,Manaus,231
+2026-05-12,Manaus,204
+2026-05-13,Manaus,188
+2026-05-14,Manaus,195
+2026-05-15,Manaus,188
+2026-05-16,Manaus,155
+2026-05-17,Manaus,158
+2026-05-18,Manaus,207
+2026-05-19,Manaus,183
+2026-05-20,Manaus,208
+2026-05-21,Manaus,214
+2026-05-22,Manaus,195
+2026-05-23,Manaus,181
+2026-05-24,Manaus,177
+2026-05-25,Manaus,218
+2026-05-26,Manaus,202
+2026-05-27,Manaus,198
+2026-05-28,Manaus,199
+2026-05-29,Manaus,187
+2026-05-30,Manaus,190
+2026-05-31,Manaus,153
+2026-01-05,Curitiba,232
+2026-01-06,Curitiba,204
+2026-01-07,Curitiba,192
+2026-01-08,Curitiba,185
+2026-01-09,Curitiba,185
+2026-01-10,Curitiba,155
+2026-01-11,Curitiba,138
+2026-01-12,Curitiba,215
+2026-01-13,Curitiba,186
+2026-01-14,Curitiba,189
+2026-01-15,Curitiba,172
+2026-01-16,Curitiba,188
+2026-01-17,Curitiba,146
+2026-01-18,Curitiba,137
+2026-01-19,Curitiba,173
+2026-01-20,Curitiba,214
+2026-01-21,Curitiba,205
+2026-01-22,Curitiba,165
+2026-01-23,Curitiba,181
+2026-01-24,Curitiba,156
+2026-01-25,Curitiba,145
+2026-01-26,Curitiba,225
+2026-01-27,Curitiba,191
+2026-01-28,Curitiba,193
+2026-01-29,Curitiba,190
+2026-01-30,Curitiba,188
+2026-01-31,Curitiba,163
+2026-02-01,Curitiba,148
+2026-02-02,Curitiba,199
+2026-02-03,Curitiba,223
+2026-02-04,Curitiba,205
+2026-02-05,Curitiba,197
+2026-02-06,Curitiba,175
+2026-02-07,Curitiba,157
+2026-02-08,Curitiba,160
+2026-02-09,Curitiba,207
+2026-02-10,Curitiba,193
+2026-02-11,Curitiba,201
+2026-02-12,Curitiba,192
+2026-02-13,Curitiba,175
+2026-02-14,Curitiba,116
+2026-02-15,Curitiba,101
+2026-02-16,Curitiba,193
+2026-02-17,Curitiba,157
+2026-02-18,Curitiba,209
+2026-02-19,Curitiba,192
+2026-02-20,Curitiba,222
+2026-02-21,Curitiba,156
+2026-02-22,Curitiba,133
+2026-02-23,Curitiba,232
+2026-02-24,Curitiba,215
+2026-02-25,Curitiba,209
+2026-02-26,Curitiba,205
+2026-02-27,Curitiba,205
+2026-02-28,Curitiba,174
+2026-03-01,Curitiba,151
+2026-03-02,Curitiba,253
+2026-03-03,Curitiba,211
+2026-03-04,Curitiba,233
+2026-03-05,Curitiba,200
+2026-03-06,Curitiba,207
+2026-03-07,Curitiba,184
+2026-03-08,Curitiba,156
+2026-03-09,Curitiba,267
+2026-03-10,Curitiba,244
+2026-03-11,Curitiba,232
+2026-03-12,Curitiba,218
+2026-03-13,Curitiba,197
+2026-03-14,Curitiba,182
+2026-03-15,Curitiba,171
+2026-03-16,Curitiba,232
+2026-03-17,Curitiba,240
+2026-03-18,Curitiba,213
+2026-03-19,Curitiba,183
+2026-03-20,Curitiba,200
+2026-03-21,Curitiba,181
+2026-03-22,Curitiba,164
+2026-03-23,Curitiba,199
+2026-03-24,Curitiba,226
+2026-03-25,Curitiba,204
+2026-03-26,Curitiba,184
+2026-03-27,Curitiba,181
+2026-03-28,Curitiba,175
+2026-03-29,Curitiba,135
+2026-03-30,Curitiba,213
+2026-03-31,Curitiba,209
+2026-04-01,Curitiba,226
+2026-04-02,Curitiba,195
+2026-04-03,Curitiba,216
+2026-04-04,Curitiba,171
+2026-04-05,Curitiba,183
+2026-04-06,Curitiba,268
+2026-04-07,Curitiba,249
+2026-04-08,Curitiba,208
+2026-04-09,Curitiba,187
+2026-04-10,Curitiba,205
+2026-04-11,Curitiba,168
+2026-04-12,Curitiba,167
+2026-04-13,Curitiba,237
+2026-04-14,Curitiba,248
+2026-04-15,Curitiba,221
+2026-04-16,Curitiba,181
+2026-04-17,Curitiba,205
+2026-04-18,Curitiba,160
+2026-04-19,Curitiba,190
+2026-04-20,Curitiba,265
+2026-04-21,Curitiba,221
+2026-04-22,Curitiba,242
+2026-04-23,Curitiba,196
+2026-04-24,Curitiba,203
+2026-04-25,Curitiba,175
+2026-04-26,Curitiba,160
+2026-04-27,Curitiba,243
+2026-04-28,Curitiba,229
+2026-04-29,Curitiba,221
+2026-04-30,Curitiba,194
+2026-05-01,Curitiba,186
+2026-05-02,Curitiba,191
+2026-05-03,Curitiba,151
+2026-05-04,Curitiba,242
+2026-05-05,Curitiba,254
+2026-05-06,Curitiba,232
+2026-05-07,Curitiba,245
+2026-05-08,Curitiba,228
+2026-05-09,Curitiba,203
+2026-05-10,Curitiba,180
+2026-05-11,Curitiba,296
+2026-05-12,Curitiba,202
+2026-05-13,Curitiba,275
+2026-05-14,Curitiba,279
+2026-05-15,Curitiba,235
+2026-05-16,Curitiba,205
+2026-05-17,Curitiba,161
+2026-05-18,Curitiba,266
+2026-05-19,Curitiba,229
+2026-05-20,Curitiba,227
+2026-05-21,Curitiba,246
+2026-05-22,Curitiba,219
+2026-05-23,Curitiba,165
+2026-05-24,Curitiba,184
+2026-05-25,Curitiba,274
+2026-05-26,Curitiba,284
+2026-05-27,Curitiba,218
+2026-05-28,Curitiba,244
+2026-05-29,Curitiba,215
+2026-05-30,Curitiba,176
+2026-05-31,Curitiba,161
+2026-01-05,Recife,150
+2026-01-06,Recife,148
+2026-01-07,Recife,121
+2026-01-08,Recife,131
+2026-01-09,Recife,118
+2026-01-10,Recife,94
+2026-01-11,Recife,110
+2026-01-12,Recife,142
+2026-01-13,Recife,138
+2026-01-14,Recife,137
+2026-01-15,Recife,126
+2026-01-16,Recife,130
+2026-01-17,Recife,102
+2026-01-18,Recife,103
+2026-01-19,Recife,149
+2026-01-20,Recife,124
+2026-01-21,Recife,152
+2026-01-22,Recife,130
+2026-01-23,Recife,120
+2026-01-24,Recife,102
+2026-01-25,Recife,108
+2026-01-26,Recife,135
+2026-01-27,Recife,146
+2026-01-28,Recife,145
+2026-01-29,Recife,113
+2026-01-30,Recife,128
+2026-01-31,Recife,97
+2026-02-01,Recife,108
+2026-02-02,Recife,142
+2026-02-03,Recife,129
+2026-02-04,Recife,128
+2026-02-05,Recife,135
+2026-02-06,Recife,107
+2026-02-07,Recife,107
+2026-02-08,Recife,91
+2026-02-09,Recife,158
+2026-02-10,Recife,130
+2026-02-11,Recife,146
+2026-02-12,Recife,135
+2026-02-13,Recife,120
+2026-02-14,Recife,83
+2026-02-15,Recife,104
+2026-02-16,Recife,71
+2026-02-17,Recife,98
+2026-02-18,Recife,145
+2026-02-19,Recife,134
+2026-02-20,Recife,160
+2026-02-21,Recife,127
+2026-02-22,Recife,123
+2026-02-23,Recife,164
+2026-02-24,Recife,165
+2026-02-25,Recife,134
+2026-02-26,Recife,148
+2026-02-27,Recife,126
+2026-02-28,Recife,113
+2026-03-01,Recife,128
+2026-03-02,Recife,153
+2026-03-03,Recife,145
+2026-03-04,Recife,142
+2026-03-05,Recife,135
+2026-03-06,Recife,147
+2026-03-07,Recife,119
+2026-03-08,Recife,100
+2026-03-09,Recife,129
+2026-03-10,Recife,159
+2026-03-11,Recife,134
+2026-03-12,Recife,127
+2026-03-13,Recife,126
+2026-03-14,Recife,130
+2026-03-15,Recife,113
+2026-03-16,Recife,172
+2026-03-17,Recife,157
+2026-03-18,Recife,145
+2026-03-19,Recife,145
+2026-03-20,Recife,134
+2026-03-21,Recife,140
+2026-03-22,Recife,121
+2026-03-23,Recife,165
+2026-03-24,Recife,149
+2026-03-25,Recife,130
+2026-03-26,Recife,171
+2026-03-27,Recife,142
+2026-03-28,Recife,131
+2026-03-29,Recife,108
+2026-03-30,Recife,161
+2026-03-31,Recife,159
+2026-04-01,Recife,160
+2026-04-02,Recife,123
+2026-04-03,Recife,141
+2026-04-04,Recife,144
+2026-04-05,Recife,120
+2026-04-06,Recife,183
+2026-04-07,Recife,172
+2026-04-08,Recife,160
+2026-04-09,Recife,137
+2026-04-10,Recife,148
+2026-04-11,Recife,126
+2026-04-12,Recife,124
+2026-04-13,Recife,158
+2026-04-14,Recife,152
+2026-04-15,Recife,138
+2026-04-16,Recife,137
+2026-04-17,Recife,129
+2026-04-18,Recife,111
+2026-04-19,Recife,128
+2026-04-20,Recife,174
+2026-04-21,Recife,165
+2026-04-22,Recife,122
+2026-04-23,Recife,128
+2026-04-24,Recife,130
+2026-04-25,Recife,127
+2026-04-26,Recife,103
+2026-04-27,Recife,141
+2026-04-28,Recife,138
+2026-04-29,Recife,135
+2026-04-30,Recife,133
+2026-05-01,Recife,132
+2026-05-02,Recife,129
+2026-05-03,Recife,109
+2026-05-04,Recife,163
+2026-05-05,Recife,177
+2026-05-06,Recife,163
+2026-05-07,Recife,131
+2026-05-08,Recife,139
+2026-05-09,Recife,125
+2026-05-10,Recife,132
+2026-05-11,Recife,167
+2026-05-12,Recife,150
+2026-05-13,Recife,176
+2026-05-14,Recife,159
+2026-05-15,Recife,156
+2026-05-16,Recife,133
+2026-05-17,Recife,124
+2026-05-18,Recife,168
+2026-05-19,Recife,149
+2026-05-20,Recife,137
+2026-05-21,Recife,147
+2026-05-22,Recife,162
+2026-05-23,Recife,139
+2026-05-24,Recife,122
+2026-05-25,Recife,183
+2026-05-26,Recife,159
+2026-05-27,Recife,151
+2026-05-28,Recife,137
+2026-05-29,Recife,148
+2026-05-30,Recife,129
+2026-05-31,Recife,141
+2026-01-05,Goiânia,142
+2026-01-06,Goiânia,148
+2026-01-07,Goiânia,142
+2026-01-08,Goiânia,136
+2026-01-09,Goiânia,130
+2026-01-10,Goiânia,115
+2026-01-11,Goiânia,87
+2026-01-12,Goiânia,150
+2026-01-13,Goiânia,123
+2026-01-14,Goiânia,140
+2026-01-15,Goiânia,110
+2026-01-16,Goiânia,139
+2026-01-17,Goiânia,109
+2026-01-18,Goiânia,108
+2026-01-19,Goiânia,134
+2026-01-20,Goiânia,136
+2026-01-21,Goiânia,164
+2026-01-22,Goiânia,127
+2026-01-23,Goiânia,110
+2026-01-24,Goiânia,98
+2026-01-25,Goiânia,96
+2026-01-26,Goiânia,138
+2026-01-27,Goiânia,160
+2026-01-28,Goiânia,141
+2026-01-29,Goiânia,136
+2026-01-30,Goiânia,133
+2026-01-31,Goiânia,107
+2026-02-01,Goiânia,96
+2026-02-02,Goiânia,149
+2026-02-03,Goiânia,137
+2026-02-04,Goiânia,140
+2026-02-05,Goiânia,116
+2026-02-06,Goiânia,132
+2026-02-07,Goiânia,114
+2026-02-08,Goiânia,101
+2026-02-09,Goiânia,140
+2026-02-10,Goiânia,136
+2026-02-11,Goiânia,151
+2026-02-12,Goiânia,147
+2026-02-13,Goiânia,130
+2026-02-14,Goiânia,91
+2026-02-15,Goiânia,65
+2026-02-16,Goiânia,91
+2026-02-17,Goiânia,90
+2026-02-18,Goiânia,151
+2026-02-19,Goiânia,120
+2026-02-20,Goiânia,109
+2026-02-21,Goiânia,125
+2026-02-22,Goiânia,98
+2026-02-23,Goiânia,187
+2026-02-24,Goiânia,137
+2026-02-25,Goiânia,120
+2026-02-26,Goiânia,140
+2026-02-27,Goiânia,133
+2026-02-28,Goiânia,111
+2026-03-01,Goiânia,113
+2026-03-02,Goiânia,157
+2026-03-03,Goiânia,141
+2026-03-04,Goiânia,147
+2026-03-05,Goiânia,153
+2026-03-06,Goiânia,116
+2026-03-07,Goiânia,124
+2026-03-08,Goiânia,113
+2026-03-09,Goiânia,171
+2026-03-10,Goiânia,163
+2026-03-11,Goiânia,117
+2026-03-12,Goiânia,134
+2026-03-13,Goiânia,127
+2026-03-14,Goiânia,126
+2026-03-15,Goiânia,115
+2026-03-16,Goiânia,153
+2026-03-17,Goiânia,140
+2026-03-18,Goiânia,135
+2026-03-19,Goiânia,136
+2026-03-20,Goiânia,119
+2026-03-21,Goiânia,148
+2026-03-22,Goiânia,119
+2026-03-23,Goiânia,192
+2026-03-24,Goiânia,161
+2026-03-25,Goiânia,130
+2026-03-26,Goiânia,144
+2026-03-27,Goiânia,146
+2026-03-28,Goiânia,142
+2026-03-29,Goiânia,128
+2026-03-30,Goiânia,182
+2026-03-31,Goiânia,153
+2026-04-01,Goiânia,177
+2026-04-02,Goiânia,163
+2026-04-03,Goiânia,145
+2026-04-04,Goiânia,118
+2026-04-05,Goiânia,124
+2026-04-06,Goiânia,169
+2026-04-07,Goiânia,160
+2026-04-08,Goiânia,116
+2026-04-09,Goiânia,145
+2026-04-10,Goiânia,121
+2026-04-11,Goiânia,122
+2026-04-12,Goiânia,121
+2026-04-13,Goiânia,159
+2026-04-14,Goiânia,158
+2026-04-15,Goiânia,153
+2026-04-16,Goiânia,138
+2026-04-17,Goiânia,152
+2026-04-18,Goiânia,114
+2026-04-19,Goiânia,105
+2026-04-20,Goiânia,169
+2026-04-21,Goiânia,163
+2026-04-22,Goiânia,146
+2026-04-23,Goiânia,153
+2026-04-24,Goiânia,145
+2026-04-25,Goiânia,119
+2026-04-26,Goiânia,114
+2026-04-27,Goiânia,176
+2026-04-28,Goiânia,155
+2026-04-29,Goiânia,138
+2026-04-30,Goiânia,145
+2026-05-01,Goiânia,129
+2026-05-02,Goiânia,116
+2026-05-03,Goiânia,113
+2026-05-04,Goiânia,172
+2026-05-05,Goiânia,143
+2026-05-06,Goiânia,126
+2026-05-07,Goiânia,145
+2026-05-08,Goiânia,121
+2026-05-09,Goiânia,101
+2026-05-10,Goiânia,117
+2026-05-11,Goiânia,174
+2026-05-12,Goiânia,165
+2026-05-13,Goiânia,166
+2026-05-14,Goiânia,163
+2026-05-15,Goiânia,153
+2026-05-16,Goiânia,112
+2026-05-17,Goiânia,113
+2026-05-18,Goiânia,167
+2026-05-19,Goiânia,128
+2026-05-20,Goiânia,176
+2026-05-21,Goiânia,172
+2026-05-22,Goiânia,134
+2026-05-23,Goiânia,112
+2026-05-24,Goiânia,126
+2026-05-25,Goiânia,179
+2026-05-26,Goiânia,161
+2026-05-27,Goiânia,137
+2026-05-28,Goiânia,147
+2026-05-29,Goiânia,125
+2026-05-30,Goiânia,113
+2026-05-31,Goiânia,110
+2026-01-05,Porto Alegre,117
+2026-01-06,Porto Alegre,128
+2026-01-07,Porto Alegre,114
+2026-01-08,Porto Alegre,107
+2026-01-09,Porto Alegre,127
+2026-01-10,Porto Alegre,92
+2026-01-11,Porto Alegre,97
+2026-01-12,Porto Alegre,150
+2026-01-13,Porto Alegre,103
+2026-01-14,Porto Alegre,119
+2026-01-15,Porto Alegre,125
+2026-01-16,Porto Alegre,109
+2026-01-17,Porto Alegre,99
+2026-01-18,Porto Alegre,87
+2026-01-19,Porto Alegre,117
+2026-01-20,Porto Alegre,128
+2026-01-21,Porto Alegre,128
+2026-01-22,Porto Alegre,103
+2026-01-23,Porto Alegre,118
+2026-01-24,Porto Alegre,93
+2026-01-25,Porto Alegre,89
+2026-01-26,Porto Alegre,162
+2026-01-27,Porto Alegre,128
+2026-01-28,Porto Alegre,110
+2026-01-29,Porto Alegre,99
+2026-01-30,Porto Alegre,101
+2026-01-31,Porto Alegre,121
+2026-02-01,Porto Alegre,88
+2026-02-02,Porto Alegre,131
+2026-02-03,Porto Alegre,118
+2026-02-04,Porto Alegre,112
+2026-02-05,Porto Alegre,139
+2026-02-06,Porto Alegre,123
+2026-02-07,Porto Alegre,103
+2026-02-08,Porto Alegre,82
+2026-02-09,Porto Alegre,150
+2026-02-10,Porto Alegre,100
+2026-02-11,Porto Alegre,118
+2026-02-12,Porto Alegre,127
+2026-02-13,Porto Alegre,125
+2026-02-14,Porto Alegre,57
+2026-02-15,Porto Alegre,72
+2026-02-16,Porto Alegre,88
+2026-02-17,Porto Alegre,80
+2026-02-18,Porto Alegre,132
+2026-02-19,Porto Alegre,122
+2026-02-20,Porto Alegre,142
+2026-02-21,Porto Alegre,95
+2026-02-22,Porto Alegre,88
+2026-02-23,Porto Alegre,134
+2026-02-24,Porto Alegre,122
+2026-02-25,Porto Alegre,136
+2026-02-26,Porto Alegre,134
+2026-02-27,Porto Alegre,112
+2026-02-28,Porto Alegre,95
+2026-03-01,Porto Alegre,101
+2026-03-02,Porto Alegre,136
+2026-03-03,Porto Alegre,118
+2026-03-04,Porto Alegre,116
+2026-03-05,Porto Alegre,129
+2026-03-06,Porto Alegre,120
+2026-03-07,Porto Alegre,108
+2026-03-08,Porto Alegre,98
+2026-03-09,Porto Alegre,118
+2026-03-10,Porto Alegre,134
+2026-03-11,Porto Alegre,120
+2026-03-12,Porto Alegre,117
+2026-03-13,Porto Alegre,105
+2026-03-14,Porto Alegre,91
+2026-03-15,Porto Alegre,106
+2026-03-16,Porto Alegre,152
+2026-03-17,Porto Alegre,126
+2026-03-18,Porto Alegre,106
+2026-03-19,Porto Alegre,134
+2026-03-20,Porto Alegre,144
+2026-03-21,Porto Alegre,114
+2026-03-22,Porto Alegre,97
+2026-03-23,Porto Alegre,126
+2026-03-24,Porto Alegre,144
+2026-03-25,Porto Alegre,128
+2026-03-26,Porto Alegre,118
+2026-03-27,Porto Alegre,118
+2026-03-28,Porto Alegre,123
+2026-03-29,Porto Alegre,100
+2026-03-30,Porto Alegre,126
+2026-03-31,Porto Alegre,146
+2026-04-01,Porto Alegre,116
+2026-04-02,Porto Alegre,136
+2026-04-03,Porto Alegre,126
+2026-04-04,Porto Alegre,116
+2026-04-05,Porto Alegre,115
+2026-04-06,Porto Alegre,157
+2026-04-07,Porto Alegre,128
+2026-04-08,Porto Alegre,136
+2026-04-09,Porto Alegre,134
+2026-04-10,Porto Alegre,110
+2026-04-11,Porto Alegre,108
+2026-04-12,Porto Alegre,94
+2026-04-13,Porto Alegre,122
+2026-04-14,Porto Alegre,116
+2026-04-15,Porto Alegre,111
+2026-04-16,Porto Alegre,103
+2026-04-17,Porto Alegre,97
+2026-04-18,Porto Alegre,89
+2026-04-19,Porto Alegre,110
+2026-04-20,Porto Alegre,131
+2026-04-21,Porto Alegre,107
+2026-04-22,Porto Alegre,113
+2026-04-23,Porto Alegre,124
+2026-04-24,Porto Alegre,118
+2026-04-25,Porto Alegre,118
+2026-04-26,Porto Alegre,79
+2026-04-27,Porto Alegre,147
+2026-04-28,Porto Alegre,127
+2026-04-29,Porto Alegre,140
+2026-04-30,Porto Alegre,132
+2026-05-01,Porto Alegre,106
+2026-05-02,Porto Alegre,97
+2026-05-03,Porto Alegre,102
+2026-05-04,Porto Alegre,151
+2026-05-05,Porto Alegre,141
+2026-05-06,Porto Alegre,140
+2026-05-07,Porto Alegre,129
+2026-05-08,Porto Alegre,111
+2026-05-09,Porto Alegre,81
+2026-05-10,Porto Alegre,110
+2026-05-11,Porto Alegre,146
+2026-05-12,Porto Alegre,128
+2026-05-13,Porto Alegre,125
+2026-05-14,Porto Alegre,136
+2026-05-15,Porto Alegre,148
+2026-05-16,Porto Alegre,118
+2026-05-17,Porto Alegre,104
+2026-05-18,Porto Alegre,139
+2026-05-19,Porto Alegre,128
+2026-05-20,Porto Alegre,143
+2026-05-21,Porto Alegre,140
+2026-05-22,Porto Alegre,139
+2026-05-23,Porto Alegre,132
+2026-05-24,Porto Alegre,92
+2026-05-25,Porto Alegre,131
+2026-05-26,Porto Alegre,141
+2026-05-27,Porto Alegre,123
+2026-05-28,Porto Alegre,140
+2026-05-29,Porto Alegre,122
+2026-05-30,Porto Alegre,97
+2026-05-31,Porto Alegre,119
+2026-01-05,Belém,168
+2026-01-06,Belém,150
+2026-01-07,Belém,129
+2026-01-08,Belém,140
+2026-01-09,Belém,145
+2026-01-10,Belém,113
+2026-01-11,Belém,90
+2026-01-12,Belém,140
+2026-01-13,Belém,170
+2026-01-14,Belém,118
+2026-01-15,Belém,133
+2026-01-16,Belém,129
+2026-01-17,Belém,105
+2026-01-18,Belém,98
+2026-01-19,Belém,143
+2026-01-20,Belém,135
+2026-01-21,Belém,156
+2026-01-22,Belém,119
+2026-01-23,Belém,157
+2026-01-24,Belém,102
+2026-01-25,Belém,97
+2026-01-26,Belém,158
+2026-01-27,Belém,151
+2026-01-28,Belém,149
+2026-01-29,Belém,129
+2026-01-30,Belém,125
+2026-01-31,Belém,109
+2026-02-01,Belém,92
+2026-02-02,Belém,165
+2026-02-03,Belém,139
+2026-02-04,Belém,130
+2026-02-05,Belém,147
+2026-02-06,Belém,148
+2026-02-07,Belém,111
+2026-02-08,Belém,108
+2026-02-09,Belém,178
+2026-02-10,Belém,153
+2026-02-11,Belém,150
+2026-02-12,Belém,135
+2026-02-13,Belém,124
+2026-02-14,Belém,82
+2026-02-15,Belém,52
+2026-02-16,Belém,108
+2026-02-17,Belém,116
+2026-02-18,Belém,129
+2026-02-19,Belém,127
+2026-02-20,Belém,121
+2026-02-21,Belém,136
+2026-02-22,Belém,106
+2026-02-23,Belém,148
+2026-02-24,Belém,132
+2026-02-25,Belém,153
+2026-02-26,Belém,130
+2026-02-27,Belém,121
+2026-02-28,Belém,115
+2026-03-01,Belém,101
+2026-03-02,Belém,170
+2026-03-03,Belém,168
+2026-03-04,Belém,164
+2026-03-05,Belém,157
+2026-03-06,Belém,163
+2026-03-07,Belém,124
+2026-03-08,Belém,117
+2026-03-09,Belém,155
+2026-03-10,Belém,163
+2026-03-11,Belém,174
+2026-03-12,Belém,146
+2026-03-13,Belém,155
+2026-03-14,Belém,126
+2026-03-15,Belém,128
+2026-03-16,Belém,166
+2026-03-17,Belém,162
+2026-03-18,Belém,150
+2026-03-19,Belém,149
+2026-03-20,Belém,148
+2026-03-21,Belém,130
+2026-03-22,Belém,137
+2026-03-23,Belém,157
+2026-03-24,Belém,160
+2026-03-25,Belém,155
+2026-03-26,Belém,153
+2026-03-27,Belém,145
+2026-03-28,Belém,142
+2026-03-29,Belém,118
+2026-03-30,Belém,163
+2026-03-31,Belém,159
+2026-04-01,Belém,147
+2026-04-02,Belém,135
+2026-04-03,Belém,145
+2026-04-04,Belém,110
+2026-04-05,Belém,124
+2026-04-06,Belém,182
+2026-04-07,Belém,170
+2026-04-08,Belém,147
+2026-04-09,Belém,146
+2026-04-10,Belém,152
+2026-04-11,Belém,131
+2026-04-12,Belém,124
+2026-04-13,Belém,166
+2026-04-14,Belém,160
+2026-04-15,Belém,153
+2026-04-16,Belém,143
+2026-04-17,Belém,124
+2026-04-18,Belém,119
+2026-04-19,Belém,99
+2026-04-20,Belém,172
+2026-04-21,Belém,156
+2026-04-22,Belém,144
+2026-04-23,Belém,138
+2026-04-24,Belém,158
+2026-04-25,Belém,119
+2026-04-26,Belém,109
+2026-04-27,Belém,168
+2026-04-28,Belém,141
+2026-04-29,Belém,123
+2026-04-30,Belém,147
+2026-05-01,Belém,126
+2026-05-02,Belém,107
+2026-05-03,Belém,127
+2026-05-04,Belém,155
+2026-05-05,Belém,154
+2026-05-06,Belém,150
+2026-05-07,Belém,160
+2026-05-08,Belém,135
+2026-05-09,Belém,152
+2026-05-10,Belém,125
+2026-05-11,Belém,197
+2026-05-12,Belém,135
+2026-05-13,Belém,141
+2026-05-14,Belém,155
+2026-05-15,Belém,129
+2026-05-16,Belém,128
+2026-05-17,Belém,125
+2026-05-18,Belém,166
+2026-05-19,Belém,161
+2026-05-20,Belém,129
+2026-05-21,Belém,135
+2026-05-22,Belém,148
+2026-05-23,Belém,125
+2026-05-24,Belém,125
+2026-05-25,Belém,182
+2026-05-26,Belém,156
+2026-05-27,Belém,148
+2026-05-28,Belém,136
+2026-05-29,Belém,148
+2026-05-30,Belém,107
+2026-05-31,Belém,111
+2026-01-05,Guarulhos,143
+2026-01-06,Guarulhos,123
+2026-01-07,Guarulhos,133
+2026-01-08,Guarulhos,100
+2026-01-09,Guarulhos,82
+2026-01-10,Guarulhos,79
+2026-01-11,Guarulhos,78
+2026-01-12,Guarulhos,105
+2026-01-13,Guarulhos,112
+2026-01-14,Guarulhos,88
+2026-01-15,Guarulhos,85
+2026-01-16,Guarulhos,83
+2026-01-17,Guarulhos,74
+2026-01-18,Guarulhos,72
+2026-01-19,Guarulhos,104
+2026-01-20,Guarulhos,130
+2026-01-21,Guarulhos,103
+2026-01-22,Guarulhos,95
+2026-01-23,Guarulhos,113
+2026-01-24,Guarulhos,97
+2026-01-25,Guarulhos,68
+2026-01-26,Guarulhos,124
+2026-01-27,Guarulhos,116
+2026-01-28,Guarulhos,133
+2026-01-29,Guarulhos,98
+2026-01-30,Guarulhos,107
+2026-01-31,Guarulhos,75
+2026-02-01,Guarulhos,105
+2026-02-02,Guarulhos,114
+2026-02-03,Guarulhos,113
+2026-02-04,Guarulhos,117
+2026-02-05,Guarulhos,121
+2026-02-06,Guarulhos,97
+2026-02-07,Guarulhos,96
+2026-02-08,Guarulhos,92
+2026-02-09,Guarulhos,106
+2026-02-10,Guarulhos,113
+2026-02-11,Guarulhos,118
+2026-02-12,Guarulhos,109
+2026-02-13,Guarulhos,97
+2026-02-14,Guarulhos,57
+2026-02-15,Guarulhos,74
+2026-02-16,Guarulhos,89
+2026-02-17,Guarulhos,82
+2026-02-18,Guarulhos,101
+2026-02-19,Guarulhos,98
+2026-02-20,Guarulhos,113
+2026-02-21,Guarulhos,110
+2026-02-22,Guarulhos,99
+2026-02-23,Guarulhos,131
+2026-02-24,Guarulhos,135
+2026-02-25,Guarulhos,132
+2026-02-26,Guarulhos,117
+2026-02-27,Guarulhos,117
+2026-02-28,Guarulhos,87
+2026-03-01,Guarulhos,82
+2026-03-02,Guarulhos,126
+2026-03-03,Guarulhos,115
+2026-03-04,Guarulhos,116
+2026-03-05,Guarulhos,111
+2026-03-06,Guarulhos,113
+2026-03-07,Guarulhos,95
+2026-03-08,Guarulhos,88
+2026-03-09,Guarulhos,103
+2026-03-10,Guarulhos,125
+2026-03-11,Guarulhos,91
+2026-03-12,Guarulhos,107
+2026-03-13,Guarulhos,137
+2026-03-14,Guarulhos,76
+2026-03-15,Guarulhos,78
+2026-03-16,Guarulhos,124
+2026-03-17,Guarulhos,103
+2026-03-18,Guarulhos,114
+2026-03-19,Guarulhos,124
+2026-03-20,Guarulhos,116
+2026-03-21,Guarulhos,115
+2026-03-22,Guarulhos,78
+2026-03-23,Guarulhos,122
+2026-03-24,Guarulhos,129
+2026-03-25,Guarulhos,124
+2026-03-26,Guarulhos,126
+2026-03-27,Guarulhos,105
+2026-03-28,Guarulhos,95
+2026-03-29,Guarulhos,92
+2026-03-30,Guarulhos,115
+2026-03-31,Guarulhos,123
+2026-04-01,Guarulhos,128
+2026-04-02,Guarulhos,115
+2026-04-03,Guarulhos,113
+2026-04-04,Guarulhos,85
+2026-04-05,Guarulhos,103
+2026-04-06,Guarulhos,139
+2026-04-07,Guarulhos,110
+2026-04-08,Guarulhos,111
+2026-04-09,Guarulhos,115
+2026-04-10,Guarulhos,114
+2026-04-11,Guarulhos,92
+2026-04-12,Guarulhos,93
+2026-04-13,Guarulhos,132
+2026-04-14,Guarulhos,115
+2026-04-15,Guarulhos,91
+2026-04-16,Guarulhos,84
+2026-04-17,Guarulhos,110
+2026-04-18,Guarulhos,99
+2026-04-19,Guarulhos,83
+2026-04-20,Guarulhos,156
+2026-04-21,Guarulhos,151
+2026-04-22,Guarulhos,120
+2026-04-23,Guarulhos,101
+2026-04-24,Guarulhos,114
+2026-04-25,Guarulhos,86
+2026-04-26,Guarulhos,71
+2026-04-27,Guarulhos,140
+2026-04-28,Guarulhos,122
+2026-04-29,Guarulhos,121
+2026-04-30,Guarulhos,113
+2026-05-01,Guarulhos,107
+2026-05-02,Guarulhos,87
+2026-05-03,Guarulhos,83
+2026-05-04,Guarulhos,128
+2026-05-05,Guarulhos,140
+2026-05-06,Guarulhos,150
+2026-05-07,Guarulhos,136
+2026-05-08,Guarulhos,127
+2026-05-09,Guarulhos,93
+2026-05-10,Guarulhos,98
+2026-05-11,Guarulhos,146
+2026-05-12,Guarulhos,132
+2026-05-13,Guarulhos,115
+2026-05-14,Guarulhos,138
+2026-05-15,Guarulhos,144
+2026-05-16,Guarulhos,113
+2026-05-17,Guarulhos,104
+2026-05-18,Guarulhos,143
+2026-05-19,Guarulhos,108
+2026-05-20,Guarulhos,141
+2026-05-21,Guarulhos,109
+2026-05-22,Guarulhos,102
+2026-05-23,Guarulhos,108
+2026-05-24,Guarulhos,95
+2026-05-25,Guarulhos,133
+2026-05-26,Guarulhos,141
+2026-05-27,Guarulhos,120
+2026-05-28,Guarulhos,114
+2026-05-29,Guarulhos,110
+2026-05-30,Guarulhos,111
+2026-05-31,Guarulhos,101
+2026-01-05,Campinas,102
+2026-01-06,Campinas,105
+2026-01-07,Campinas,80
+2026-01-08,Campinas,101
+2026-01-09,Campinas,85
+2026-01-10,Campinas,76
+2026-01-11,Campinas,78
+2026-01-12,Campinas,90
+2026-01-13,Campinas,97
+2026-01-14,Campinas,83
+2026-01-15,Campinas,60
+2026-01-16,Campinas,62
+2026-01-17,Campinas,76
+2026-01-18,Campinas,56
+2026-01-19,Campinas,86
+2026-01-20,Campinas,87
+2026-01-21,Campinas,81
+2026-01-22,Campinas,93
+2026-01-23,Campinas,84
+2026-01-24,Campinas,75
+2026-01-25,Campinas,70
+2026-01-26,Campinas,112
+2026-01-27,Campinas,94
+2026-01-28,Campinas,103
+2026-01-29,Campinas,93
+2026-01-30,Campinas,84
+2026-01-31,Campinas,70
+2026-02-01,Campinas,73
+2026-02-02,Campinas,116
+2026-02-03,Campinas,115
+2026-02-04,Campinas,82
+2026-02-05,Campinas,110
+2026-02-06,Campinas,100
+2026-02-07,Campinas,67
+2026-02-08,Campinas,77
+2026-02-09,Campinas,119
+2026-02-10,Campinas,117
+2026-02-11,Campinas,99
+2026-02-12,Campinas,93
+2026-02-13,Campinas,99
+2026-02-14,Campinas,55
+2026-02-15,Campinas,58
+2026-02-16,Campinas,82
+2026-02-17,Campinas,77
+2026-02-18,Campinas,111
+2026-02-19,Campinas,93
+2026-02-20,Campinas,88
+2026-02-21,Campinas,90
+2026-02-22,Campinas,77
+2026-02-23,Campinas,107
+2026-02-24,Campinas,120
+2026-02-25,Campinas,100
+2026-02-26,Campinas,104
+2026-02-27,Campinas,97
+2026-02-28,Campinas,81
+2026-03-01,Campinas,88
+2026-03-02,Campinas,97
+2026-03-03,Campinas,103
+2026-03-04,Campinas,112
+2026-03-05,Campinas,100
+2026-03-06,Campinas,93
+2026-03-07,Campinas,90
+2026-03-08,Campinas,86
+2026-03-09,Campinas,94
+2026-03-10,Campinas,106
+2026-03-11,Campinas,85
+2026-03-12,Campinas,81
+2026-03-13,Campinas,86
+2026-03-14,Campinas,92
+2026-03-15,Campinas,71
+2026-03-16,Campinas,98
+2026-03-17,Campinas,106
+2026-03-18,Campinas,94
+2026-03-19,Campinas,98
+2026-03-20,Campinas,85
+2026-03-21,Campinas,86
+2026-03-22,Campinas,63
+2026-03-23,Campinas,101
+2026-03-24,Campinas,107
+2026-03-25,Campinas,104
+2026-03-26,Campinas,96
+2026-03-27,Campinas,100
+2026-03-28,Campinas,88
+2026-03-29,Campinas,76
+2026-03-30,Campinas,109
+2026-03-31,Campinas,108
+2026-04-01,Campinas,92
+2026-04-02,Campinas,94
+2026-04-03,Campinas,101
+2026-04-04,Campinas,78
+2026-04-05,Campinas,88
+2026-04-06,Campinas,121
+2026-04-07,Campinas,99
+2026-04-08,Campinas,93
+2026-04-09,Campinas,92
+2026-04-10,Campinas,84
+2026-04-11,Campinas,77
+2026-04-12,Campinas,70
+2026-04-13,Campinas,115
+2026-04-14,Campinas,86
+2026-04-15,Campinas,96
+2026-04-16,Campinas,83
+2026-04-17,Campinas,82
+2026-04-18,Campinas,76
+2026-04-19,Campinas,83
+2026-04-20,Campinas,127
+2026-04-21,Campinas,105
+2026-04-22,Campinas,89
+2026-04-23,Campinas,82
+2026-04-24,Campinas,95
+2026-04-25,Campinas,84
+2026-04-26,Campinas,78
+2026-04-27,Campinas,91
+2026-04-28,Campinas,115
+2026-04-29,Campinas,97
+2026-04-30,Campinas,86
+2026-05-01,Campinas,98
+2026-05-02,Campinas,64
+2026-05-03,Campinas,78
+2026-05-04,Campinas,119
+2026-05-05,Campinas,124
+2026-05-06,Campinas,135
+2026-05-07,Campinas,106
+2026-05-08,Campinas,91
+2026-05-09,Campinas,88
+2026-05-10,Campinas,78
+2026-05-11,Campinas,104
+2026-05-12,Campinas,100
+2026-05-13,Campinas,115
+2026-05-14,Campinas,104
+2026-05-15,Campinas,103
+2026-05-16,Campinas,111
+2026-05-17,Campinas,76
+2026-05-18,Campinas,106
+2026-05-19,Campinas,81
+2026-05-20,Campinas,124
+2026-05-21,Campinas,105
+2026-05-22,Campinas,88
+2026-05-23,Campinas,81
+2026-05-24,Campinas,74
+2026-05-25,Campinas,112
+2026-05-26,Campinas,84
+2026-05-27,Campinas,105
+2026-05-28,Campinas,105
+2026-05-29,Campinas,103
+2026-05-30,Campinas,97
+2026-05-31,Campinas,90
+2026-01-05,São Luís,141
+2026-01-06,São Luís,137
+2026-01-07,São Luís,118
+2026-01-08,São Luís,100
+2026-01-09,São Luís,112
+2026-01-10,São Luís,99
+2026-01-11,São Luís,94
+2026-01-12,São Luís,123
+2026-01-13,São Luís,106
+2026-01-14,São Luís,117
+2026-01-15,São Luís,118
+2026-01-16,São Luís,86
+2026-01-17,São Luís,110
+2026-01-18,São Luís,103
+2026-01-19,São Luís,137
+2026-01-20,São Luís,130
+2026-01-21,São Luís,122
+2026-01-22,São Luís,103
+2026-01-23,São Luís,122
+2026-01-24,São Luís,99
+2026-01-25,São Luís,103
+2026-01-26,São Luís,140
+2026-01-27,São Luís,149
+2026-01-28,São Luís,128
+2026-01-29,São Luís,117
+2026-01-30,São Luís,122
+2026-01-31,São Luís,90
+2026-02-01,São Luís,81
+2026-02-02,São Luís,122
+2026-02-03,São Luís,120
+2026-02-04,São Luís,117
+2026-02-05,São Luís,139
+2026-02-06,São Luís,142
+2026-02-07,São Luís,104
+2026-02-08,São Luís,95
+2026-02-09,São Luís,121
+2026-02-10,São Luís,135
+2026-02-11,São Luís,128
+2026-02-12,São Luís,136
+2026-02-13,São Luís,126
+2026-02-14,São Luís,81
+2026-02-15,São Luís,73
+2026-02-16,São Luís,112
+2026-02-17,São Luís,102
+2026-02-18,São Luís,142
+2026-02-19,São Luís,99
+2026-02-20,São Luís,128
+2026-02-21,São Luís,122
+2026-02-22,São Luís,95
+2026-02-23,São Luís,146
+2026-02-24,São Luís,134
+2026-02-25,São Luís,144
+2026-02-26,São Luís,136
+2026-02-27,São Luís,146
+2026-02-28,São Luís,134
+2026-03-01,São Luís,116
+2026-03-02,São Luís,146
+2026-03-03,São Luís,145
+2026-03-04,São Luís,117
+2026-03-05,São Luís,133
+2026-03-06,São Luís,142
+2026-03-07,São Luís,120
+2026-03-08,São Luís,92
+2026-03-09,São Luís,159
+2026-03-10,São Luís,133
+2026-03-11,São Luís,132
+2026-03-12,São Luís,114
+2026-03-13,São Luís,109
+2026-03-14,São Luís,100
+2026-03-15,São Luís,103
+2026-03-16,São Luís,148
+2026-03-17,São Luís,145
+2026-03-18,São Luís,136
+2026-03-19,São Luís,131
+2026-03-20,São Luís,127
+2026-03-21,São Luís,124
+2026-03-22,São Luís,96
+2026-03-23,São Luís,145
+2026-03-24,São Luís,132
+2026-03-25,São Luís,137
+2026-03-26,São Luís,149
+2026-03-27,São Luís,108
+2026-03-28,São Luís,90
+2026-03-29,São Luís,95
+2026-03-30,São Luís,143
+2026-03-31,São Luís,136
+2026-04-01,São Luís,122
+2026-04-02,São Luís,113
+2026-04-03,São Luís,148
+2026-04-04,São Luís,132
+2026-04-05,São Luís,131
+2026-04-06,São Luís,144
+2026-04-07,São Luís,115
+2026-04-08,São Luís,144
+2026-04-09,São Luís,129
+2026-04-10,São Luís,111
+2026-04-11,São Luís,118
+2026-04-12,São Luís,129
+2026-04-13,São Luís,160
+2026-04-14,São Luís,136
+2026-04-15,São Luís,137
+2026-04-16,São Luís,120
+2026-04-17,São Luís,114
+2026-04-18,São Luís,113
+2026-04-19,São Luís,117
+2026-04-20,São Luís,137
+2026-04-21,São Luís,124
+2026-04-22,São Luís,131
+2026-04-23,São Luís,113
+2026-04-24,São Luís,114
+2026-04-25,São Luís,114
+2026-04-26,São Luís,83
+2026-04-27,São Luís,165
+2026-04-28,São Luís,121
+2026-04-29,São Luís,135
+2026-04-30,São Luís,131
+2026-05-01,São Luís,126
+2026-05-02,São Luís,97
+2026-05-03,São Luís,130
+2026-05-04,São Luís,140
+2026-05-05,São Luís,144
+2026-05-06,São Luís,125
+2026-05-07,São Luís,132
+2026-05-08,São Luís,119
+2026-05-09,São Luís,98
+2026-05-10,São Luís,113
+2026-05-11,São Luís,141
+2026-05-12,São Luís,119
+2026-05-13,São Luís,145
+2026-05-14,São Luís,120
+2026-05-15,São Luís,137
+2026-05-16,São Luís,112
+2026-05-17,São Luís,83
+2026-05-18,São Luís,136
+2026-05-19,São Luís,122
+2026-05-20,São Luís,135
+2026-05-21,São Luís,126
+2026-05-22,São Luís,129
+2026-05-23,São Luís,96
+2026-05-24,São Luís,105
+2026-05-25,São Luís,152
+2026-05-26,São Luís,147
+2026-05-27,São Luís,127
+2026-05-28,São Luís,126
+2026-05-29,São Luís,135
+2026-05-30,São Luís,115
+2026-05-31,São Luís,104
+2026-01-05,Maceió,97
+2026-01-06,Maceió,108
+2026-01-07,Maceió,92
+2026-01-08,Maceió,79
+2026-01-09,Maceió,92
+2026-01-10,Maceió,78
+2026-01-11,Maceió,87
+2026-01-12,Maceió,109
+2026-01-13,Maceió,116
+2026-01-14,Maceió,97
+2026-01-15,Maceió,108
+2026-01-16,Maceió,88
+2026-01-17,Maceió,78
+2026-01-18,Maceió,68
+2026-01-19,Maceió,130
+2026-01-20,Maceió,129
+2026-01-21,Maceió,129
+2026-01-22,Maceió,94
+2026-01-23,Maceió,82
+2026-01-24,Maceió,80
+2026-01-25,Maceió,79
+2026-01-26,Maceió,105
+2026-01-27,Maceió,131
+2026-01-28,Maceió,101
+2026-01-29,Maceió,94
+2026-01-30,Maceió,88
+2026-01-31,Maceió,99
+2026-02-01,Maceió,80
+2026-02-02,Maceió,100
+2026-02-03,Maceió,114
+2026-02-04,Maceió,88
+2026-02-05,Maceió,100
+2026-02-06,Maceió,93
+2026-02-07,Maceió,85
+2026-02-08,Maceió,89
+2026-02-09,Maceió,118
+2026-02-10,Maceió,108
+2026-02-11,Maceió,98
+2026-02-12,Maceió,96
+2026-02-13,Maceió,107
+2026-02-14,Maceió,65
+2026-02-15,Maceió,60
+2026-02-16,Maceió,84
+2026-02-17,Maceió,93
+2026-02-18,Maceió,123
+2026-02-19,Maceió,92
+2026-02-20,Maceió,128
+2026-02-21,Maceió,100
+2026-02-22,Maceió,76
+2026-02-23,Maceió,145
+2026-02-24,Maceió,127
+2026-02-25,Maceió,123
+2026-02-26,Maceió,113
+2026-02-27,Maceió,118
+2026-02-28,Maceió,93
+2026-03-01,Maceió,85
+2026-03-02,Maceió,103
+2026-03-03,Maceió,123
+2026-03-04,Maceió,120
+2026-03-05,Maceió,110
+2026-03-06,Maceió,103
+2026-03-07,Maceió,83
+2026-03-08,Maceió,85
+2026-03-09,Maceió,119
+2026-03-10,Maceió,88
+2026-03-11,Maceió,123
+2026-03-12,Maceió,95
+2026-03-13,Maceió,105
+2026-03-14,Maceió,107
+2026-03-15,Maceió,81
+2026-03-16,Maceió,141
+2026-03-17,Maceió,111
+2026-03-18,Maceió,105
+2026-03-19,Maceió,123
+2026-03-20,Maceió,113
+2026-03-21,Maceió,86
+2026-03-22,Maceió,87
+2026-03-23,Maceió,108
+2026-03-24,Maceió,103
+2026-03-25,Maceió,124
+2026-03-26,Maceió,114
+2026-03-27,Maceió,100
+2026-03-28,Maceió,94
+2026-03-29,Maceió,95
+2026-03-30,Maceió,106
+2026-03-31,Maceió,118
+2026-04-01,Maceió,123
+2026-04-02,Maceió,103
+2026-04-03,Maceió,99
+2026-04-04,Maceió,73
+2026-04-05,Maceió,84
+2026-04-06,Maceió,130
+2026-04-07,Maceió,100
+2026-04-08,Maceió,96
+2026-04-09,Maceió,106
+2026-04-10,Maceió,79
+2026-04-11,Maceió,68
+2026-04-12,Maceió,84
+2026-04-13,Maceió,111
+2026-04-14,Maceió,92
+2026-04-15,Maceió,114
+2026-04-16,Maceió,89
+2026-04-17,Maceió,111
+2026-04-18,Maceió,98
+2026-04-19,Maceió,78
+2026-04-20,Maceió,116
+2026-04-21,Maceió,141
+2026-04-22,Maceió,84
+2026-04-23,Maceió,94
+2026-04-24,Maceió,117
+2026-04-25,Maceió,91
+2026-04-26,Maceió,96
+2026-04-27,Maceió,108
+2026-04-28,Maceió,102
+2026-04-29,Maceió,92
+2026-04-30,Maceió,115
+2026-05-01,Maceió,113
+2026-05-02,Maceió,99
+2026-05-03,Maceió,84
+2026-05-04,Maceió,111
+2026-05-05,Maceió,135
+2026-05-06,Maceió,117
+2026-05-07,Maceió,121
+2026-05-08,Maceió,89
+2026-05-09,Maceió,83
+2026-05-10,Maceió,67
+2026-05-11,Maceió,129
+2026-05-12,Maceió,120
+2026-05-13,Maceió,128
+2026-05-14,Maceió,105
+2026-05-15,Maceió,106
+2026-05-16,Maceió,92
+2026-05-17,Maceió,94
+2026-05-18,Maceió,125
+2026-05-19,Maceió,104
+2026-05-20,Maceió,114
+2026-05-21,Maceió,102
+2026-05-22,Maceió,104
+2026-05-23,Maceió,85
+2026-05-24,Maceió,94
+2026-05-25,Maceió,114
+2026-05-26,Maceió,122
+2026-05-27,Maceió,126
+2026-05-28,Maceió,106
+2026-05-29,Maceió,103
+2026-05-30,Maceió,95
+2026-05-31,Maceió,94
+2026-01-05,Campo Grande,105
+2026-01-06,Campo Grande,106
+2026-01-07,Campo Grande,93
+2026-01-08,Campo Grande,82
+2026-01-09,Campo Grande,96
+2026-01-10,Campo Grande,84
+2026-01-11,Campo Grande,56
+2026-01-12,Campo Grande,114
+2026-01-13,Campo Grande,91
+2026-01-14,Campo Grande,85
+2026-01-15,Campo Grande,96
+2026-01-16,Campo Grande,80
+2026-01-17,Campo Grande,78
+2026-01-18,Campo Grande,73
+2026-01-19,Campo Grande,117
+2026-01-20,Campo Grande,87
+2026-01-21,Campo Grande,104
+2026-01-22,Campo Grande,85
+2026-01-23,Campo Grande,104
+2026-01-24,Campo Grande,80
+2026-01-25,Campo Grande,75
+2026-01-26,Campo Grande,105
+2026-01-27,Campo Grande,93
+2026-01-28,Campo Grande,102
+2026-01-29,Campo Grande,87
+2026-01-30,Campo Grande,91
+2026-01-31,Campo Grande,84
+2026-02-01,Campo Grande,82
+2026-02-02,Campo Grande,97
+2026-02-03,Campo Grande,97
+2026-02-04,Campo Grande,98
+2026-02-05,Campo Grande,83
+2026-02-06,Campo Grande,92
+2026-02-07,Campo Grande,95
+2026-02-08,Campo Grande,78
+2026-02-09,Campo Grande,119
+2026-02-10,Campo Grande,108
+2026-02-11,Campo Grande,90
+2026-02-12,Campo Grande,93
+2026-02-13,Campo Grande,89
+2026-02-14,Campo Grande,66
+2026-02-15,Campo Grande,49
+2026-02-16,Campo Grande,63
+2026-02-17,Campo Grande,70
+2026-02-18,Campo Grande,109
+2026-02-19,Campo Grande,79
+2026-02-20,Campo Grande,100
+2026-02-21,Campo Grande,92
+2026-02-22,Campo Grande,91
+2026-02-23,Campo Grande,95
+2026-02-24,Campo Grande,110
+2026-02-25,Campo Grande,96
+2026-02-26,Campo Grande,95
+2026-02-27,Campo Grande,92
+2026-02-28,Campo Grande,87
+2026-03-01,Campo Grande,83
+2026-03-02,Campo Grande,121
+2026-03-03,Campo Grande,112
+2026-03-04,Campo Grande,107
+2026-03-05,Campo Grande,107
+2026-03-06,Campo Grande,115
+2026-03-07,Campo Grande,96
+2026-03-08,Campo Grande,64
+2026-03-09,Campo Grande,122
+2026-03-10,Campo Grande,118
+2026-03-11,Campo Grande,119
+2026-03-12,Campo Grande,109
+2026-03-13,Campo Grande,124
+2026-03-14,Campo Grande,93
+2026-03-15,Campo Grande,98
+2026-03-16,Campo Grande,112
+2026-03-17,Campo Grande,115
+2026-03-18,Campo Grande,102
+2026-03-19,Campo Grande,112
+2026-03-20,Campo Grande,91
+2026-03-21,Campo Grande,80
+2026-03-22,Campo Grande,80
+2026-03-23,Campo Grande,126
+2026-03-24,Campo Grande,123
+2026-03-25,Campo Grande,132
+2026-03-26,Campo Grande,109
+2026-03-27,Campo Grande,97
+2026-03-28,Campo Grande,84
+2026-03-29,Campo Grande,104
+2026-03-30,Campo Grande,104
+2026-03-31,Campo Grande,113
+2026-04-01,Campo Grande,107
+2026-04-02,Campo Grande,95
+2026-04-03,Campo Grande,94
+2026-04-04,Campo Grande,74
+2026-04-05,Campo Grande,74
+2026-04-06,Campo Grande,110
+2026-04-07,Campo Grande,91
+2026-04-08,Campo Grande,92
+2026-04-09,Campo Grande,86
+2026-04-10,Campo Grande,114
+2026-04-11,Campo Grande,105
+2026-04-12,Campo Grande,79
+2026-04-13,Campo Grande,100
+2026-04-14,Campo Grande,84
+2026-04-15,Campo Grande,97
+2026-04-16,Campo Grande,91
+2026-04-17,Campo Grande,83
+2026-04-18,Campo Grande,77
+2026-04-19,Campo Grande,63
+2026-04-20,Campo Grande,114
+2026-04-21,Campo Grande,87
+2026-04-22,Campo Grande,89
+2026-04-23,Campo Grande,107
+2026-04-24,Campo Grande,78
+2026-04-25,Campo Grande,74
+2026-04-26,Campo Grande,89
+2026-04-27,Campo Grande,108
+2026-04-28,Campo Grande,107
+2026-04-29,Campo Grande,107
+2026-04-30,Campo Grande,93
+2026-05-01,Campo Grande,94
+2026-05-02,Campo Grande,73
+2026-05-03,Campo Grande,65
+2026-05-04,Campo Grande,99
+2026-05-05,Campo Grande,109
+2026-05-06,Campo Grande,106
+2026-05-07,Campo Grande,82
+2026-05-08,Campo Grande,92
+2026-05-09,Campo Grande,79
+2026-05-10,Campo Grande,69
+2026-05-11,Campo Grande,94
+2026-05-12,Campo Grande,118
+2026-05-13,Campo Grande,99
+2026-05-14,Campo Grande,115
+2026-05-15,Campo Grande,86
+2026-05-16,Campo Grande,75
+2026-05-17,Campo Grande,69
+2026-05-18,Campo Grande,123
+2026-05-19,Campo Grande,94
+2026-05-20,Campo Grande,121
+2026-05-21,Campo Grande,121
+2026-05-22,Campo Grande,94
+2026-05-23,Campo Grande,100
+2026-05-24,Campo Grande,83
+2026-05-25,Campo Grande,140
+2026-05-26,Campo Grande,101
+2026-05-27,Campo Grande,99
+2026-05-28,Campo Grande,109
+2026-05-29,Campo Grande,90
+2026-05-30,Campo Grande,77
+2026-05-31,Campo Grande,59
+2026-01-05,Teresina,98
+2026-01-06,Teresina,92
+2026-01-07,Teresina,86
+2026-01-08,Teresina,78
+2026-01-09,Teresina,68
+2026-01-10,Teresina,64
+2026-01-11,Teresina,49
+2026-01-12,Teresina,90
+2026-01-13,Teresina,85
+2026-01-14,Teresina,86
+2026-01-15,Teresina,85
+2026-01-16,Teresina,77
+2026-01-17,Teresina,66
+2026-01-18,Teresina,56
+2026-01-19,Teresina,107
+2026-01-20,Teresina,98
+2026-01-21,Teresina,107
+2026-01-22,Teresina,64
+2026-01-23,Teresina,80
+2026-01-24,Teresina,85
+2026-01-25,Teresina,66
+2026-01-26,Teresina,79
+2026-01-27,Teresina,79
+2026-01-28,Teresina,74
+2026-01-29,Teresina,62
+2026-01-30,Teresina,81
+2026-01-31,Teresina,79
+2026-02-01,Teresina,69
+2026-02-02,Teresina,89
+2026-02-03,Teresina,66
+2026-02-04,Teresina,84
+2026-02-05,Teresina,111
+2026-02-06,Teresina,91
+2026-02-07,Teresina,89
+2026-02-08,Teresina,61
+2026-02-09,Teresina,100
+2026-02-10,Teresina,81
+2026-02-11,Teresina,109
+2026-02-12,Teresina,62
+2026-02-13,Teresina,91
+2026-02-14,Teresina,51
+2026-02-15,Teresina,42
+2026-02-16,Teresina,71
+2026-02-17,Teresina,59
+2026-02-18,Teresina,78
+2026-02-19,Teresina,104
+2026-02-20,Teresina,91
+2026-02-21,Teresina,92
+2026-02-22,Teresina,76
+2026-02-23,Teresina,87
+2026-02-24,Teresina,92
+2026-02-25,Teresina,110
+2026-02-26,Teresina,84
+2026-02-27,Teresina,101
+2026-02-28,Teresina,81
+2026-03-01,Teresina,64
+2026-03-02,Teresina,100
+2026-03-03,Teresina,87
+2026-03-04,Teresina,101
+2026-03-05,Teresina,89
+2026-03-06,Teresina,81
+2026-03-07,Teresina,81
+2026-03-08,Teresina,65
+2026-03-09,Teresina,99
+2026-03-10,Teresina,87
+2026-03-11,Teresina,90
+2026-03-12,Teresina,79
+2026-03-13,Teresina,81
+2026-03-14,Teresina,62
+2026-03-15,Teresina,83
+2026-03-16,Teresina,97
+2026-03-17,Teresina,75
+2026-03-18,Teresina,91
+2026-03-19,Teresina,83
+2026-03-20,Teresina,84
+2026-03-21,Teresina,88
+2026-03-22,Teresina,72
+2026-03-23,Teresina,101
+2026-03-24,Teresina,96
+2026-03-25,Teresina,85
+2026-03-26,Teresina,81
+2026-03-27,Teresina,83
+2026-03-28,Teresina,66
+2026-03-29,Teresina,80
+2026-03-30,Teresina,92
+2026-03-31,Teresina,82
+2026-04-01,Teresina,99
+2026-04-02,Teresina,89
+2026-04-03,Teresina,90
+2026-04-04,Teresina,61
+2026-04-05,Teresina,62
+2026-04-06,Teresina,87
+2026-04-07,Teresina,109
+2026-04-08,Teresina,87
+2026-04-09,Teresina,85
+2026-04-10,Teresina,96
+2026-04-11,Teresina,72
+2026-04-12,Teresina,81
+2026-04-13,Teresina,101
+2026-04-14,Teresina,92
+2026-04-15,Teresina,87
+2026-04-16,Teresina,96
+2026-04-17,Teresina,97
+2026-04-18,Teresina,85
+2026-04-19,Teresina,66
+2026-04-20,Teresina,116
+2026-04-21,Teresina,97
+2026-04-22,Teresina,94
+2026-04-23,Teresina,98
+2026-04-24,Teresina,81
+2026-04-25,Teresina,67
+2026-04-26,Teresina,76
+2026-04-27,Teresina,98
+2026-04-28,Teresina,110
+2026-04-29,Teresina,96
+2026-04-30,Teresina,75
+2026-05-01,Teresina,82
+2026-05-02,Teresina,67
+2026-05-03,Teresina,57
+2026-05-04,Teresina,117
+2026-05-05,Teresina,85
+2026-05-06,Teresina,98
+2026-05-07,Teresina,75
+2026-05-08,Teresina,73
+2026-05-09,Teresina,69
+2026-05-10,Teresina,68
+2026-05-11,Teresina,95
+2026-05-12,Teresina,98
+2026-05-13,Teresina,87
+2026-05-14,Teresina,93
+2026-05-15,Teresina,63
+2026-05-16,Teresina,78
+2026-05-17,Teresina,70
+2026-05-18,Teresina,96
+2026-05-19,Teresina,87
+2026-05-20,Teresina,84
+2026-05-21,Teresina,91
+2026-05-22,Teresina,78
+2026-05-23,Teresina,87
+2026-05-24,Teresina,69
+2026-05-25,Teresina,105
+2026-05-26,Teresina,94
+2026-05-27,Teresina,72
+2026-05-28,Teresina,97
+2026-05-29,Teresina,60
+2026-05-30,Teresina,72
+2026-05-31,Teresina,66
+2026-01-05,João Pessoa,110
+2026-01-06,João Pessoa,102
+2026-01-07,João Pessoa,81
+2026-01-08,João Pessoa,60
+2026-01-09,João Pessoa,65
+2026-01-10,João Pessoa,70
+2026-01-11,João Pessoa,63
+2026-01-12,João Pessoa,83
+2026-01-13,João Pessoa,84
+2026-01-14,João Pessoa,98
+2026-01-15,João Pessoa,84
+2026-01-16,João Pessoa,77
+2026-01-17,João Pessoa,71
+2026-01-18,João Pessoa,58
+2026-01-19,João Pessoa,81
+2026-01-20,João Pessoa,91
+2026-01-21,João Pessoa,100
+2026-01-22,João Pessoa,73
+2026-01-23,João Pessoa,79
+2026-01-24,João Pessoa,93
+2026-01-25,João Pessoa,63
+2026-01-26,João Pessoa,101
+2026-01-27,João Pessoa,89
+2026-01-28,João Pessoa,105
+2026-01-29,João Pessoa,83
+2026-01-30,João Pessoa,91
+2026-01-31,João Pessoa,77
+2026-02-01,João Pessoa,58
+2026-02-02,João Pessoa,87
+2026-02-03,João Pessoa,93
+2026-02-04,João Pessoa,103
+2026-02-05,João Pessoa,80
+2026-02-06,João Pessoa,87
+2026-02-07,João Pessoa,67
+2026-02-08,João Pessoa,54
+2026-02-09,João Pessoa,99
+2026-02-10,João Pessoa,82
+2026-02-11,João Pessoa,69
+2026-02-12,João Pessoa,75
+2026-02-13,João Pessoa,80
+2026-02-14,João Pessoa,60
+2026-02-15,João Pessoa,55
+2026-02-16,João Pessoa,72
+2026-02-17,João Pessoa,68
+2026-02-18,João Pessoa,91
+2026-02-19,João Pessoa,92
+2026-02-20,João Pessoa,98
+2026-02-21,João Pessoa,78
+2026-02-22,João Pessoa,76
+2026-02-23,João Pessoa,124
+2026-02-24,João Pessoa,103
+2026-02-25,João Pessoa,98
+2026-02-26,João Pessoa,96
+2026-02-27,João Pessoa,94
+2026-02-28,João Pessoa,81
+2026-03-01,João Pessoa,61
+2026-03-02,João Pessoa,100
+2026-03-03,João Pessoa,104
+2026-03-04,João Pessoa,101
+2026-03-05,João Pessoa,87
+2026-03-06,João Pessoa,83
+2026-03-07,João Pessoa,63
+2026-03-08,João Pessoa,64
+2026-03-09,João Pessoa,134
+2026-03-10,João Pessoa,110
+2026-03-11,João Pessoa,102
+2026-03-12,João Pessoa,87
+2026-03-13,João Pessoa,90
+2026-03-14,João Pessoa,75
+2026-03-15,João Pessoa,65
+2026-03-16,João Pessoa,92
+2026-03-17,João Pessoa,85
+2026-03-18,João Pessoa,89
+2026-03-19,João Pessoa,83
+2026-03-20,João Pessoa,83
+2026-03-21,João Pessoa,90
+2026-03-22,João Pessoa,62
+2026-03-23,João Pessoa,95
+2026-03-24,João Pessoa,105
+2026-03-25,João Pessoa,95
+2026-03-26,João Pessoa,86
+2026-03-27,João Pessoa,87
+2026-03-28,João Pessoa,78
+2026-03-29,João Pessoa,73
+2026-03-30,João Pessoa,127
+2026-03-31,João Pessoa,86
+2026-04-01,João Pessoa,98
+2026-04-02,João Pessoa,83
+2026-04-03,João Pessoa,86
+2026-04-04,João Pessoa,88
+2026-04-05,João Pessoa,69
+2026-04-06,João Pessoa,123
+2026-04-07,João Pessoa,118
+2026-04-08,João Pessoa,75
+2026-04-09,João Pessoa,82
+2026-04-10,João Pessoa,86
+2026-04-11,João Pessoa,74
+2026-04-12,João Pessoa,55
+2026-04-13,João Pessoa,103
+2026-04-14,João Pessoa,81
+2026-04-15,João Pessoa,70
+2026-04-16,João Pessoa,75
+2026-04-17,João Pessoa,90
+2026-04-18,João Pessoa,71
+2026-04-19,João Pessoa,71
+2026-04-20,João Pessoa,114
+2026-04-21,João Pessoa,91
+2026-04-22,João Pessoa,87
+2026-04-23,João Pessoa,79
+2026-04-24,João Pessoa,81
+2026-04-25,João Pessoa,72
+2026-04-26,João Pessoa,74
+2026-04-27,João Pessoa,96
+2026-04-28,João Pessoa,108
+2026-04-29,João Pessoa,87
+2026-04-30,João Pessoa,86
+2026-05-01,João Pessoa,93
+2026-05-02,João Pessoa,69
+2026-05-03,João Pessoa,77
+2026-05-04,João Pessoa,92
+2026-05-05,João Pessoa,105
+2026-05-06,João Pessoa,89
+2026-05-07,João Pessoa,84
+2026-05-08,João Pessoa,66
+2026-05-09,João Pessoa,63
+2026-05-10,João Pessoa,54
+2026-05-11,João Pessoa,108
+2026-05-12,João Pessoa,100
+2026-05-13,João Pessoa,82
+2026-05-14,João Pessoa,100
+2026-05-15,João Pessoa,78
+2026-05-16,João Pessoa,68
+2026-05-17,João Pessoa,63
+2026-05-18,João Pessoa,126
+2026-05-19,João Pessoa,88
+2026-05-20,João Pessoa,106
+2026-05-21,João Pessoa,87
+2026-05-22,João Pessoa,77
+2026-05-23,João Pessoa,80
+2026-05-24,João Pessoa,67
+2026-05-25,João Pessoa,102
+2026-05-26,João Pessoa,120
+2026-05-27,João Pessoa,103
+2026-05-28,João Pessoa,85
+2026-05-29,João Pessoa,78
+2026-05-30,João Pessoa,63
+2026-05-31,João Pessoa,59
+2026-01-05,Natal,93
+2026-01-06,Natal,66
+2026-01-07,Natal,77
+2026-01-08,Natal,78
+2026-01-09,Natal,64
+2026-01-10,Natal,55
+2026-01-11,Natal,64
+2026-01-12,Natal,61
+2026-01-13,Natal,75
+2026-01-14,Natal,72
+2026-01-15,Natal,69
+2026-01-16,Natal,64
+2026-01-17,Natal,61
+2026-01-18,Natal,56
+2026-01-19,Natal,74
+2026-01-20,Natal,97
+2026-01-21,Natal,88
+2026-01-22,Natal,71
+2026-01-23,Natal,63
+2026-01-24,Natal,77
+2026-01-25,Natal,67
+2026-01-26,Natal,76
+2026-01-27,Natal,73
+2026-01-28,Natal,75
+2026-01-29,Natal,74
+2026-01-30,Natal,79
+2026-01-31,Natal,59
+2026-02-01,Natal,59
+2026-02-02,Natal,84
+2026-02-03,Natal,87
+2026-02-04,Natal,85
+2026-02-05,Natal,81
+2026-02-06,Natal,92
+2026-02-07,Natal,75
+2026-02-08,Natal,76
+2026-02-09,Natal,96
+2026-02-10,Natal,83
+2026-02-11,Natal,77
+2026-02-12,Natal,71
+2026-02-13,Natal,77
+2026-02-14,Natal,43
+2026-02-15,Natal,62
+2026-02-16,Natal,80
+2026-02-17,Natal,74
+2026-02-18,Natal,96
+2026-02-19,Natal,85
+2026-02-20,Natal,86
+2026-02-21,Natal,78
+2026-02-22,Natal,72
+2026-02-23,Natal,107
+2026-02-24,Natal,84
+2026-02-25,Natal,89
+2026-02-26,Natal,81
+2026-02-27,Natal,79
+2026-02-28,Natal,79
+2026-03-01,Natal,74
+2026-03-02,Natal,100
+2026-03-03,Natal,85
+2026-03-04,Natal,80
+2026-03-05,Natal,94
+2026-03-06,Natal,83
+2026-03-07,Natal,62
+2026-03-08,Natal,65
+2026-03-09,Natal,109
+2026-03-10,Natal,91
+2026-03-11,Natal,96
+2026-03-12,Natal,83
+2026-03-13,Natal,82
+2026-03-14,Natal,84
+2026-03-15,Natal,57
+2026-03-16,Natal,107
+2026-03-17,Natal,93
+2026-03-18,Natal,93
+2026-03-19,Natal,70
+2026-03-20,Natal,82
+2026-03-21,Natal,71
+2026-03-22,Natal,74
+2026-03-23,Natal,81
+2026-03-24,Natal,103
+2026-03-25,Natal,81
+2026-03-26,Natal,84
+2026-03-27,Natal,106
+2026-03-28,Natal,79
+2026-03-29,Natal,74
+2026-03-30,Natal,116
+2026-03-31,Natal,100
+2026-04-01,Natal,90
+2026-04-02,Natal,90
+2026-04-03,Natal,76
+2026-04-04,Natal,74
+2026-04-05,Natal,77
+2026-04-06,Natal,89
+2026-04-07,Natal,83
+2026-04-08,Natal,87
+2026-04-09,Natal,84
+2026-04-10,Natal,69
+2026-04-11,Natal,64
+2026-04-12,Natal,59
+2026-04-13,Natal,87
+2026-04-14,Natal,102
+2026-04-15,Natal,70
+2026-04-16,Natal,73
+2026-04-17,Natal,62
+2026-04-18,Natal,92
+2026-04-19,Natal,59
+2026-04-20,Natal,101
+2026-04-21,Natal,93
+2026-04-22,Natal,83
+2026-04-23,Natal,81
+2026-04-24,Natal,82
+2026-04-25,Natal,69
+2026-04-26,Natal,69
+2026-04-27,Natal,87
+2026-04-28,Natal,96
+2026-04-29,Natal,86
+2026-04-30,Natal,100
+2026-05-01,Natal,78
+2026-05-02,Natal,74
+2026-05-03,Natal,68
+2026-05-04,Natal,102
+2026-05-05,Natal,81
+2026-05-06,Natal,92
+2026-05-07,Natal,94
+2026-05-08,Natal,73
+2026-05-09,Natal,91
+2026-05-10,Natal,60
+2026-05-11,Natal,93
+2026-05-12,Natal,84
+2026-05-13,Natal,94
+2026-05-14,Natal,91
+2026-05-15,Natal,80
+2026-05-16,Natal,98
+2026-05-17,Natal,75
+2026-05-18,Natal,109
+2026-05-19,Natal,89
+2026-05-20,Natal,81
+2026-05-21,Natal,98
+2026-05-22,Natal,93
+2026-05-23,Natal,78
+2026-05-24,Natal,62
+2026-05-25,Natal,94
+2026-05-26,Natal,88
+2026-05-27,Natal,82
+2026-05-28,Natal,64
+2026-05-29,Natal,74
+2026-05-30,Natal,71
+2026-05-31,Natal,60
+2026-01-05,Ribeirão Preto,70
+2026-01-06,Ribeirão Preto,50
+2026-01-07,Ribeirão Preto,60
+2026-01-08,Ribeirão Preto,55
+2026-01-09,Ribeirão Preto,47
+2026-01-10,Ribeirão Preto,42
+2026-01-11,Ribeirão Preto,32
+2026-01-12,Ribeirão Preto,56
+2026-01-13,Ribeirão Preto,55
+2026-01-14,Ribeirão Preto,51
+2026-01-15,Ribeirão Preto,55
+2026-01-16,Ribeirão Preto,60
+2026-01-17,Ribeirão Preto,54
+2026-01-18,Ribeirão Preto,43
+2026-01-19,Ribeirão Preto,51
+2026-01-20,Ribeirão Preto,67
+2026-01-21,Ribeirão Preto,67
+2026-01-22,Ribeirão Preto,59
+2026-01-23,Ribeirão Preto,60
+2026-01-24,Ribeirão Preto,44
+2026-01-25,Ribeirão Preto,36
+2026-01-26,Ribeirão Preto,54
+2026-01-27,Ribeirão Preto,71
+2026-01-28,Ribeirão Preto,57
+2026-01-29,Ribeirão Preto,52
+2026-01-30,Ribeirão Preto,52
+2026-01-31,Ribeirão Preto,37
+2026-02-01,Ribeirão Preto,43
+2026-02-02,Ribeirão Preto,52
+2026-02-03,Ribeirão Preto,57
+2026-02-04,Ribeirão Preto,71
+2026-02-05,Ribeirão Preto,63
+2026-02-06,Ribeirão Preto,51
+2026-02-07,Ribeirão Preto,53
+2026-02-08,Ribeirão Preto,48
+2026-02-09,Ribeirão Preto,65
+2026-02-10,Ribeirão Preto,60
+2026-02-11,Ribeirão Preto,63
+2026-02-12,Ribeirão Preto,67
+2026-02-13,Ribeirão Preto,47
+2026-02-14,Ribeirão Preto,31
+2026-02-15,Ribeirão Preto,29
+2026-02-16,Ribeirão Preto,42
+2026-02-17,Ribeirão Preto,47
+2026-02-18,Ribeirão Preto,60
+2026-02-19,Ribeirão Preto,60
+2026-02-20,Ribeirão Preto,66
+2026-02-21,Ribeirão Preto,64
+2026-02-22,Ribeirão Preto,33
+2026-02-23,Ribeirão Preto,64
+2026-02-24,Ribeirão Preto,71
+2026-02-25,Ribeirão Preto,65
+2026-02-26,Ribeirão Preto,55
+2026-02-27,Ribeirão Preto,58
+2026-02-28,Ribeirão Preto,53
+2026-03-01,Ribeirão Preto,43
+2026-03-02,Ribeirão Preto,71
+2026-03-03,Ribeirão Preto,70
+2026-03-04,Ribeirão Preto,60
+2026-03-05,Ribeirão Preto,68
+2026-03-06,Ribeirão Preto,62
+2026-03-07,Ribeirão Preto,54
+2026-03-08,Ribeirão Preto,58
+2026-03-09,Ribeirão Preto,80
+2026-03-10,Ribeirão Preto,56
+2026-03-11,Ribeirão Preto,66
+2026-03-12,Ribeirão Preto,70
+2026-03-13,Ribeirão Preto,67
+2026-03-14,Ribeirão Preto,46
+2026-03-15,Ribeirão Preto,38
+2026-03-16,Ribeirão Preto,74
+2026-03-17,Ribeirão Preto,52
+2026-03-18,Ribeirão Preto,62
+2026-03-19,Ribeirão Preto,69
+2026-03-20,Ribeirão Preto,71
+2026-03-21,Ribeirão Preto,58
+2026-03-22,Ribeirão Preto,45
+2026-03-23,Ribeirão Preto,63
+2026-03-24,Ribeirão Preto,57
+2026-03-25,Ribeirão Preto,54
+2026-03-26,Ribeirão Preto,62
+2026-03-27,Ribeirão Preto,63
+2026-03-28,Ribeirão Preto,61
+2026-03-29,Ribeirão Preto,53
+2026-03-30,Ribeirão Preto,65
+2026-03-31,Ribeirão Preto,61
+2026-04-01,Ribeirão Preto,67
+2026-04-02,Ribeirão Preto,67
+2026-04-03,Ribeirão Preto,61
+2026-04-04,Ribeirão Preto,51
+2026-04-05,Ribeirão Preto,53
+2026-04-06,Ribeirão Preto,69
+2026-04-07,Ribeirão Preto,55
+2026-04-08,Ribeirão Preto,62
+2026-04-09,Ribeirão Preto,71
+2026-04-10,Ribeirão Preto,65
+2026-04-11,Ribeirão Preto,50
+2026-04-12,Ribeirão Preto,51
+2026-04-13,Ribeirão Preto,68
+2026-04-14,Ribeirão Preto,60
+2026-04-15,Ribeirão Preto,79
+2026-04-16,Ribeirão Preto,60
+2026-04-17,Ribeirão Preto,61
+2026-04-18,Ribeirão Preto,42
+2026-04-19,Ribeirão Preto,38
+2026-04-20,Ribeirão Preto,83
+2026-04-21,Ribeirão Preto,72
+2026-04-22,Ribeirão Preto,68
+2026-04-23,Ribeirão Preto,69
+2026-04-24,Ribeirão Preto,58
+2026-04-25,Ribeirão Preto,50
+2026-04-26,Ribeirão Preto,42
+2026-04-27,Ribeirão Preto,68
+2026-04-28,Ribeirão Preto,67
+2026-04-29,Ribeirão Preto,60
+2026-04-30,Ribeirão Preto,65
+2026-05-01,Ribeirão Preto,58
+2026-05-02,Ribeirão Preto,48
+2026-05-03,Ribeirão Preto,57
+2026-05-04,Ribeirão Preto,77
+2026-05-05,Ribeirão Preto,84
+2026-05-06,Ribeirão Preto,53
+2026-05-07,Ribeirão Preto,71
+2026-05-08,Ribeirão Preto,67
+2026-05-09,Ribeirão Preto,50
+2026-05-10,Ribeirão Preto,48
+2026-05-11,Ribeirão Preto,70
+2026-05-12,Ribeirão Preto,78
+2026-05-13,Ribeirão Preto,69
+2026-05-14,Ribeirão Preto,61
+2026-05-15,Ribeirão Preto,55
+2026-05-16,Ribeirão Preto,51
+2026-05-17,Ribeirão Preto,41
+2026-05-18,Ribeirão Preto,81
+2026-05-19,Ribeirão Preto,74
+2026-05-20,Ribeirão Preto,73
+2026-05-21,Ribeirão Preto,59
+2026-05-22,Ribeirão Preto,59
+2026-05-23,Ribeirão Preto,55
+2026-05-24,Ribeirão Preto,49
+2026-05-25,Ribeirão Preto,71
+2026-05-26,Ribeirão Preto,74
+2026-05-27,Ribeirão Preto,61
+2026-05-28,Ribeirão Preto,77
+2026-05-29,Ribeirão Preto,58
+2026-05-30,Ribeirão Preto,56
+2026-05-31,Ribeirão Preto,47
+2026-01-05,Uberlândia,89
+2026-01-06,Uberlândia,62
+2026-01-07,Uberlândia,71
+2026-01-08,Uberlândia,68
+2026-01-09,Uberlândia,73
+2026-01-10,Uberlândia,57
+2026-01-11,Uberlândia,44
+2026-01-12,Uberlândia,71
+2026-01-13,Uberlândia,66
+2026-01-14,Uberlândia,65
+2026-01-15,Uberlândia,67
+2026-01-16,Uberlândia,77
+2026-01-17,Uberlândia,52
+2026-01-18,Uberlândia,56
+2026-01-19,Uberlândia,77
+2026-01-20,Uberlândia,87
+2026-01-21,Uberlândia,64
+2026-01-22,Uberlândia,84
+2026-01-23,Uberlândia,69
+2026-01-24,Uberlândia,70
+2026-01-25,Uberlândia,65
+2026-01-26,Uberlândia,57
+2026-01-27,Uberlândia,81
+2026-01-28,Uberlândia,57
+2026-01-29,Uberlândia,65
+2026-01-30,Uberlândia,78
+2026-01-31,Uberlândia,65
+2026-02-01,Uberlândia,55
+2026-02-02,Uberlândia,77
+2026-02-03,Uberlândia,82
+2026-02-04,Uberlândia,90
+2026-02-05,Uberlândia,87
+2026-02-06,Uberlândia,66
+2026-02-07,Uberlândia,78
+2026-02-08,Uberlândia,61
+2026-02-09,Uberlândia,63
+2026-02-10,Uberlândia,84
+2026-02-11,Uberlândia,66
+2026-02-12,Uberlândia,70
+2026-02-13,Uberlândia,71
+2026-02-14,Uberlândia,45
+2026-02-15,Uberlândia,37
+2026-02-16,Uberlândia,54
+2026-02-17,Uberlândia,45
+2026-02-18,Uberlândia,76
+2026-02-19,Uberlândia,72
+2026-02-20,Uberlândia,86
+2026-02-21,Uberlândia,64
+2026-02-22,Uberlândia,61
+2026-02-23,Uberlândia,83
+2026-02-24,Uberlândia,78
+2026-02-25,Uberlândia,82
+2026-02-26,Uberlândia,73
+2026-02-27,Uberlândia,70
+2026-02-28,Uberlândia,58
+2026-03-01,Uberlândia,68
+2026-03-02,Uberlândia,83
+2026-03-03,Uberlândia,74
+2026-03-04,Uberlândia,60
+2026-03-05,Uberlândia,60
+2026-03-06,Uberlândia,73
+2026-03-07,Uberlândia,72
+2026-03-08,Uberlândia,52
+2026-03-09,Uberlândia,52
+2026-03-10,Uberlândia,84
+2026-03-11,Uberlândia,92
+2026-03-12,Uberlândia,74
+2026-03-13,Uberlândia,70
+2026-03-14,Uberlândia,63
+2026-03-15,Uberlândia,68
+2026-03-16,Uberlândia,81
+2026-03-17,Uberlândia,74
+2026-03-18,Uberlândia,101
+2026-03-19,Uberlândia,67
+2026-03-20,Uberlândia,61
+2026-03-21,Uberlândia,53
+2026-03-22,Uberlândia,58
+2026-03-23,Uberlândia,77
+2026-03-24,Uberlândia,80
+2026-03-25,Uberlândia,74
+2026-03-26,Uberlândia,70
+2026-03-27,Uberlândia,74
+2026-03-28,Uberlândia,79
+2026-03-29,Uberlândia,47
+2026-03-30,Uberlândia,68
+2026-03-31,Uberlândia,68
+2026-04-01,Uberlândia,75
+2026-04-02,Uberlândia,88
+2026-04-03,Uberlândia,59
+2026-04-04,Uberlândia,55
+2026-04-05,Uberlândia,69
+2026-04-06,Uberlândia,82
+2026-04-07,Uberlândia,76
+2026-04-08,Uberlândia,50
+2026-04-09,Uberlândia,69
+2026-04-10,Uberlândia,62
+2026-04-11,Uberlândia,63
+2026-04-12,Uberlândia,52
+2026-04-13,Uberlândia,85
+2026-04-14,Uberlândia,78
+2026-04-15,Uberlândia,61
+2026-04-16,Uberlândia,57
+2026-04-17,Uberlândia,79
+2026-04-18,Uberlândia,56
+2026-04-19,Uberlândia,56
+2026-04-20,Uberlândia,83
+2026-04-21,Uberlândia,68
+2026-04-22,Uberlândia,58
+2026-04-23,Uberlândia,82
+2026-04-24,Uberlândia,64
+2026-04-25,Uberlândia,74
+2026-04-26,Uberlândia,56
+2026-04-27,Uberlândia,73
+2026-04-28,Uberlândia,63
+2026-04-29,Uberlândia,71
+2026-04-30,Uberlândia,67
+2026-05-01,Uberlândia,58
+2026-05-02,Uberlândia,59
+2026-05-03,Uberlândia,52
+2026-05-04,Uberlândia,71
+2026-05-05,Uberlândia,84
+2026-05-06,Uberlândia,86
+2026-05-07,Uberlândia,78
+2026-05-08,Uberlândia,58
+2026-05-09,Uberlândia,71
+2026-05-10,Uberlândia,56
+2026-05-11,Uberlândia,87
+2026-05-12,Uberlândia,87
+2026-05-13,Uberlândia,83
+2026-05-14,Uberlândia,82
+2026-05-15,Uberlândia,62
+2026-05-16,Uberlândia,61
+2026-05-17,Uberlândia,51
+2026-05-18,Uberlândia,81
+2026-05-19,Uberlândia,77
+2026-05-20,Uberlândia,59
+2026-05-21,Uberlândia,85
+2026-05-22,Uberlândia,81
+2026-05-23,Uberlândia,64
+2026-05-24,Uberlândia,52
+2026-05-25,Uberlândia,81
+2026-05-26,Uberlândia,89
+2026-05-27,Uberlândia,89
+2026-05-28,Uberlândia,68
+2026-05-29,Uberlândia,71
+2026-05-30,Uberlândia,63
+2026-05-31,Uberlândia,63
+2026-01-05,Sorocaba,82
+2026-01-06,Sorocaba,72
+2026-01-07,Sorocaba,68
+2026-01-08,Sorocaba,64
+2026-01-09,Sorocaba,60
+2026-01-10,Sorocaba,38
+2026-01-11,Sorocaba,41
+2026-01-12,Sorocaba,64
+2026-01-13,Sorocaba,85
+2026-01-14,Sorocaba,57
+2026-01-15,Sorocaba,57
+2026-01-16,Sorocaba,61
+2026-01-17,Sorocaba,63
+2026-01-18,Sorocaba,46
+2026-01-19,Sorocaba,75
+2026-01-20,Sorocaba,54
+2026-01-21,Sorocaba,68
+2026-01-22,Sorocaba,49
+2026-01-23,Sorocaba,55
+2026-01-24,Sorocaba,49
+2026-01-25,Sorocaba,49
+2026-01-26,Sorocaba,60
+2026-01-27,Sorocaba,67
+2026-01-28,Sorocaba,71
+2026-01-29,Sorocaba,68
+2026-01-30,Sorocaba,55
+2026-01-31,Sorocaba,51
+2026-02-01,Sorocaba,49
+2026-02-02,Sorocaba,58
+2026-02-03,Sorocaba,72
+2026-02-04,Sorocaba,63
+2026-02-05,Sorocaba,74
+2026-02-06,Sorocaba,68
+2026-02-07,Sorocaba,53
+2026-02-08,Sorocaba,38
+2026-02-09,Sorocaba,64
+2026-02-10,Sorocaba,70
+2026-02-11,Sorocaba,73
+2026-02-12,Sorocaba,67
+2026-02-13,Sorocaba,73
+2026-02-14,Sorocaba,32
+2026-02-15,Sorocaba,31
+2026-02-16,Sorocaba,59
+2026-02-17,Sorocaba,46
+2026-02-18,Sorocaba,63
+2026-02-19,Sorocaba,65
+2026-02-20,Sorocaba,73
+2026-02-21,Sorocaba,63
+2026-02-22,Sorocaba,42
+2026-02-23,Sorocaba,87
+2026-02-24,Sorocaba,63
+2026-02-25,Sorocaba,76
+2026-02-26,Sorocaba,63
+2026-02-27,Sorocaba,67
+2026-02-28,Sorocaba,58
+2026-03-01,Sorocaba,47
+2026-03-02,Sorocaba,94
+2026-03-03,Sorocaba,80
+2026-03-04,Sorocaba,71
+2026-03-05,Sorocaba,59
+2026-03-06,Sorocaba,66
+2026-03-07,Sorocaba,58
+2026-03-08,Sorocaba,57
+2026-03-09,Sorocaba,62
+2026-03-10,Sorocaba,67
+2026-03-11,Sorocaba,67
+2026-03-12,Sorocaba,81
+2026-03-13,Sorocaba,60
+2026-03-14,Sorocaba,42
+2026-03-15,Sorocaba,59
+2026-03-16,Sorocaba,96
+2026-03-17,Sorocaba,71
+2026-03-18,Sorocaba,62
+2026-03-19,Sorocaba,82
+2026-03-20,Sorocaba,76
+2026-03-21,Sorocaba,68
+2026-03-22,Sorocaba,51
+2026-03-23,Sorocaba,81
+2026-03-24,Sorocaba,67
+2026-03-25,Sorocaba,67
+2026-03-26,Sorocaba,71
+2026-03-27,Sorocaba,60
+2026-03-28,Sorocaba,73
+2026-03-29,Sorocaba,58
+2026-03-30,Sorocaba,85
+2026-03-31,Sorocaba,89
+2026-04-01,Sorocaba,81
+2026-04-02,Sorocaba,64
+2026-04-03,Sorocaba,74
+2026-04-04,Sorocaba,78
+2026-04-05,Sorocaba,63
+2026-04-06,Sorocaba,76
+2026-04-07,Sorocaba,81
+2026-04-08,Sorocaba,81
+2026-04-09,Sorocaba,66
+2026-04-10,Sorocaba,69
+2026-04-11,Sorocaba,64
+2026-04-12,Sorocaba,66
+2026-04-13,Sorocaba,75
+2026-04-14,Sorocaba,65
+2026-04-15,Sorocaba,68
+2026-04-16,Sorocaba,86
+2026-04-17,Sorocaba,63
+2026-04-18,Sorocaba,56
+2026-04-19,Sorocaba,54
+2026-04-20,Sorocaba,78
+2026-04-21,Sorocaba,66
+2026-04-22,Sorocaba,62
+2026-04-23,Sorocaba,61
+2026-04-24,Sorocaba,62
+2026-04-25,Sorocaba,63
+2026-04-26,Sorocaba,56
+2026-04-27,Sorocaba,92
+2026-04-28,Sorocaba,73
+2026-04-29,Sorocaba,69
+2026-04-30,Sorocaba,55
+2026-05-01,Sorocaba,63
+2026-05-02,Sorocaba,60
+2026-05-03,Sorocaba,61
+2026-05-04,Sorocaba,65
+2026-05-05,Sorocaba,75
+2026-05-06,Sorocaba,64
+2026-05-07,Sorocaba,61
+2026-05-08,Sorocaba,66
+2026-05-09,Sorocaba,55
+2026-05-10,Sorocaba,64
+2026-05-11,Sorocaba,79
+2026-05-12,Sorocaba,78
+2026-05-13,Sorocaba,84
+2026-05-14,Sorocaba,87
+2026-05-15,Sorocaba,66
+2026-05-16,Sorocaba,66
+2026-05-17,Sorocaba,55
+2026-05-18,Sorocaba,86
+2026-05-19,Sorocaba,70
+2026-05-20,Sorocaba,90
+2026-05-21,Sorocaba,64
+2026-05-22,Sorocaba,55
+2026-05-23,Sorocaba,68
+2026-05-24,Sorocaba,58
+2026-05-25,Sorocaba,103
+2026-05-26,Sorocaba,85
+2026-05-27,Sorocaba,66
+2026-05-28,Sorocaba,83
+2026-05-29,Sorocaba,90
+2026-05-30,Sorocaba,71
+2026-05-31,Sorocaba,55
+2026-01-05,Cuiabá,98
+2026-01-06,Cuiabá,82
+2026-01-07,Cuiabá,64
+2026-01-08,Cuiabá,64
+2026-01-09,Cuiabá,61
+2026-01-10,Cuiabá,47
+2026-01-11,Cuiabá,50
+2026-01-12,Cuiabá,79
+2026-01-13,Cuiabá,76
+2026-01-14,Cuiabá,79
+2026-01-15,Cuiabá,64
+2026-01-16,Cuiabá,80
+2026-01-17,Cuiabá,46
+2026-01-18,Cuiabá,41
+2026-01-19,Cuiabá,88
+2026-01-20,Cuiabá,82
+2026-01-21,Cuiabá,91
+2026-01-22,Cuiabá,63
+2026-01-23,Cuiabá,68
+2026-01-24,Cuiabá,46
+2026-01-25,Cuiabá,65
+2026-01-26,Cuiabá,70
+2026-01-27,Cuiabá,76
+2026-01-28,Cuiabá,80
+2026-01-29,Cuiabá,72
+2026-01-30,Cuiabá,66
+2026-01-31,Cuiabá,66
+2026-02-01,Cuiabá,62
+2026-02-02,Cuiabá,95
+2026-02-03,Cuiabá,79
+2026-02-04,Cuiabá,75
+2026-02-05,Cuiabá,68
+2026-02-06,Cuiabá,78
+2026-02-07,Cuiabá,63
+2026-02-08,Cuiabá,54
+2026-02-09,Cuiabá,98
+2026-02-10,Cuiabá,94
+2026-02-11,Cuiabá,81
+2026-02-12,Cuiabá,84
+2026-02-13,Cuiabá,75
+2026-02-14,Cuiabá,46
+2026-02-15,Cuiabá,46
+2026-02-16,Cuiabá,67
+2026-02-17,Cuiabá,61
+2026-02-18,Cuiabá,75
+2026-02-19,Cuiabá,81
+2026-02-20,Cuiabá,69
+2026-02-21,Cuiabá,78
+2026-02-22,Cuiabá,52
+2026-02-23,Cuiabá,88
+2026-02-24,Cuiabá,92
+2026-02-25,Cuiabá,89
+2026-02-26,Cuiabá,79
+2026-02-27,Cuiabá,60
+2026-02-28,Cuiabá,61
+2026-03-01,Cuiabá,69
+2026-03-02,Cuiabá,104
+2026-03-03,Cuiabá,94
+2026-03-04,Cuiabá,76
+2026-03-05,Cuiabá,97
+2026-03-06,Cuiabá,68
+2026-03-07,Cuiabá,65
+2026-03-08,Cuiabá,53
+2026-03-09,Cuiabá,85
+2026-03-10,Cuiabá,77
+2026-03-11,Cuiabá,77
+2026-03-12,Cuiabá,70
+2026-03-13,Cuiabá,71
+2026-03-14,Cuiabá,54
+2026-03-15,Cuiabá,65
+2026-03-16,Cuiabá,86
+2026-03-17,Cuiabá,76
+2026-03-18,Cuiabá,81
+2026-03-19,Cuiabá,82
+2026-03-20,Cuiabá,69
+2026-03-21,Cuiabá,70
+2026-03-22,Cuiabá,67
+2026-03-23,Cuiabá,80
+2026-03-24,Cuiabá,96
+2026-03-25,Cuiabá,95
+2026-03-26,Cuiabá,78
+2026-03-27,Cuiabá,74
+2026-03-28,Cuiabá,51
+2026-03-29,Cuiabá,63
+2026-03-30,Cuiabá,77
+2026-03-31,Cuiabá,85
+2026-04-01,Cuiabá,91
+2026-04-02,Cuiabá,92
+2026-04-03,Cuiabá,75
+2026-04-04,Cuiabá,65
+2026-04-05,Cuiabá,71
+2026-04-06,Cuiabá,74
+2026-04-07,Cuiabá,75
+2026-04-08,Cuiabá,80
+2026-04-09,Cuiabá,75
+2026-04-10,Cuiabá,73
+2026-04-11,Cuiabá,58
+2026-04-12,Cuiabá,50
+2026-04-13,Cuiabá,79
+2026-04-14,Cuiabá,69
+2026-04-15,Cuiabá,68
+2026-04-16,Cuiabá,70
+2026-04-17,Cuiabá,65
+2026-04-18,Cuiabá,65
+2026-04-19,Cuiabá,63
+2026-04-20,Cuiabá,106
+2026-04-21,Cuiabá,91
+2026-04-22,Cuiabá,87
+2026-04-23,Cuiabá,76
+2026-04-24,Cuiabá,74
+2026-04-25,Cuiabá,64
+2026-04-26,Cuiabá,51
+2026-04-27,Cuiabá,85
+2026-04-28,Cuiabá,75
+2026-04-29,Cuiabá,67
+2026-04-30,Cuiabá,75
+2026-05-01,Cuiabá,80
+2026-05-02,Cuiabá,51
+2026-05-03,Cuiabá,62
+2026-05-04,Cuiabá,90
+2026-05-05,Cuiabá,83
+2026-05-06,Cuiabá,62
+2026-05-07,Cuiabá,81
+2026-05-08,Cuiabá,75
+2026-05-09,Cuiabá,45
+2026-05-10,Cuiabá,57
+2026-05-11,Cuiabá,103
+2026-05-12,Cuiabá,87
+2026-05-13,Cuiabá,78
+2026-05-14,Cuiabá,82
+2026-05-15,Cuiabá,64
+2026-05-16,Cuiabá,70
+2026-05-17,Cuiabá,58
+2026-05-18,Cuiabá,78
+2026-05-19,Cuiabá,70
+2026-05-20,Cuiabá,84
+2026-05-21,Cuiabá,81
+2026-05-22,Cuiabá,71
+2026-05-23,Cuiabá,70
+2026-05-24,Cuiabá,64
+2026-05-25,Cuiabá,104
+2026-05-26,Cuiabá,78
+2026-05-27,Cuiabá,64
+2026-05-28,Cuiabá,75
+2026-05-29,Cuiabá,78
+2026-05-30,Cuiabá,79
+2026-05-31,Cuiabá,49
+2026-01-05,Aracaju,55
+2026-01-06,Aracaju,65
+2026-01-07,Aracaju,50
+2026-01-08,Aracaju,60
+2026-01-09,Aracaju,51
+2026-01-10,Aracaju,56
+2026-01-11,Aracaju,48
+2026-01-12,Aracaju,60
+2026-01-13,Aracaju,59
+2026-01-14,Aracaju,49
+2026-01-15,Aracaju,60
+2026-01-16,Aracaju,53
+2026-01-17,Aracaju,43
+2026-01-18,Aracaju,35
+2026-01-19,Aracaju,67
+2026-01-20,Aracaju,58
+2026-01-21,Aracaju,67
+2026-01-22,Aracaju,62
+2026-01-23,Aracaju,59
+2026-01-24,Aracaju,39
+2026-01-25,Aracaju,53
+2026-01-26,Aracaju,67
+2026-01-27,Aracaju,67
+2026-01-28,Aracaju,69
+2026-01-29,Aracaju,48
+2026-01-30,Aracaju,61
+2026-01-31,Aracaju,42
+2026-02-01,Aracaju,45
+2026-02-02,Aracaju,55
+2026-02-03,Aracaju,59
+2026-02-04,Aracaju,57
+2026-02-05,Aracaju,48
+2026-02-06,Aracaju,65
+2026-02-07,Aracaju,43
+2026-02-08,Aracaju,55
+2026-02-09,Aracaju,87
+2026-02-10,Aracaju,58
+2026-02-11,Aracaju,77
+2026-02-12,Aracaju,70
+2026-02-13,Aracaju,64
+2026-02-14,Aracaju,41
+2026-02-15,Aracaju,43
+2026-02-16,Aracaju,40
+2026-02-17,Aracaju,39
+2026-02-18,Aracaju,74
+2026-02-19,Aracaju,57
+2026-02-20,Aracaju,64
+2026-02-21,Aracaju,61
+2026-02-22,Aracaju,53
+2026-02-23,Aracaju,69
+2026-02-24,Aracaju,66
+2026-02-25,Aracaju,72
+2026-02-26,Aracaju,63
+2026-02-27,Aracaju,67
+2026-02-28,Aracaju,50
+2026-03-01,Aracaju,62
+2026-03-02,Aracaju,67
+2026-03-03,Aracaju,70
+2026-03-04,Aracaju,74
+2026-03-05,Aracaju,60
+2026-03-06,Aracaju,67
+2026-03-07,Aracaju,63
+2026-03-08,Aracaju,49
+2026-03-09,Aracaju,69
+2026-03-10,Aracaju,63
+2026-03-11,Aracaju,60
+2026-03-12,Aracaju,49
+2026-03-13,Aracaju,64
+2026-03-14,Aracaju,38
+2026-03-15,Aracaju,50
+2026-03-16,Aracaju,73
+2026-03-17,Aracaju,67
+2026-03-18,Aracaju,66
+2026-03-19,Aracaju,53
+2026-03-20,Aracaju,70
+2026-03-21,Aracaju,70
+2026-03-22,Aracaju,54
+2026-03-23,Aracaju,88
+2026-03-24,Aracaju,62
+2026-03-25,Aracaju,58
+2026-03-26,Aracaju,74
+2026-03-27,Aracaju,49
+2026-03-28,Aracaju,48
+2026-03-29,Aracaju,51
+2026-03-30,Aracaju,70
+2026-03-31,Aracaju,78
+2026-04-01,Aracaju,60
+2026-04-02,Aracaju,73
+2026-04-03,Aracaju,83
+2026-04-04,Aracaju,49
+2026-04-05,Aracaju,44
+2026-04-06,Aracaju,78
+2026-04-07,Aracaju,61
+2026-04-08,Aracaju,61
+2026-04-09,Aracaju,80
+2026-04-10,Aracaju,67
+2026-04-11,Aracaju,46
+2026-04-12,Aracaju,47
+2026-04-13,Aracaju,64
+2026-04-14,Aracaju,70
+2026-04-15,Aracaju,65
+2026-04-16,Aracaju,62
+2026-04-17,Aracaju,72
+2026-04-18,Aracaju,59
+2026-04-19,Aracaju,61
+2026-04-20,Aracaju,67
+2026-04-21,Aracaju,65
+2026-04-22,Aracaju,81
+2026-04-23,Aracaju,65
+2026-04-24,Aracaju,69
+2026-04-25,Aracaju,53
+2026-04-26,Aracaju,62
+2026-04-27,Aracaju,64
+2026-04-28,Aracaju,75
+2026-04-29,Aracaju,69
+2026-04-30,Aracaju,58
+2026-05-01,Aracaju,60
+2026-05-02,Aracaju,58
+2026-05-03,Aracaju,56
+2026-05-04,Aracaju,79
+2026-05-05,Aracaju,58
+2026-05-06,Aracaju,58
+2026-05-07,Aracaju,63
+2026-05-08,Aracaju,59
+2026-05-09,Aracaju,50
+2026-05-10,Aracaju,41
+2026-05-11,Aracaju,61
+2026-05-12,Aracaju,73
+2026-05-13,Aracaju,56
+2026-05-14,Aracaju,53
+2026-05-15,Aracaju,59
+2026-05-16,Aracaju,59
+2026-05-17,Aracaju,61
+2026-05-18,Aracaju,66
+2026-05-19,Aracaju,73
+2026-05-20,Aracaju,65
+2026-05-21,Aracaju,65
+2026-05-22,Aracaju,49
+2026-05-23,Aracaju,66
+2026-05-24,Aracaju,41
+2026-05-25,Aracaju,59
+2026-05-26,Aracaju,61
+2026-05-27,Aracaju,68
+2026-05-28,Aracaju,58
+2026-05-29,Aracaju,50
+2026-05-30,Aracaju,53
+2026-05-31,Aracaju,53
+2026-01-05,Joinville,61
+2026-01-06,Joinville,60
+2026-01-07,Joinville,60
+2026-01-08,Joinville,53
+2026-01-09,Joinville,52
+2026-01-10,Joinville,42
+2026-01-11,Joinville,36
+2026-01-12,Joinville,69
+2026-01-13,Joinville,58
+2026-01-14,Joinville,60
+2026-01-15,Joinville,56
+2026-01-16,Joinville,52
+2026-01-17,Joinville,48
+2026-01-18,Joinville,50
+2026-01-19,Joinville,64
+2026-01-20,Joinville,63
+2026-01-21,Joinville,66
+2026-01-22,Joinville,52
+2026-01-23,Joinville,47
+2026-01-24,Joinville,46
+2026-01-25,Joinville,44
+2026-01-26,Joinville,50
+2026-01-27,Joinville,65
+2026-01-28,Joinville,66
+2026-01-29,Joinville,45
+2026-01-30,Joinville,45
+2026-01-31,Joinville,48
+2026-02-01,Joinville,45
+2026-02-02,Joinville,67
+2026-02-03,Joinville,66
+2026-02-04,Joinville,53
+2026-02-05,Joinville,64
+2026-02-06,Joinville,59
+2026-02-07,Joinville,43
+2026-02-08,Joinville,39
+2026-02-09,Joinville,54
+2026-02-10,Joinville,60
+2026-02-11,Joinville,61
+2026-02-12,Joinville,70
+2026-02-13,Joinville,44
+2026-02-14,Joinville,42
+2026-02-15,Joinville,28
+2026-02-16,Joinville,44
+2026-02-17,Joinville,48
+2026-02-18,Joinville,62
+2026-02-19,Joinville,63
+2026-02-20,Joinville,59
+2026-02-21,Joinville,50
+2026-02-22,Joinville,54
+2026-02-23,Joinville,67
+2026-02-24,Joinville,65
+2026-02-25,Joinville,61
+2026-02-26,Joinville,64
+2026-02-27,Joinville,46
+2026-02-28,Joinville,49
+2026-03-01,Joinville,51
+2026-03-02,Joinville,53
+2026-03-03,Joinville,51
+2026-03-04,Joinville,60
+2026-03-05,Joinville,57
+2026-03-06,Joinville,43
+2026-03-07,Joinville,48
+2026-03-08,Joinville,46
+2026-03-09,Joinville,64
+2026-03-10,Joinville,48
+2026-03-11,Joinville,72
+2026-03-12,Joinville,43
+2026-03-13,Joinville,51
+2026-03-14,Joinville,57
+2026-03-15,Joinville,66
+2026-03-16,Joinville,66
+2026-03-17,Joinville,54
+2026-03-18,Joinville,58
+2026-03-19,Joinville,51
+2026-03-20,Joinville,57
+2026-03-21,Joinville,53
+2026-03-22,Joinville,34
+2026-03-23,Joinville,64
+2026-03-24,Joinville,70
+2026-03-25,Joinville,68
+2026-03-26,Joinville,72
+2026-03-27,Joinville,49
+2026-03-28,Joinville,43
+2026-03-29,Joinville,34
+2026-03-30,Joinville,58
+2026-03-31,Joinville,48
+2026-04-01,Joinville,60
+2026-04-02,Joinville,64
+2026-04-03,Joinville,44
+2026-04-04,Joinville,51
+2026-04-05,Joinville,51
+2026-04-06,Joinville,74
+2026-04-07,Joinville,61
+2026-04-08,Joinville,52
+2026-04-09,Joinville,60
+2026-04-10,Joinville,50
+2026-04-11,Joinville,44
+2026-04-12,Joinville,43
+2026-04-13,Joinville,86
+2026-04-14,Joinville,65
+2026-04-15,Joinville,56
+2026-04-16,Joinville,57
+2026-04-17,Joinville,54
+2026-04-18,Joinville,48
+2026-04-19,Joinville,43
+2026-04-20,Joinville,72
+2026-04-21,Joinville,78
+2026-04-22,Joinville,53
+2026-04-23,Joinville,59
+2026-04-24,Joinville,56
+2026-04-25,Joinville,53
+2026-04-26,Joinville,28
+2026-04-27,Joinville,68
+2026-04-28,Joinville,48
+2026-04-29,Joinville,58
+2026-04-30,Joinville,62
+2026-05-01,Joinville,55
+2026-05-02,Joinville,46
+2026-05-03,Joinville,45
+2026-05-04,Joinville,73
+2026-05-05,Joinville,77
+2026-05-06,Joinville,81
+2026-05-07,Joinville,77
+2026-05-08,Joinville,58
+2026-05-09,Joinville,47
+2026-05-10,Joinville,58
+2026-05-11,Joinville,64
+2026-05-12,Joinville,61
+2026-05-13,Joinville,69
+2026-05-14,Joinville,65
+2026-05-15,Joinville,52
+2026-05-16,Joinville,46
+2026-05-17,Joinville,48
+2026-05-18,Joinville,65
+2026-05-19,Joinville,60
+2026-05-20,Joinville,51
+2026-05-21,Joinville,63
+2026-05-22,Joinville,50
+2026-05-23,Joinville,53
+2026-05-24,Joinville,59
+2026-05-25,Joinville,88
+2026-05-26,Joinville,60
+2026-05-27,Joinville,54
+2026-05-28,Joinville,62
+2026-05-29,Joinville,45
+2026-05-30,Joinville,31
+2026-05-31,Joinville,34
+2026-01-05,Londrina,69
+2026-01-06,Londrina,58
+2026-01-07,Londrina,49
+2026-01-08,Londrina,65
+2026-01-09,Londrina,43
+2026-01-10,Londrina,57
+2026-01-11,Londrina,48
+2026-01-12,Londrina,44
+2026-01-13,Londrina,55
+2026-01-14,Londrina,57
+2026-01-15,Londrina,46
+2026-01-16,Londrina,51
+2026-01-17,Londrina,40
+2026-01-18,Londrina,50
+2026-01-19,Londrina,62
+2026-01-20,Londrina,56
+2026-01-21,Londrina,51
+2026-01-22,Londrina,45
+2026-01-23,Londrina,44
+2026-01-24,Londrina,45
+2026-01-25,Londrina,43
+2026-01-26,Londrina,55
+2026-01-27,Londrina,58
+2026-01-28,Londrina,46
+2026-01-29,Londrina,57
+2026-01-30,Londrina,47
+2026-01-31,Londrina,46
+2026-02-01,Londrina,37
+2026-02-02,Londrina,65
+2026-02-03,Londrina,58
+2026-02-04,Londrina,56
+2026-02-05,Londrina,38
+2026-02-06,Londrina,61
+2026-02-07,Londrina,41
+2026-02-08,Londrina,48
+2026-02-09,Londrina,49
+2026-02-10,Londrina,49
+2026-02-11,Londrina,59
+2026-02-12,Londrina,76
+2026-02-13,Londrina,62
+2026-02-14,Londrina,37
+2026-02-15,Londrina,28
+2026-02-16,Londrina,35
+2026-02-17,Londrina,50
+2026-02-18,Londrina,61
+2026-02-19,Londrina,52
+2026-02-20,Londrina,62
+2026-02-21,Londrina,52
+2026-02-22,Londrina,38
+2026-02-23,Londrina,80
+2026-02-24,Londrina,62
+2026-02-25,Londrina,45
+2026-02-26,Londrina,49
+2026-02-27,Londrina,47
+2026-02-28,Londrina,47
+2026-03-01,Londrina,62
+2026-03-02,Londrina,54
+2026-03-03,Londrina,67
+2026-03-04,Londrina,56
+2026-03-05,Londrina,70
+2026-03-06,Londrina,59
+2026-03-07,Londrina,43
+2026-03-08,Londrina,54
+2026-03-09,Londrina,69
+2026-03-10,Londrina,57
+2026-03-11,Londrina,55
+2026-03-12,Londrina,50
+2026-03-13,Londrina,44
+2026-03-14,Londrina,43
+2026-03-15,Londrina,43
+2026-03-16,Londrina,66
+2026-03-17,Londrina,45
+2026-03-18,Londrina,45
+2026-03-19,Londrina,48
+2026-03-20,Londrina,62
+2026-03-21,Londrina,58
+2026-03-22,Londrina,42
+2026-03-23,Londrina,68
+2026-03-24,Londrina,52
+2026-03-25,Londrina,74
+2026-03-26,Londrina,55
+2026-03-27,Londrina,59
+2026-03-28,Londrina,44
+2026-03-29,Londrina,47
+2026-03-30,Londrina,53
+2026-03-31,Londrina,68
+2026-04-01,Londrina,71
+2026-04-02,Londrina,51
+2026-04-03,Londrina,56
+2026-04-04,Londrina,55
+2026-04-05,Londrina,46
+2026-04-06,Londrina,64
+2026-04-07,Londrina,58
+2026-04-08,Londrina,66
+2026-04-09,Londrina,54
+2026-04-10,Londrina,55
+2026-04-11,Londrina,35
+2026-04-12,Londrina,37
+2026-04-13,Londrina,55
+2026-04-14,Londrina,54
+2026-04-15,Londrina,53
+2026-04-16,Londrina,46
+2026-04-17,Londrina,56
+2026-04-18,Londrina,34
+2026-04-19,Londrina,44
+2026-04-20,Londrina,55
+2026-04-21,Londrina,64
+2026-04-22,Londrina,50
+2026-04-23,Londrina,62
+2026-04-24,Londrina,52
+2026-04-25,Londrina,54
+2026-04-26,Londrina,39
+2026-04-27,Londrina,61
+2026-04-28,Londrina,73
+2026-04-29,Londrina,50
+2026-04-30,Londrina,53
+2026-05-01,Londrina,53
+2026-05-02,Londrina,39
+2026-05-03,Londrina,38
+2026-05-04,Londrina,58
+2026-05-05,Londrina,66
+2026-05-06,Londrina,81
+2026-05-07,Londrina,60
+2026-05-08,Londrina,60
+2026-05-09,Londrina,43
+2026-05-10,Londrina,50
+2026-05-11,Londrina,72
+2026-05-12,Londrina,65
+2026-05-13,Londrina,52
+2026-05-14,Londrina,58
+2026-05-15,Londrina,52
+2026-05-16,Londrina,38
+2026-05-17,Londrina,37
+2026-05-18,Londrina,70
+2026-05-19,Londrina,57
+2026-05-20,Londrina,69
+2026-05-21,Londrina,53
+2026-05-22,Londrina,54
+2026-05-23,Londrina,45
+2026-05-24,Londrina,38
+2026-05-25,Londrina,62
+2026-05-26,Londrina,51
+2026-05-27,Londrina,62
+2026-05-28,Londrina,66
+2026-05-29,Londrina,41
+2026-05-30,Londrina,64
+2026-05-31,Londrina,58
+2026-01-05,Juiz de Fora,67
+2026-01-06,Juiz de Fora,67
+2026-01-07,Juiz de Fora,42
+2026-01-08,Juiz de Fora,50
+2026-01-09,Juiz de Fora,57
+2026-01-10,Juiz de Fora,42
+2026-01-11,Juiz de Fora,46
+2026-01-12,Juiz de Fora,57
+2026-01-13,Juiz de Fora,51
+2026-01-14,Juiz de Fora,48
+2026-01-15,Juiz de Fora,51
+2026-01-16,Juiz de Fora,45
+2026-01-17,Juiz de Fora,39
+2026-01-18,Juiz de Fora,43
+2026-01-19,Juiz de Fora,71
+2026-01-20,Juiz de Fora,62
+2026-01-21,Juiz de Fora,66
+2026-01-22,Juiz de Fora,58
+2026-01-23,Juiz de Fora,50
+2026-01-24,Juiz de Fora,52
+2026-01-25,Juiz de Fora,36
+2026-01-26,Juiz de Fora,49
+2026-01-27,Juiz de Fora,59
+2026-01-28,Juiz de Fora,47
+2026-01-29,Juiz de Fora,49
+2026-01-30,Juiz de Fora,66
+2026-01-31,Juiz de Fora,51
+2026-02-01,Juiz de Fora,43
+2026-02-02,Juiz de Fora,59
+2026-02-03,Juiz de Fora,52
+2026-02-04,Juiz de Fora,61
+2026-02-05,Juiz de Fora,61
+2026-02-06,Juiz de Fora,55
+2026-02-07,Juiz de Fora,54
+2026-02-08,Juiz de Fora,52
+2026-02-09,Juiz de Fora,64
+2026-02-10,Juiz de Fora,52
+2026-02-11,Juiz de Fora,69
+2026-02-12,Juiz de Fora,53
+2026-02-13,Juiz de Fora,53
+2026-02-14,Juiz de Fora,34
+2026-02-15,Juiz de Fora,31
+2026-02-16,Juiz de Fora,53
+2026-02-17,Juiz de Fora,45
+2026-02-18,Juiz de Fora,50
+2026-02-19,Juiz de Fora,42
+2026-02-20,Juiz de Fora,70
+2026-02-21,Juiz de Fora,55
+2026-02-22,Juiz de Fora,42
+2026-02-23,Juiz de Fora,68
+2026-02-24,Juiz de Fora,46
+2026-02-25,Juiz de Fora,58
+2026-02-26,Juiz de Fora,60
+2026-02-27,Juiz de Fora,68
+2026-02-28,Juiz de Fora,60
+2026-03-01,Juiz de Fora,50
+2026-03-02,Juiz de Fora,64
+2026-03-03,Juiz de Fora,72
+2026-03-04,Juiz de Fora,54
+2026-03-05,Juiz de Fora,67
+2026-03-06,Juiz de Fora,61
+2026-03-07,Juiz de Fora,49
+2026-03-08,Juiz de Fora,49
+2026-03-09,Juiz de Fora,68
+2026-03-10,Juiz de Fora,58
+2026-03-11,Juiz de Fora,48
+2026-03-12,Juiz de Fora,63
+2026-03-13,Juiz de Fora,47
+2026-03-14,Juiz de Fora,48
+2026-03-15,Juiz de Fora,46
+2026-03-16,Juiz de Fora,58
+2026-03-17,Juiz de Fora,56
+2026-03-18,Juiz de Fora,54
+2026-03-19,Juiz de Fora,59
+2026-03-20,Juiz de Fora,51
+2026-03-21,Juiz de Fora,63
+2026-03-22,Juiz de Fora,44
+2026-03-23,Juiz de Fora,54
+2026-03-24,Juiz de Fora,75
+2026-03-25,Juiz de Fora,54
+2026-03-26,Juiz de Fora,51
+2026-03-27,Juiz de Fora,57
+2026-03-28,Juiz de Fora,51
+2026-03-29,Juiz de Fora,46
+2026-03-30,Juiz de Fora,66
+2026-03-31,Juiz de Fora,70
+2026-04-01,Juiz de Fora,65
+2026-04-02,Juiz de Fora,61
+2026-04-03,Juiz de Fora,57
+2026-04-04,Juiz de Fora,50
+2026-04-05,Juiz de Fora,51
+2026-04-06,Juiz de Fora,57
+2026-04-07,Juiz de Fora,66
+2026-04-08,Juiz de Fora,66
+2026-04-09,Juiz de Fora,45
+2026-04-10,Juiz de Fora,52
+2026-04-11,Juiz de Fora,43
+2026-04-12,Juiz de Fora,44
+2026-04-13,Juiz de Fora,56
+2026-04-14,Juiz de Fora,52
+2026-04-15,Juiz de Fora,43
+2026-04-16,Juiz de Fora,55
+2026-04-17,Juiz de Fora,53
+2026-04-18,Juiz de Fora,57
+2026-04-19,Juiz de Fora,54
+2026-04-20,Juiz de Fora,67
+2026-04-21,Juiz de Fora,58
+2026-04-22,Juiz de Fora,46
+2026-04-23,Juiz de Fora,58
+2026-04-24,Juiz de Fora,52
+2026-04-25,Juiz de Fora,48
+2026-04-26,Juiz de Fora,45
+2026-04-27,Juiz de Fora,61
+2026-04-28,Juiz de Fora,75
+2026-04-29,Juiz de Fora,54
+2026-04-30,Juiz de Fora,51
+2026-05-01,Juiz de Fora,48
+2026-05-02,Juiz de Fora,57
+2026-05-03,Juiz de Fora,40
+2026-05-04,Juiz de Fora,57
+2026-05-05,Juiz de Fora,72
+2026-05-06,Juiz de Fora,49
+2026-05-07,Juiz de Fora,50
+2026-05-08,Juiz de Fora,70
+2026-05-09,Juiz de Fora,55
+2026-05-10,Juiz de Fora,53
+2026-05-11,Juiz de Fora,79
+2026-05-12,Juiz de Fora,46
+2026-05-13,Juiz de Fora,61
+2026-05-14,Juiz de Fora,67
+2026-05-15,Juiz de Fora,65
+2026-05-16,Juiz de Fora,60
+2026-05-17,Juiz de Fora,42
+2026-05-18,Juiz de Fora,65
+2026-05-19,Juiz de Fora,57
+2026-05-20,Juiz de Fora,72
+2026-05-21,Juiz de Fora,58
+2026-05-22,Juiz de Fora,46
+2026-05-23,Juiz de Fora,52
+2026-05-24,Juiz de Fora,67
+2026-05-25,Juiz de Fora,65
+2026-05-26,Juiz de Fora,53
+2026-05-27,Juiz de Fora,57
+2026-05-28,Juiz de Fora,61
+2026-05-29,Juiz de Fora,58
+2026-05-30,Juiz de Fora,55
+2026-05-31,Juiz de Fora,51
+2026-01-05,Florianópolis,66
+2026-01-06,Florianópolis,55
+2026-01-07,Florianópolis,62
+2026-01-08,Florianópolis,48
+2026-01-09,Florianópolis,53
+2026-01-10,Florianópolis,49
+2026-01-11,Florianópolis,50
+2026-01-12,Florianópolis,69
+2026-01-13,Florianópolis,57
+2026-01-14,Florianópolis,67
+2026-01-15,Florianópolis,48
+2026-01-16,Florianópolis,57
+2026-01-17,Florianópolis,56
+2026-01-18,Florianópolis,42
+2026-01-19,Florianópolis,72
+2026-01-20,Florianópolis,75
+2026-01-21,Florianópolis,65
+2026-01-22,Florianópolis,48
+2026-01-23,Florianópolis,57
+2026-01-24,Florianópolis,57
+2026-01-25,Florianópolis,57
+2026-01-26,Florianópolis,58
+2026-01-27,Florianópolis,56
+2026-01-28,Florianópolis,58
+2026-01-29,Florianópolis,79
+2026-01-30,Florianópolis,58
+2026-01-31,Florianópolis,44
+2026-02-01,Florianópolis,52
+2026-02-02,Florianópolis,82
+2026-02-03,Florianópolis,59
+2026-02-04,Florianópolis,66
+2026-02-05,Florianópolis,58
+2026-02-06,Florianópolis,65
+2026-02-07,Florianópolis,53
+2026-02-08,Florianópolis,56
+2026-02-09,Florianópolis,63
+2026-02-10,Florianópolis,68
+2026-02-11,Florianópolis,54
+2026-02-12,Florianópolis,63
+2026-02-13,Florianópolis,65
+2026-02-14,Florianópolis,33
+2026-02-15,Florianópolis,35
+2026-02-16,Florianópolis,58
+2026-02-17,Florianópolis,61
+2026-02-18,Florianópolis,76
+2026-02-19,Florianópolis,53
+2026-02-20,Florianópolis,70
+2026-02-21,Florianópolis,58
+2026-02-22,Florianópolis,58
+2026-02-23,Florianópolis,85
+2026-02-24,Florianópolis,57
+2026-02-25,Florianópolis,73
+2026-02-26,Florianópolis,61
+2026-02-27,Florianópolis,63
+2026-02-28,Florianópolis,62
+2026-03-01,Florianópolis,50
+2026-03-02,Florianópolis,77
+2026-03-03,Florianópolis,86
+2026-03-04,Florianópolis,64
+2026-03-05,Florianópolis,59
+2026-03-06,Florianópolis,65
+2026-03-07,Florianópolis,55
+2026-03-08,Florianópolis,57
+2026-03-09,Florianópolis,76
+2026-03-10,Florianópolis,73
+2026-03-11,Florianópolis,67
+2026-03-12,Florianópolis,60
+2026-03-13,Florianópolis,71
+2026-03-14,Florianópolis,62
+2026-03-15,Florianópolis,54
+2026-03-16,Florianópolis,79
+2026-03-17,Florianópolis,71
+2026-03-18,Florianópolis,66
+2026-03-19,Florianópolis,65
+2026-03-20,Florianópolis,63
+2026-03-21,Florianópolis,56
+2026-03-22,Florianópolis,59
+2026-03-23,Florianópolis,80
+2026-03-24,Florianópolis,86
+2026-03-25,Florianópolis,80
+2026-03-26,Florianópolis,84
+2026-03-27,Florianópolis,77
+2026-03-28,Florianópolis,71
+2026-03-29,Florianópolis,59
+2026-03-30,Florianópolis,83
+2026-03-31,Florianópolis,66
+2026-04-01,Florianópolis,58
+2026-04-02,Florianópolis,78
+2026-04-03,Florianópolis,65
+2026-04-04,Florianópolis,54
+2026-04-05,Florianópolis,53
+2026-04-06,Florianópolis,77
+2026-04-07,Florianópolis,83
+2026-04-08,Florianópolis,65
+2026-04-09,Florianópolis,59
+2026-04-10,Florianópolis,72
+2026-04-11,Florianópolis,64
+2026-04-12,Florianópolis,47
+2026-04-13,Florianópolis,61
+2026-04-14,Florianópolis,79
+2026-04-15,Florianópolis,63
+2026-04-16,Florianópolis,49
+2026-04-17,Florianópolis,78
+2026-04-18,Florianópolis,56
+2026-04-19,Florianópolis,57
+2026-04-20,Florianópolis,85
+2026-04-21,Florianópolis,71
+2026-04-22,Florianópolis,62
+2026-04-23,Florianópolis,70
+2026-04-24,Florianópolis,65
+2026-04-25,Florianópolis,46
+2026-04-26,Florianópolis,45
+2026-04-27,Florianópolis,71
+2026-04-28,Florianópolis,55
+2026-04-29,Florianópolis,84
+2026-04-30,Florianópolis,56
+2026-05-01,Florianópolis,66
+2026-05-02,Florianópolis,54
+2026-05-03,Florianópolis,54
+2026-05-04,Florianópolis,72
+2026-05-05,Florianópolis,73
+2026-05-06,Florianópolis,71
+2026-05-07,Florianópolis,71
+2026-05-08,Florianópolis,58
+2026-05-09,Florianópolis,51
+2026-05-10,Florianópolis,62
+2026-05-11,Florianópolis,101
+2026-05-12,Florianópolis,61
+2026-05-13,Florianópolis,83
+2026-05-14,Florianópolis,64
+2026-05-15,Florianópolis,68
+2026-05-16,Florianópolis,66
+2026-05-17,Florianópolis,64
+2026-05-18,Florianópolis,87
+2026-05-19,Florianópolis,87
+2026-05-20,Florianópolis,87
+2026-05-21,Florianópolis,63
+2026-05-22,Florianópolis,71
+2026-05-23,Florianópolis,58
+2026-05-24,Florianópolis,44
+2026-05-25,Florianópolis,83
+2026-05-26,Florianópolis,85
+2026-05-27,Florianópolis,63
+2026-05-28,Florianópolis,68
+2026-05-29,Florianópolis,58
+2026-05-30,Florianópolis,63
+2026-05-31,Florianópolis,58
+2026-01-05,Porto Velho,52
+2026-01-06,Porto Velho,61
+2026-01-07,Porto Velho,42
+2026-01-08,Porto Velho,51
+2026-01-09,Porto Velho,47
+2026-01-10,Porto Velho,46
+2026-01-11,Porto Velho,37
+2026-01-12,Porto Velho,78
+2026-01-13,Porto Velho,49
+2026-01-14,Porto Velho,54
+2026-01-15,Porto Velho,50
+2026-01-16,Porto Velho,54
+2026-01-17,Porto Velho,45
+2026-01-18,Porto Velho,28
+2026-01-19,Porto Velho,68
+2026-01-20,Porto Velho,66
+2026-01-21,Porto Velho,62
+2026-01-22,Porto Velho,54
+2026-01-23,Porto Velho,41
+2026-01-24,Porto Velho,54
+2026-01-25,Porto Velho,41
+2026-01-26,Porto Velho,65
+2026-01-27,Porto Velho,58
+2026-01-28,Porto Velho,52
+2026-01-29,Porto Velho,74
+2026-01-30,Porto Velho,43
+2026-01-31,Porto Velho,44
+2026-02-01,Porto Velho,33
+2026-02-02,Porto Velho,47
+2026-02-03,Porto Velho,53
+2026-02-04,Porto Velho,54
+2026-02-05,Porto Velho,59
+2026-02-06,Porto Velho,52
+2026-02-07,Porto Velho,40
+2026-02-08,Porto Velho,44
+2026-02-09,Porto Velho,68
+2026-02-10,Porto Velho,48
+2026-02-11,Porto Velho,48
+2026-02-12,Porto Velho,36
+2026-02-13,Porto Velho,54
+2026-02-14,Porto Velho,35
+2026-02-15,Porto Velho,27
+2026-02-16,Porto Velho,50
+2026-02-17,Porto Velho,38
+2026-02-18,Porto Velho,54
+2026-02-19,Porto Velho,56
+2026-02-20,Porto Velho,62
+2026-02-21,Porto Velho,45
+2026-02-22,Porto Velho,39
+2026-02-23,Porto Velho,48
+2026-02-24,Porto Velho,71
+2026-02-25,Porto Velho,54
+2026-02-26,Porto Velho,56
+2026-02-27,Porto Velho,39
+2026-02-28,Porto Velho,43
+2026-03-01,Porto Velho,42
+2026-03-02,Porto Velho,60
+2026-03-03,Porto Velho,56
+2026-03-04,Porto Velho,56
+2026-03-05,Porto Velho,76
+2026-03-06,Porto Velho,74
+2026-03-07,Porto Velho,49
+2026-03-08,Porto Velho,44
+2026-03-09,Porto Velho,75
+2026-03-10,Porto Velho,61
+2026-03-11,Porto Velho,66
+2026-03-12,Porto Velho,50
+2026-03-13,Porto Velho,63
+2026-03-14,Porto Velho,50
+2026-03-15,Porto Velho,44
+2026-03-16,Porto Velho,72
+2026-03-17,Porto Velho,58
+2026-03-18,Porto Velho,63
+2026-03-19,Porto Velho,46
+2026-03-20,Porto Velho,66
+2026-03-21,Porto Velho,57
+2026-03-22,Porto Velho,44
+2026-03-23,Porto Velho,67
+2026-03-24,Porto Velho,68
+2026-03-25,Porto Velho,71
+2026-03-26,Porto Velho,64
+2026-03-27,Porto Velho,65
+2026-03-28,Porto Velho,51
+2026-03-29,Porto Velho,44
+2026-03-30,Porto Velho,56
+2026-03-31,Porto Velho,65
+2026-04-01,Porto Velho,54
+2026-04-02,Porto Velho,58
+2026-04-03,Porto Velho,50
+2026-04-04,Porto Velho,56
+2026-04-05,Porto Velho,50
+2026-04-06,Porto Velho,62
+2026-04-07,Porto Velho,75
+2026-04-08,Porto Velho,71
+2026-04-09,Porto Velho,64
+2026-04-10,Porto Velho,54
+2026-04-11,Porto Velho,40
+2026-04-12,Porto Velho,38
+2026-04-13,Porto Velho,49
+2026-04-14,Porto Velho,65
+2026-04-15,Porto Velho,50
+2026-04-16,Porto Velho,61
+2026-04-17,Porto Velho,51
+2026-04-18,Porto Velho,57
+2026-04-19,Porto Velho,44
+2026-04-20,Porto Velho,71
+2026-04-21,Porto Velho,58
+2026-04-22,Porto Velho,49
+2026-04-23,Porto Velho,44
+2026-04-24,Porto Velho,61
+2026-04-25,Porto Velho,34
+2026-04-26,Porto Velho,39
+2026-04-27,Porto Velho,62
+2026-04-28,Porto Velho,61
+2026-04-29,Porto Velho,54
+2026-04-30,Porto Velho,50
+2026-05-01,Porto Velho,54
+2026-05-02,Porto Velho,35
+2026-05-03,Porto Velho,47
+2026-05-04,Porto Velho,71
+2026-05-05,Porto Velho,64
+2026-05-06,Porto Velho,50
+2026-05-07,Porto Velho,71
+2026-05-08,Porto Velho,52
+2026-05-09,Porto Velho,74
+2026-05-10,Porto Velho,58
+2026-05-11,Porto Velho,69
+2026-05-12,Porto Velho,60
+2026-05-13,Porto Velho,64
+2026-05-14,Porto Velho,57
+2026-05-15,Porto Velho,50
+2026-05-16,Porto Velho,42
+2026-05-17,Porto Velho,44
+2026-05-18,Porto Velho,71
+2026-05-19,Porto Velho,63
+2026-05-20,Porto Velho,71
+2026-05-21,Porto Velho,60
+2026-05-22,Porto Velho,51
+2026-05-23,Porto Velho,59
+2026-05-24,Porto Velho,33
+2026-05-25,Porto Velho,64
+2026-05-26,Porto Velho,55
+2026-05-27,Porto Velho,73
+2026-05-28,Porto Velho,61
+2026-05-29,Porto Velho,56
+2026-05-30,Porto Velho,43
+2026-05-31,Porto Velho,49
+2026-01-05,Macapá,48
+2026-01-06,Macapá,49
+2026-01-07,Macapá,50
+2026-01-08,Macapá,48
+2026-01-09,Macapá,45
+2026-01-10,Macapá,50
+2026-01-11,Macapá,28
+2026-01-12,Macapá,60
+2026-01-13,Macapá,64
+2026-01-14,Macapá,51
+2026-01-15,Macapá,46
+2026-01-16,Macapá,51
+2026-01-17,Macapá,38
+2026-01-18,Macapá,41
+2026-01-19,Macapá,68
+2026-01-20,Macapá,71
+2026-01-21,Macapá,47
+2026-01-22,Macapá,53
+2026-01-23,Macapá,48
+2026-01-24,Macapá,42
+2026-01-25,Macapá,39
+2026-01-26,Macapá,65
+2026-01-27,Macapá,63
+2026-01-28,Macapá,52
+2026-01-29,Macapá,45
+2026-01-30,Macapá,40
+2026-01-31,Macapá,51
+2026-02-01,Macapá,38
+2026-02-02,Macapá,42
+2026-02-03,Macapá,35
+2026-02-04,Macapá,51
+2026-02-05,Macapá,47
+2026-02-06,Macapá,48
+2026-02-07,Macapá,41
+2026-02-08,Macapá,31
+2026-02-09,Macapá,49
+2026-02-10,Macapá,48
+2026-02-11,Macapá,51
+2026-02-12,Macapá,33
+2026-02-13,Macapá,48
+2026-02-14,Macapá,33
+2026-02-15,Macapá,23
+2026-02-16,Macapá,40
+2026-02-17,Macapá,34
+2026-02-18,Macapá,68
+2026-02-19,Macapá,44
+2026-02-20,Macapá,56
+2026-02-21,Macapá,50
+2026-02-22,Macapá,46
+2026-02-23,Macapá,80
+2026-02-24,Macapá,60
+2026-02-25,Macapá,47
+2026-02-26,Macapá,61
+2026-02-27,Macapá,70
+2026-02-28,Macapá,46
+2026-03-01,Macapá,39
+2026-03-02,Macapá,65
+2026-03-03,Macapá,58
+2026-03-04,Macapá,53
+2026-03-05,Macapá,48
+2026-03-06,Macapá,66
+2026-03-07,Macapá,44
+2026-03-08,Macapá,42
+2026-03-09,Macapá,66
+2026-03-10,Macapá,62
+2026-03-11,Macapá,54
+2026-03-12,Macapá,67
+2026-03-13,Macapá,42
+2026-03-14,Macapá,44
+2026-03-15,Macapá,31
+2026-03-16,Macapá,56
+2026-03-17,Macapá,59
+2026-03-18,Macapá,61
+2026-03-19,Macapá,59
+2026-03-20,Macapá,53
+2026-03-21,Macapá,46
+2026-03-22,Macapá,39
+2026-03-23,Macapá,55
+2026-03-24,Macapá,54
+2026-03-25,Macapá,56
+2026-03-26,Macapá,60
+2026-03-27,Macapá,47
+2026-03-28,Macapá,45
+2026-03-29,Macapá,32
+2026-03-30,Macapá,48
+2026-03-31,Macapá,57
+2026-04-01,Macapá,52
+2026-04-02,Macapá,66
+2026-04-03,Macapá,43
+2026-04-04,Macapá,43
+2026-04-05,Macapá,34
+2026-04-06,Macapá,63
+2026-04-07,Macapá,54
+2026-04-08,Macapá,52
+2026-04-09,Macapá,42
+2026-04-10,Macapá,39
+2026-04-11,Macapá,54
+2026-04-12,Macapá,42
+2026-04-13,Macapá,55
+2026-04-14,Macapá,48
+2026-04-15,Macapá,54
+2026-04-16,Macapá,53
+2026-04-17,Macapá,52
+2026-04-18,Macapá,51
+2026-04-19,Macapá,41
+2026-04-20,Macapá,61
+2026-04-21,Macapá,70
+2026-04-22,Macapá,54
+2026-04-23,Macapá,56
+2026-04-24,Macapá,38
+2026-04-25,Macapá,53
+2026-04-26,Macapá,32
+2026-04-27,Macapá,59
+2026-04-28,Macapá,46
+2026-04-29,Macapá,37
+2026-04-30,Macapá,58
+2026-05-01,Macapá,51
+2026-05-02,Macapá,35
+2026-05-03,Macapá,34
+2026-05-04,Macapá,69
+2026-05-05,Macapá,73
+2026-05-06,Macapá,42
+2026-05-07,Macapá,57
+2026-05-08,Macapá,45
+2026-05-09,Macapá,43
+2026-05-10,Macapá,33
+2026-05-11,Macapá,61
+2026-05-12,Macapá,48
+2026-05-13,Macapá,52
+2026-05-14,Macapá,49
+2026-05-15,Macapá,38
+2026-05-16,Macapá,36
+2026-05-17,Macapá,40
+2026-05-18,Macapá,52
+2026-05-19,Macapá,52
+2026-05-20,Macapá,46
+2026-05-21,Macapá,46
+2026-05-22,Macapá,45
+2026-05-23,Macapá,41
+2026-05-24,Macapá,40
+2026-05-25,Macapá,57
+2026-05-26,Macapá,62
+2026-05-27,Macapá,64
+2026-05-28,Macapá,56
+2026-05-29,Macapá,62
+2026-05-30,Macapá,41
+2026-05-31,Macapá,40
+2026-01-05,Caxias do Sul,46
+2026-01-06,Caxias do Sul,56
+2026-01-07,Caxias do Sul,45
+2026-01-08,Caxias do Sul,42
+2026-01-09,Caxias do Sul,46
+2026-01-10,Caxias do Sul,30
+2026-01-11,Caxias do Sul,40
+2026-01-12,Caxias do Sul,50
+2026-01-13,Caxias do Sul,54
+2026-01-14,Caxias do Sul,57
+2026-01-15,Caxias do Sul,43
+2026-01-16,Caxias do Sul,40
+2026-01-17,Caxias do Sul,31
+2026-01-18,Caxias do Sul,36
+2026-01-19,Caxias do Sul,52
+2026-01-20,Caxias do Sul,43
+2026-01-21,Caxias do Sul,45
+2026-01-22,Caxias do Sul,50
+2026-01-23,Caxias do Sul,34
+2026-01-24,Caxias do Sul,37
+2026-01-25,Caxias do Sul,30
+2026-01-26,Caxias do Sul,43
+2026-01-27,Caxias do Sul,46
+2026-01-28,Caxias do Sul,57
+2026-01-29,Caxias do Sul,45
+2026-01-30,Caxias do Sul,40
+2026-01-31,Caxias do Sul,49
+2026-02-01,Caxias do Sul,32
+2026-02-02,Caxias do Sul,47
+2026-02-03,Caxias do Sul,42
+2026-02-04,Caxias do Sul,49
+2026-02-05,Caxias do Sul,62
+2026-02-06,Caxias do Sul,39
+2026-02-07,Caxias do Sul,37
+2026-02-08,Caxias do Sul,31
+2026-02-09,Caxias do Sul,60
+2026-02-10,Caxias do Sul,49
+2026-02-11,Caxias do Sul,50
+2026-02-12,Caxias do Sul,43
+2026-02-13,Caxias do Sul,29
+2026-02-14,Caxias do Sul,21
+2026-02-15,Caxias do Sul,24
+2026-02-16,Caxias do Sul,33
+2026-02-17,Caxias do Sul,40
+2026-02-18,Caxias do Sul,56
+2026-02-19,Caxias do Sul,42
+2026-02-20,Caxias do Sul,49
+2026-02-21,Caxias do Sul,53
+2026-02-22,Caxias do Sul,36
+2026-02-23,Caxias do Sul,48
+2026-02-24,Caxias do Sul,40
+2026-02-25,Caxias do Sul,41
+2026-02-26,Caxias do Sul,47
+2026-02-27,Caxias do Sul,52
+2026-02-28,Caxias do Sul,42
+2026-03-01,Caxias do Sul,36
+2026-03-02,Caxias do Sul,56
+2026-03-03,Caxias do Sul,49
+2026-03-04,Caxias do Sul,49
+2026-03-05,Caxias do Sul,43
+2026-03-06,Caxias do Sul,47
+2026-03-07,Caxias do Sul,42
+2026-03-08,Caxias do Sul,36
+2026-03-09,Caxias do Sul,55
+2026-03-10,Caxias do Sul,48
+2026-03-11,Caxias do Sul,35
+2026-03-12,Caxias do Sul,52
+2026-03-13,Caxias do Sul,50
+2026-03-14,Caxias do Sul,51
+2026-03-15,Caxias do Sul,27
+2026-03-16,Caxias do Sul,51
+2026-03-17,Caxias do Sul,40
+2026-03-18,Caxias do Sul,51
+2026-03-19,Caxias do Sul,48
+2026-03-20,Caxias do Sul,34
+2026-03-21,Caxias do Sul,52
+2026-03-22,Caxias do Sul,33
+2026-03-23,Caxias do Sul,55
+2026-03-24,Caxias do Sul,60
+2026-03-25,Caxias do Sul,45
+2026-03-26,Caxias do Sul,38
+2026-03-27,Caxias do Sul,39
+2026-03-28,Caxias do Sul,40
+2026-03-29,Caxias do Sul,38
+2026-03-30,Caxias do Sul,51
+2026-03-31,Caxias do Sul,58
+2026-04-01,Caxias do Sul,58
+2026-04-02,Caxias do Sul,39
+2026-04-03,Caxias do Sul,63
+2026-04-04,Caxias do Sul,54
+2026-04-05,Caxias do Sul,45
+2026-04-06,Caxias do Sul,58
+2026-04-07,Caxias do Sul,72
+2026-04-08,Caxias do Sul,53
+2026-04-09,Caxias do Sul,48
+2026-04-10,Caxias do Sul,51
+2026-04-11,Caxias do Sul,40
+2026-04-12,Caxias do Sul,36
+2026-04-13,Caxias do Sul,54
+2026-04-14,Caxias do Sul,43
+2026-04-15,Caxias do Sul,60
+2026-04-16,Caxias do Sul,64
+2026-04-17,Caxias do Sul,42
+2026-04-18,Caxias do Sul,42
+2026-04-19,Caxias do Sul,35
+2026-04-20,Caxias do Sul,49
+2026-04-21,Caxias do Sul,41
+2026-04-22,Caxias do Sul,45
+2026-04-23,Caxias do Sul,48
+2026-04-24,Caxias do Sul,49
+2026-04-25,Caxias do Sul,37
+2026-04-26,Caxias do Sul,27
+2026-04-27,Caxias do Sul,60
+2026-04-28,Caxias do Sul,51
+2026-04-29,Caxias do Sul,47
+2026-04-30,Caxias do Sul,47
+2026-05-01,Caxias do Sul,60
+2026-05-02,Caxias do Sul,38
+2026-05-03,Caxias do Sul,45
+2026-05-04,Caxias do Sul,50
+2026-05-05,Caxias do Sul,65
+2026-05-06,Caxias do Sul,66
+2026-05-07,Caxias do Sul,52
+2026-05-08,Caxias do Sul,50
+2026-05-09,Caxias do Sul,44
+2026-05-10,Caxias do Sul,30
+2026-05-11,Caxias do Sul,60
+2026-05-12,Caxias do Sul,63
+2026-05-13,Caxias do Sul,42
+2026-05-14,Caxias do Sul,58
+2026-05-15,Caxias do Sul,58
+2026-05-16,Caxias do Sul,30
+2026-05-17,Caxias do Sul,36
+2026-05-18,Caxias do Sul,39
+2026-05-19,Caxias do Sul,64
+2026-05-20,Caxias do Sul,57
+2026-05-21,Caxias do Sul,45
+2026-05-22,Caxias do Sul,49
+2026-05-23,Caxias do Sul,43
+2026-05-24,Caxias do Sul,33
+2026-05-25,Caxias do Sul,53
+2026-05-26,Caxias do Sul,52
+2026-05-27,Caxias do Sul,59
+2026-05-28,Caxias do Sul,38
+2026-05-29,Caxias do Sul,48
+2026-05-30,Caxias do Sul,49
+2026-05-31,Caxias do Sul,27
+2026-01-05,Vitória,49
+2026-01-06,Vitória,55
+2026-01-07,Vitória,30
+2026-01-08,Vitória,27
+2026-01-09,Vitória,40
+2026-01-10,Vitória,38
+2026-01-11,Vitória,33
+2026-01-12,Vitória,37
+2026-01-13,Vitória,53
+2026-01-14,Vitória,36
+2026-01-15,Vitória,36
+2026-01-16,Vitória,36
+2026-01-17,Vitória,40
+2026-01-18,Vitória,40
+2026-01-19,Vitória,36
+2026-01-20,Vitória,42
+2026-01-21,Vitória,46
+2026-01-22,Vitória,35
+2026-01-23,Vitória,33
+2026-01-24,Vitória,26
+2026-01-25,Vitória,33
+2026-01-26,Vitória,39
+2026-01-27,Vitória,32
+2026-01-28,Vitória,33
+2026-01-29,Vitória,29
+2026-01-30,Vitória,38
+2026-01-31,Vitória,34
+2026-02-01,Vitória,23
+2026-02-02,Vitória,38
+2026-02-03,Vitória,39
+2026-02-04,Vitória,46
+2026-02-05,Vitória,42
+2026-02-06,Vitória,38
+2026-02-07,Vitória,27
+2026-02-08,Vitória,29
+2026-02-09,Vitória,37
+2026-02-10,Vitória,59
+2026-02-11,Vitória,39
+2026-02-12,Vitória,41
+2026-02-13,Vitória,53
+2026-02-14,Vitória,27
+2026-02-15,Vitória,24
+2026-02-16,Vitória,18
+2026-02-17,Vitória,29
+2026-02-18,Vitória,45
+2026-02-19,Vitória,45
+2026-02-20,Vitória,36
+2026-02-21,Vitória,42
+2026-02-22,Vitória,35
+2026-02-23,Vitória,59
+2026-02-24,Vitória,43
+2026-02-25,Vitória,50
+2026-02-26,Vitória,39
+2026-02-27,Vitória,39
+2026-02-28,Vitória,36
+2026-03-01,Vitória,29
+2026-03-02,Vitória,48
+2026-03-03,Vitória,58
+2026-03-04,Vitória,36
+2026-03-05,Vitória,40
+2026-03-06,Vitória,25
+2026-03-07,Vitória,39
+2026-03-08,Vitória,35
+2026-03-09,Vitória,41
+2026-03-10,Vitória,30
+2026-03-11,Vitória,34
+2026-03-12,Vitória,34
+2026-03-13,Vitória,48
+2026-03-14,Vitória,37
+2026-03-15,Vitória,29
+2026-03-16,Vitória,50
+2026-03-17,Vitória,42
+2026-03-18,Vitória,28
+2026-03-19,Vitória,30
+2026-03-20,Vitória,48
+2026-03-21,Vitória,39
+2026-03-22,Vitória,35
+2026-03-23,Vitória,45
+2026-03-24,Vitória,44
+2026-03-25,Vitória,44
+2026-03-26,Vitória,37
+2026-03-27,Vitória,48
+2026-03-28,Vitória,49
+2026-03-29,Vitória,29
+2026-03-30,Vitória,50
+2026-03-31,Vitória,53
+2026-04-01,Vitória,42
+2026-04-02,Vitória,38
+2026-04-03,Vitória,44
+2026-04-04,Vitória,37
+2026-04-05,Vitória,32
+2026-04-06,Vitória,48
+2026-04-07,Vitória,37
+2026-04-08,Vitória,35
+2026-04-09,Vitória,36
+2026-04-10,Vitória,35
+2026-04-11,Vitória,27
+2026-04-12,Vitória,20
+2026-04-13,Vitória,59
+2026-04-14,Vitória,50
+2026-04-15,Vitória,39
+2026-04-16,Vitória,40
+2026-04-17,Vitória,49
+2026-04-18,Vitória,29
+2026-04-19,Vitória,37
+2026-04-20,Vitória,56
+2026-04-21,Vitória,42
+2026-04-22,Vitória,49
+2026-04-23,Vitória,44
+2026-04-24,Vitória,41
+2026-04-25,Vitória,32
+2026-04-26,Vitória,35
+2026-04-27,Vitória,45
+2026-04-28,Vitória,53
+2026-04-29,Vitória,50
+2026-04-30,Vitória,37
+2026-05-01,Vitória,35
+2026-05-02,Vitória,28
+2026-05-03,Vitória,27
+2026-05-04,Vitória,43
+2026-05-05,Vitória,54
+2026-05-06,Vitória,41
+2026-05-07,Vitória,34
+2026-05-08,Vitória,44
+2026-05-09,Vitória,36
+2026-05-10,Vitória,24
+2026-05-11,Vitória,47
+2026-05-12,Vitória,49
+2026-05-13,Vitória,42
+2026-05-14,Vitória,35
+2026-05-15,Vitória,44
+2026-05-16,Vitória,29
+2026-05-17,Vitória,35
+2026-05-18,Vitória,67
+2026-05-19,Vitória,48
+2026-05-20,Vitória,36
+2026-05-21,Vitória,40
+2026-05-22,Vitória,42
+2026-05-23,Vitória,49
+2026-05-24,Vitória,39
+2026-05-25,Vitória,39
+2026-05-26,Vitória,44
+2026-05-27,Vitória,43
+2026-05-28,Vitória,52
+2026-05-29,Vitória,45
+2026-05-30,Vitória,24
+2026-05-31,Vitória,27
+2026-01-05,Maringá,44
+2026-01-06,Maringá,36
+2026-01-07,Maringá,48
+2026-01-08,Maringá,36
+2026-01-09,Maringá,44
+2026-01-10,Maringá,46
+2026-01-11,Maringá,37
+2026-01-12,Maringá,48
+2026-01-13,Maringá,44
+2026-01-14,Maringá,44
+2026-01-15,Maringá,41
+2026-01-16,Maringá,48
+2026-01-17,Maringá,32
+2026-01-18,Maringá,30
+2026-01-19,Maringá,36
+2026-01-20,Maringá,55
+2026-01-21,Maringá,48
+2026-01-22,Maringá,41
+2026-01-23,Maringá,33
+2026-01-24,Maringá,38
+2026-01-25,Maringá,37
+2026-01-26,Maringá,50
+2026-01-27,Maringá,37
+2026-01-28,Maringá,38
+2026-01-29,Maringá,48
+2026-01-30,Maringá,35
+2026-01-31,Maringá,43
+2026-02-01,Maringá,34
+2026-02-02,Maringá,56
+2026-02-03,Maringá,48
+2026-02-04,Maringá,57
+2026-02-05,Maringá,52
+2026-02-06,Maringá,48
+2026-02-07,Maringá,37
+2026-02-08,Maringá,43
+2026-02-09,Maringá,59
+2026-02-10,Maringá,47
+2026-02-11,Maringá,40
+2026-02-12,Maringá,39
+2026-02-13,Maringá,30
+2026-02-14,Maringá,35
+2026-02-15,Maringá,24
+2026-02-16,Maringá,38
+2026-02-17,Maringá,35
+2026-02-18,Maringá,49
+2026-02-19,Maringá,41
+2026-02-20,Maringá,45
+2026-02-21,Maringá,37
+2026-02-22,Maringá,39
+2026-02-23,Maringá,46
+2026-02-24,Maringá,59
+2026-02-25,Maringá,47
+2026-02-26,Maringá,37
+2026-02-27,Maringá,46
+2026-02-28,Maringá,29
+2026-03-01,Maringá,34
+2026-03-02,Maringá,45
+2026-03-03,Maringá,51
+2026-03-04,Maringá,49
+2026-03-05,Maringá,51
+2026-03-06,Maringá,51
+2026-03-07,Maringá,29
+2026-03-08,Maringá,31
+2026-03-09,Maringá,50
+2026-03-10,Maringá,37
+2026-03-11,Maringá,48
+2026-03-12,Maringá,41
+2026-03-13,Maringá,41
+2026-03-14,Maringá,35
+2026-03-15,Maringá,38
+2026-03-16,Maringá,51
+2026-03-17,Maringá,52
+2026-03-18,Maringá,49
+2026-03-19,Maringá,40
+2026-03-20,Maringá,46
+2026-03-21,Maringá,43
+2026-03-22,Maringá,45
+2026-03-23,Maringá,40
+2026-03-24,Maringá,42
+2026-03-25,Maringá,30
+2026-03-26,Maringá,32
+2026-03-27,Maringá,38
+2026-03-28,Maringá,37
+2026-03-29,Maringá,25
+2026-03-30,Maringá,42
+2026-03-31,Maringá,40
+2026-04-01,Maringá,59
+2026-04-02,Maringá,38
+2026-04-03,Maringá,45
+2026-04-04,Maringá,47
+2026-04-05,Maringá,43
+2026-04-06,Maringá,52
+2026-04-07,Maringá,48
+2026-04-08,Maringá,45
+2026-04-09,Maringá,36
+2026-04-10,Maringá,39
+2026-04-11,Maringá,37
+2026-04-12,Maringá,30
+2026-04-13,Maringá,44
+2026-04-14,Maringá,52
+2026-04-15,Maringá,54
+2026-04-16,Maringá,51
+2026-04-17,Maringá,35
+2026-04-18,Maringá,41
+2026-04-19,Maringá,36
+2026-04-20,Maringá,47
+2026-04-21,Maringá,40
+2026-04-22,Maringá,49
+2026-04-23,Maringá,53
+2026-04-24,Maringá,55
+2026-04-25,Maringá,48
+2026-04-26,Maringá,36
+2026-04-27,Maringá,52
+2026-04-28,Maringá,49
+2026-04-29,Maringá,44
+2026-04-30,Maringá,40
+2026-05-01,Maringá,47
+2026-05-02,Maringá,55
+2026-05-03,Maringá,35
+2026-05-04,Maringá,72
+2026-05-05,Maringá,55
+2026-05-06,Maringá,58
+2026-05-07,Maringá,60
+2026-05-08,Maringá,57
+2026-05-09,Maringá,31
+2026-05-10,Maringá,41
+2026-05-11,Maringá,50
+2026-05-12,Maringá,56
+2026-05-13,Maringá,49
+2026-05-14,Maringá,44
+2026-05-15,Maringá,45
+2026-05-16,Maringá,44
+2026-05-17,Maringá,53
+2026-05-18,Maringá,42
+2026-05-19,Maringá,51
+2026-05-20,Maringá,63
+2026-05-21,Maringá,50
+2026-05-22,Maringá,47
+2026-05-23,Maringá,41
+2026-05-24,Maringá,32
+2026-05-25,Maringá,66
+2026-05-26,Maringá,56
+2026-05-27,Maringá,38
+2026-05-28,Maringá,51
+2026-05-29,Maringá,44
+2026-05-30,Maringá,48
+2026-05-31,Maringá,47
+2026-01-05,Feira de Santana,72
+2026-01-06,Feira de Santana,71
+2026-01-07,Feira de Santana,76
+2026-01-08,Feira de Santana,67
+2026-01-09,Feira de Santana,64
+2026-01-10,Feira de Santana,57
+2026-01-11,Feira de Santana,45
+2026-01-12,Feira de Santana,71
+2026-01-13,Feira de Santana,87
+2026-01-14,Feira de Santana,56
+2026-01-15,Feira de Santana,67
+2026-01-16,Feira de Santana,62
+2026-01-17,Feira de Santana,64
+2026-01-18,Feira de Santana,64
+2026-01-19,Feira de Santana,77
+2026-01-20,Feira de Santana,85
+2026-01-21,Feira de Santana,76
+2026-01-22,Feira de Santana,64
+2026-01-23,Feira de Santana,72
+2026-01-24,Feira de Santana,52
+2026-01-25,Feira de Santana,60
+2026-01-26,Feira de Santana,69
+2026-01-27,Feira de Santana,69
+2026-01-28,Feira de Santana,77
+2026-01-29,Feira de Santana,66
+2026-01-30,Feira de Santana,54
+2026-01-31,Feira de Santana,69
+2026-02-01,Feira de Santana,46
+2026-02-02,Feira de Santana,63
+2026-02-03,Feira de Santana,70
+2026-02-04,Feira de Santana,78
+2026-02-05,Feira de Santana,80
+2026-02-06,Feira de Santana,76
+2026-02-07,Feira de Santana,67
+2026-02-08,Feira de Santana,55
+2026-02-09,Feira de Santana,78
+2026-02-10,Feira de Santana,74
+2026-02-11,Feira de Santana,62
+2026-02-12,Feira de Santana,78
+2026-02-13,Feira de Santana,62
+2026-02-14,Feira de Santana,44
+2026-02-15,Feira de Santana,45
+2026-02-16,Feira de Santana,65
+2026-02-17,Feira de Santana,61
+2026-02-18,Feira de Santana,65
+2026-02-19,Feira de Santana,57
+2026-02-20,Feira de Santana,55
+2026-02-21,Feira de Santana,72
+2026-02-22,Feira de Santana,56
+2026-02-23,Feira de Santana,76
+2026-02-24,Feira de Santana,97
+2026-02-25,Feira de Santana,68
+2026-02-26,Feira de Santana,77
+2026-02-27,Feira de Santana,79
+2026-02-28,Feira de Santana,67
+2026-03-01,Feira de Santana,56
+2026-03-02,Feira de Santana,90
+2026-03-03,Feira de Santana,97
+2026-03-04,Feira de Santana,84
+2026-03-05,Feira de Santana,71
+2026-03-06,Feira de Santana,64
+2026-03-07,Feira de Santana,62
+2026-03-08,Feira de Santana,66
+2026-03-09,Feira de Santana,67
+2026-03-10,Feira de Santana,62
+2026-03-11,Feira de Santana,77
+2026-03-12,Feira de Santana,69
+2026-03-13,Feira de Santana,66
+2026-03-14,Feira de Santana,60
+2026-03-15,Feira de Santana,60
+2026-03-16,Feira de Santana,83
+2026-03-17,Feira de Santana,60
+2026-03-18,Feira de Santana,81
+2026-03-19,Feira de Santana,85
+2026-03-20,Feira de Santana,77
+2026-03-21,Feira de Santana,61
+2026-03-22,Feira de Santana,56
+2026-03-23,Feira de Santana,60
+2026-03-24,Feira de Santana,68
+2026-03-25,Feira de Santana,59
+2026-03-26,Feira de Santana,77
+2026-03-27,Feira de Santana,67
+2026-03-28,Feira de Santana,78
+2026-03-29,Feira de Santana,71
+2026-03-30,Feira de Santana,71
+2026-03-31,Feira de Santana,91
+2026-04-01,Feira de Santana,80
+2026-04-02,Feira de Santana,86
+2026-04-03,Feira de Santana,75
+2026-04-04,Feira de Santana,71
+2026-04-05,Feira de Santana,54
+2026-04-06,Feira de Santana,87
+2026-04-07,Feira de Santana,77
+2026-04-08,Feira de Santana,76
+2026-04-09,Feira de Santana,76
+2026-04-10,Feira de Santana,71
+2026-04-11,Feira de Santana,72
+2026-04-12,Feira de Santana,69
+2026-04-13,Feira de Santana,82
+2026-04-14,Feira de Santana,73
+2026-04-15,Feira de Santana,74
+2026-04-16,Feira de Santana,59
+2026-04-17,Feira de Santana,74
+2026-04-18,Feira de Santana,61
+2026-04-19,Feira de Santana,63
+2026-04-20,Feira de Santana,83
+2026-04-21,Feira de Santana,78
+2026-04-22,Feira de Santana,56
+2026-04-23,Feira de Santana,74
+2026-04-24,Feira de Santana,56
+2026-04-25,Feira de Santana,59
+2026-04-26,Feira de Santana,29
+2026-04-27,Feira de Santana,87
+2026-04-28,Feira de Santana,59
+2026-04-29,Feira de Santana,72
+2026-04-30,Feira de Santana,73
+2026-05-01,Feira de Santana,72
+2026-05-02,Feira de Santana,60
+2026-05-03,Feira de Santana,59
+2026-05-04,Feira de Santana,82
+2026-05-05,Feira de Santana,98
+2026-05-06,Feira de Santana,81
+2026-05-07,Feira de Santana,89
+2026-05-08,Feira de Santana,59
+2026-05-09,Feira de Santana,67
+2026-05-10,Feira de Santana,52
+2026-05-11,Feira de Santana,87
+2026-05-12,Feira de Santana,71
+2026-05-13,Feira de Santana,87
+2026-05-14,Feira de Santana,79
+2026-05-15,Feira de Santana,85
+2026-05-16,Feira de Santana,54
+2026-05-17,Feira de Santana,64
+2026-05-18,Feira de Santana,87
+2026-05-19,Feira de Santana,71
+2026-05-20,Feira de Santana,82
+2026-05-21,Feira de Santana,81
+2026-05-22,Feira de Santana,76
+2026-05-23,Feira de Santana,61
+2026-05-24,Feira de Santana,65
+2026-05-25,Feira de Santana,81
+2026-05-26,Feira de Santana,79
+2026-05-27,Feira de Santana,77
+2026-05-28,Feira de Santana,77
+2026-05-29,Feira de Santana,68
+2026-05-30,Feira de Santana,64
+2026-05-31,Feira de Santana,58
+2026-01-05,Campina Grande,53
+2026-01-06,Campina Grande,60
+2026-01-07,Campina Grande,44
+2026-01-08,Campina Grande,35
+2026-01-09,Campina Grande,40
+2026-01-10,Campina Grande,26
+2026-01-11,Campina Grande,37
+2026-01-12,Campina Grande,54
+2026-01-13,Campina Grande,56
+2026-01-14,Campina Grande,48
+2026-01-15,Campina Grande,40
+2026-01-16,Campina Grande,50
+2026-01-17,Campina Grande,30
+2026-01-18,Campina Grande,33
+2026-01-19,Campina Grande,34
+2026-01-20,Campina Grande,54
+2026-01-21,Campina Grande,36
+2026-01-22,Campina Grande,46
+2026-01-23,Campina Grande,51
+2026-01-24,Campina Grande,29
+2026-01-25,Campina Grande,39
+2026-01-26,Campina Grande,39
+2026-01-27,Campina Grande,51
+2026-01-28,Campina Grande,47
+2026-01-29,Campina Grande,38
+2026-01-30,Campina Grande,31
+2026-01-31,Campina Grande,27
+2026-02-01,Campina Grande,28
+2026-02-02,Campina Grande,44
+2026-02-03,Campina Grande,51
+2026-02-04,Campina Grande,41
+2026-02-05,Campina Grande,56
+2026-02-06,Campina Grande,41
+2026-02-07,Campina Grande,41
+2026-02-08,Campina Grande,32
+2026-02-09,Campina Grande,46
+2026-02-10,Campina Grande,39
+2026-02-11,Campina Grande,50
+2026-02-12,Campina Grande,37
+2026-02-13,Campina Grande,44
+2026-02-14,Campina Grande,24
+2026-02-15,Campina Grande,30
+2026-02-16,Campina Grande,44
+2026-02-17,Campina Grande,42
+2026-02-18,Campina Grande,54
+2026-02-19,Campina Grande,43
+2026-02-20,Campina Grande,61
+2026-02-21,Campina Grande,48
+2026-02-22,Campina Grande,43
+2026-02-23,Campina Grande,58
+2026-02-24,Campina Grande,47
+2026-02-25,Campina Grande,61
+2026-02-26,Campina Grande,52
+2026-02-27,Campina Grande,61
+2026-02-28,Campina Grande,40
+2026-03-01,Campina Grande,51
+2026-03-02,Campina Grande,44
+2026-03-03,Campina Grande,59
+2026-03-04,Campina Grande,54
+2026-03-05,Campina Grande,46
+2026-03-06,Campina Grande,44
+2026-03-07,Campina Grande,43
+2026-03-08,Campina Grande,38
+2026-03-09,Campina Grande,67
+2026-03-10,Campina Grande,46
+2026-03-11,Campina Grande,46
+2026-03-12,Campina Grande,43
+2026-03-13,Campina Grande,28
+2026-03-14,Campina Grande,45
+2026-03-15,Campina Grande,42
+2026-03-16,Campina Grande,56
+2026-03-17,Campina Grande,68
+2026-03-18,Campina Grande,52
+2026-03-19,Campina Grande,45
+2026-03-20,Campina Grande,54
+2026-03-21,Campina Grande,47
+2026-03-22,Campina Grande,40
+2026-03-23,Campina Grande,59
+2026-03-24,Campina Grande,49
+2026-03-25,Campina Grande,48
+2026-03-26,Campina Grande,40
+2026-03-27,Campina Grande,43
+2026-03-28,Campina Grande,54
+2026-03-29,Campina Grande,39
+2026-03-30,Campina Grande,60
+2026-03-31,Campina Grande,71
+2026-04-01,Campina Grande,54
+2026-04-02,Campina Grande,34
+2026-04-03,Campina Grande,53
+2026-04-04,Campina Grande,36
+2026-04-05,Campina Grande,42
+2026-04-06,Campina Grande,59
+2026-04-07,Campina Grande,58
+2026-04-08,Campina Grande,43
+2026-04-09,Campina Grande,50
+2026-04-10,Campina Grande,40
+2026-04-11,Campina Grande,42
+2026-04-12,Campina Grande,32
+2026-04-13,Campina Grande,48
+2026-04-14,Campina Grande,48
+2026-04-15,Campina Grande,40
+2026-04-16,Campina Grande,49
+2026-04-17,Campina Grande,50
+2026-04-18,Campina Grande,38
+2026-04-19,Campina Grande,37
+2026-04-20,Campina Grande,57
+2026-04-21,Campina Grande,48
+2026-04-22,Campina Grande,50
+2026-04-23,Campina Grande,67
+2026-04-24,Campina Grande,54
+2026-04-25,Campina Grande,43
+2026-04-26,Campina Grande,43
+2026-04-27,Campina Grande,62
+2026-04-28,Campina Grande,59
+2026-04-29,Campina Grande,51
+2026-04-30,Campina Grande,44
+2026-05-01,Campina Grande,49
+2026-05-02,Campina Grande,47
+2026-05-03,Campina Grande,44
+2026-05-04,Campina Grande,47
+2026-05-05,Campina Grande,55
+2026-05-06,Campina Grande,42
+2026-05-07,Campina Grande,50
+2026-05-08,Campina Grande,46
+2026-05-09,Campina Grande,29
+2026-05-10,Campina Grande,31
+2026-05-11,Campina Grande,63
+2026-05-12,Campina Grande,51
+2026-05-13,Campina Grande,53
+2026-05-14,Campina Grande,45
+2026-05-15,Campina Grande,44
+2026-05-16,Campina Grande,44
+2026-05-17,Campina Grande,36
+2026-05-18,Campina Grande,58
+2026-05-19,Campina Grande,46
+2026-05-20,Campina Grande,46
+2026-05-21,Campina Grande,49
+2026-05-22,Campina Grande,42
+2026-05-23,Campina Grande,40
+2026-05-24,Campina Grande,48
+2026-05-25,Campina Grande,62
+2026-05-26,Campina Grande,54
+2026-05-27,Campina Grande,58
+2026-05-28,Campina Grande,51
+2026-05-29,Campina Grande,53
+2026-05-30,Campina Grande,39
+2026-05-31,Campina Grande,33
+2026-01-05,Boa Vista,54
+2026-01-06,Boa Vista,48
+2026-01-07,Boa Vista,56
+2026-01-08,Boa Vista,45
+2026-01-09,Boa Vista,49
+2026-01-10,Boa Vista,37
+2026-01-11,Boa Vista,39
+2026-01-12,Boa Vista,61
+2026-01-13,Boa Vista,54
+2026-01-14,Boa Vista,41
+2026-01-15,Boa Vista,43
+2026-01-16,Boa Vista,35
+2026-01-17,Boa Vista,35
+2026-01-18,Boa Vista,43
+2026-01-19,Boa Vista,59
+2026-01-20,Boa Vista,54
+2026-01-21,Boa Vista,49
+2026-01-22,Boa Vista,51
+2026-01-23,Boa Vista,35
+2026-01-24,Boa Vista,39
+2026-01-25,Boa Vista,41
+2026-01-26,Boa Vista,50
+2026-01-27,Boa Vista,49
+2026-01-28,Boa Vista,43
+2026-01-29,Boa Vista,51
+2026-01-30,Boa Vista,40
+2026-01-31,Boa Vista,46
+2026-02-01,Boa Vista,36
+2026-02-02,Boa Vista,58
+2026-02-03,Boa Vista,50
+2026-02-04,Boa Vista,45
+2026-02-05,Boa Vista,61
+2026-02-06,Boa Vista,60
+2026-02-07,Boa Vista,43
+2026-02-08,Boa Vista,32
+2026-02-09,Boa Vista,50
+2026-02-10,Boa Vista,49
+2026-02-11,Boa Vista,44
+2026-02-12,Boa Vista,42
+2026-02-13,Boa Vista,51
+2026-02-14,Boa Vista,26
+2026-02-15,Boa Vista,28
+2026-02-16,Boa Vista,52
+2026-02-17,Boa Vista,44
+2026-02-18,Boa Vista,36
+2026-02-19,Boa Vista,55
+2026-02-20,Boa Vista,45
+2026-02-21,Boa Vista,49
+2026-02-22,Boa Vista,43
+2026-02-23,Boa Vista,63
+2026-02-24,Boa Vista,55
+2026-02-25,Boa Vista,45
+2026-02-26,Boa Vista,56
+2026-02-27,Boa Vista,36
+2026-02-28,Boa Vista,49
+2026-03-01,Boa Vista,47
+2026-03-02,Boa Vista,59
+2026-03-03,Boa Vista,37
+2026-03-04,Boa Vista,44
+2026-03-05,Boa Vista,45
+2026-03-06,Boa Vista,46
+2026-03-07,Boa Vista,34
+2026-03-08,Boa Vista,37
+2026-03-09,Boa Vista,51
+2026-03-10,Boa Vista,54
+2026-03-11,Boa Vista,49
+2026-03-12,Boa Vista,51
+2026-03-13,Boa Vista,37
+2026-03-14,Boa Vista,40
+2026-03-15,Boa Vista,34
+2026-03-16,Boa Vista,59
+2026-03-17,Boa Vista,53
+2026-03-18,Boa Vista,65
+2026-03-19,Boa Vista,46
+2026-03-20,Boa Vista,57
+2026-03-21,Boa Vista,58
+2026-03-22,Boa Vista,40
+2026-03-23,Boa Vista,58
+2026-03-24,Boa Vista,62
+2026-03-25,Boa Vista,49
+2026-03-26,Boa Vista,47
+2026-03-27,Boa Vista,43
+2026-03-28,Boa Vista,51
+2026-03-29,Boa Vista,38
+2026-03-30,Boa Vista,52
+2026-03-31,Boa Vista,54
+2026-04-01,Boa Vista,51
+2026-04-02,Boa Vista,54
+2026-04-03,Boa Vista,43
+2026-04-04,Boa Vista,39
+2026-04-05,Boa Vista,40
+2026-04-06,Boa Vista,50
+2026-04-07,Boa Vista,67
+2026-04-08,Boa Vista,56
+2026-04-09,Boa Vista,42
+2026-04-10,Boa Vista,59
+2026-04-11,Boa Vista,47
+2026-04-12,Boa Vista,41
+2026-04-13,Boa Vista,60
+2026-04-14,Boa Vista,57
+2026-04-15,Boa Vista,50
+2026-04-16,Boa Vista,49
+2026-04-17,Boa Vista,40
+2026-04-18,Boa Vista,46
+2026-04-19,Boa Vista,45
+2026-04-20,Boa Vista,69
+2026-04-21,Boa Vista,63
+2026-04-22,Boa Vista,40
+2026-04-23,Boa Vista,47
+2026-04-24,Boa Vista,55
+2026-04-25,Boa Vista,43
+2026-04-26,Boa Vista,46
+2026-04-27,Boa Vista,52
+2026-04-28,Boa Vista,50
+2026-04-29,Boa Vista,52
+2026-04-30,Boa Vista,39
+2026-05-01,Boa Vista,65
+2026-05-02,Boa Vista,41
+2026-05-03,Boa Vista,36
+2026-05-04,Boa Vista,51
+2026-05-05,Boa Vista,62
+2026-05-06,Boa Vista,58
+2026-05-07,Boa Vista,54
+2026-05-08,Boa Vista,46
+2026-05-09,Boa Vista,43
+2026-05-10,Boa Vista,34
+2026-05-11,Boa Vista,53
+2026-05-12,Boa Vista,58
+2026-05-13,Boa Vista,46
+2026-05-14,Boa Vista,46
+2026-05-15,Boa Vista,37
+2026-05-16,Boa Vista,44
+2026-05-17,Boa Vista,44
+2026-05-18,Boa Vista,56
+2026-05-19,Boa Vista,50
+2026-05-20,Boa Vista,49
+2026-05-21,Boa Vista,58
+2026-05-22,Boa Vista,39
+2026-05-23,Boa Vista,41
+2026-05-24,Boa Vista,36
+2026-05-25,Boa Vista,45
+2026-05-26,Boa Vista,63
+2026-05-27,Boa Vista,48
+2026-05-28,Boa Vista,39
+2026-05-29,Boa Vista,47
+2026-05-30,Boa Vista,48
+2026-05-31,Boa Vista,34
+2026-01-05,Santos,64
+2026-01-06,Santos,56
+2026-01-07,Santos,48
+2026-01-08,Santos,46
+2026-01-09,Santos,43
+2026-01-10,Santos,39
+2026-01-11,Santos,24
+2026-01-12,Santos,41
+2026-01-13,Santos,37
+2026-01-14,Santos,43
+2026-01-15,Santos,46
+2026-01-16,Santos,46
+2026-01-17,Santos,35
+2026-01-18,Santos,46
+2026-01-19,Santos,43
+2026-01-20,Santos,47
+2026-01-21,Santos,52
+2026-01-22,Santos,52
+2026-01-23,Santos,56
+2026-01-24,Santos,39
+2026-01-25,Santos,50
+2026-01-26,Santos,58
+2026-01-27,Santos,50
+2026-01-28,Santos,47
+2026-01-29,Santos,41
+2026-01-30,Santos,35
+2026-01-31,Santos,42
+2026-02-01,Santos,43
+2026-02-02,Santos,33
+2026-02-03,Santos,53
+2026-02-04,Santos,54
+2026-02-05,Santos,61
+2026-02-06,Santos,46
+2026-02-07,Santos,45
+2026-02-08,Santos,28
+2026-02-09,Santos,67
+2026-02-10,Santos,40
+2026-02-11,Santos,36
+2026-02-12,Santos,41
+2026-02-13,Santos,40
+2026-02-14,Santos,25
+2026-02-15,Santos,27
+2026-02-16,Santos,43
+2026-02-17,Santos,38
+2026-02-18,Santos,51
+2026-02-19,Santos,33
+2026-02-20,Santos,45
+2026-02-21,Santos,59
+2026-02-22,Santos,40
+2026-02-23,Santos,69
+2026-02-24,Santos,33
+2026-02-25,Santos,42
+2026-02-26,Santos,40
+2026-02-27,Santos,51
+2026-02-28,Santos,41
+2026-03-01,Santos,27
+2026-03-02,Santos,50
+2026-03-03,Santos,47
+2026-03-04,Santos,37
+2026-03-05,Santos,52
+2026-03-06,Santos,42
+2026-03-07,Santos,44
+2026-03-08,Santos,25
+2026-03-09,Santos,53
+2026-03-10,Santos,43
+2026-03-11,Santos,51
+2026-03-12,Santos,50
+2026-03-13,Santos,55
+2026-03-14,Santos,48
+2026-03-15,Santos,30
+2026-03-16,Santos,55
+2026-03-17,Santos,55
+2026-03-18,Santos,41
+2026-03-19,Santos,50
+2026-03-20,Santos,52
+2026-03-21,Santos,50
+2026-03-22,Santos,39
+2026-03-23,Santos,53
+2026-03-24,Santos,53
+2026-03-25,Santos,58
+2026-03-26,Santos,50
+2026-03-27,Santos,52
+2026-03-28,Santos,27
+2026-03-29,Santos,43
+2026-03-30,Santos,58
+2026-03-31,Santos,60
+2026-04-01,Santos,51
+2026-04-02,Santos,48
+2026-04-03,Santos,49
+2026-04-04,Santos,48
+2026-04-05,Santos,38
+2026-04-06,Santos,70
+2026-04-07,Santos,51
+2026-04-08,Santos,56
+2026-04-09,Santos,41
+2026-04-10,Santos,53
+2026-04-11,Santos,46
+2026-04-12,Santos,37
+2026-04-13,Santos,44
+2026-04-14,Santos,60
+2026-04-15,Santos,65
+2026-04-16,Santos,44
+2026-04-17,Santos,54
+2026-04-18,Santos,33
+2026-04-19,Santos,34
+2026-04-20,Santos,65
+2026-04-21,Santos,65
+2026-04-22,Santos,58
+2026-04-23,Santos,48
+2026-04-24,Santos,47
+2026-04-25,Santos,42
+2026-04-26,Santos,36
+2026-04-27,Santos,47
+2026-04-28,Santos,32
+2026-04-29,Santos,55
+2026-04-30,Santos,53
+2026-05-01,Santos,69
+2026-05-02,Santos,41
+2026-05-03,Santos,46
+2026-05-04,Santos,54
+2026-05-05,Santos,45
+2026-05-06,Santos,59
+2026-05-07,Santos,37
+2026-05-08,Santos,40
+2026-05-09,Santos,43
+2026-05-10,Santos,37
+2026-05-11,Santos,55
+2026-05-12,Santos,60
+2026-05-13,Santos,45
+2026-05-14,Santos,52
+2026-05-15,Santos,44
+2026-05-16,Santos,39
+2026-05-17,Santos,47
+2026-05-18,Santos,47
+2026-05-19,Santos,32
+2026-05-20,Santos,47
+2026-05-21,Santos,58
+2026-05-22,Santos,51
+2026-05-23,Santos,42
+2026-05-24,Santos,34
+2026-05-25,Santos,55
+2026-05-26,Santos,36
+2026-05-27,Santos,50
+2026-05-28,Santos,47
+2026-05-29,Santos,54
+2026-05-30,Santos,47
+2026-05-31,Santos,33
+2026-01-05,Palmas,37
+2026-01-06,Palmas,37
+2026-01-07,Palmas,33
+2026-01-08,Palmas,35
+2026-01-09,Palmas,17
+2026-01-10,Palmas,30
+2026-01-11,Palmas,29
+2026-01-12,Palmas,38
+2026-01-13,Palmas,39
+2026-01-14,Palmas,30
+2026-01-15,Palmas,25
+2026-01-16,Palmas,24
+2026-01-17,Palmas,20
+2026-01-18,Palmas,28
+2026-01-19,Palmas,32
+2026-01-20,Palmas,38
+2026-01-21,Palmas,35
+2026-01-22,Palmas,30
+2026-01-23,Palmas,32
+2026-01-24,Palmas,25
+2026-01-25,Palmas,29
+2026-01-26,Palmas,34
+2026-01-27,Palmas,47
+2026-01-28,Palmas,42
+2026-01-29,Palmas,34
+2026-01-30,Palmas,42
+2026-01-31,Palmas,36
+2026-02-01,Palmas,24
+2026-02-02,Palmas,41
+2026-02-03,Palmas,32
+2026-02-04,Palmas,44
+2026-02-05,Palmas,44
+2026-02-06,Palmas,27
+2026-02-07,Palmas,34
+2026-02-08,Palmas,23
+2026-02-09,Palmas,27
+2026-02-10,Palmas,36
+2026-02-11,Palmas,32
+2026-02-12,Palmas,38
+2026-02-13,Palmas,38
+2026-02-14,Palmas,18
+2026-02-15,Palmas,12
+2026-02-16,Palmas,32
+2026-02-17,Palmas,31
+2026-02-18,Palmas,33
+2026-02-19,Palmas,24
+2026-02-20,Palmas,39
+2026-02-21,Palmas,35
+2026-02-22,Palmas,34
+2026-02-23,Palmas,44
+2026-02-24,Palmas,43
+2026-02-25,Palmas,34
+2026-02-26,Palmas,23
+2026-02-27,Palmas,45
+2026-02-28,Palmas,34
+2026-03-01,Palmas,23
+2026-03-02,Palmas,49
+2026-03-03,Palmas,37
+2026-03-04,Palmas,49
+2026-03-05,Palmas,46
+2026-03-06,Palmas,37
+2026-03-07,Palmas,26
+2026-03-08,Palmas,34
+2026-03-09,Palmas,51
+2026-03-10,Palmas,31
+2026-03-11,Palmas,28
+2026-03-12,Palmas,35
+2026-03-13,Palmas,26
+2026-03-14,Palmas,31
+2026-03-15,Palmas,31
+2026-03-16,Palmas,40
+2026-03-17,Palmas,49
+2026-03-18,Palmas,32
+2026-03-19,Palmas,44
+2026-03-20,Palmas,36
+2026-03-21,Palmas,22
+2026-03-22,Palmas,24
+2026-03-23,Palmas,50
+2026-03-24,Palmas,33
+2026-03-25,Palmas,27
+2026-03-26,Palmas,38
+2026-03-27,Palmas,28
+2026-03-28,Palmas,33
+2026-03-29,Palmas,35
+2026-03-30,Palmas,41
+2026-03-31,Palmas,40
+2026-04-01,Palmas,36
+2026-04-02,Palmas,50
+2026-04-03,Palmas,32
+2026-04-04,Palmas,32
+2026-04-05,Palmas,25
+2026-04-06,Palmas,37
+2026-04-07,Palmas,36
+2026-04-08,Palmas,23
+2026-04-09,Palmas,34
+2026-04-10,Palmas,37
+2026-04-11,Palmas,34
+2026-04-12,Palmas,29
+2026-04-13,Palmas,38
+2026-04-14,Palmas,42
+2026-04-15,Palmas,44
+2026-04-16,Palmas,44
+2026-04-17,Palmas,39
+2026-04-18,Palmas,29
+2026-04-19,Palmas,32
+2026-04-20,Palmas,42
+2026-04-21,Palmas,51
+2026-04-22,Palmas,36
+2026-04-23,Palmas,44
+2026-04-24,Palmas,32
+2026-04-25,Palmas,24
+2026-04-26,Palmas,22
+2026-04-27,Palmas,47
+2026-04-28,Palmas,44
+2026-04-29,Palmas,25
+2026-04-30,Palmas,28
+2026-05-01,Palmas,45
+2026-05-02,Palmas,36
+2026-05-03,Palmas,32
+2026-05-04,Palmas,28
+2026-05-05,Palmas,46
+2026-05-06,Palmas,55
+2026-05-07,Palmas,42
+2026-05-08,Palmas,49
+2026-05-09,Palmas,32
+2026-05-10,Palmas,28
+2026-05-11,Palmas,31
+2026-05-12,Palmas,41
+2026-05-13,Palmas,31
+2026-05-14,Palmas,34
+2026-05-15,Palmas,30
+2026-05-16,Palmas,38
+2026-05-17,Palmas,23
+2026-05-18,Palmas,59
+2026-05-19,Palmas,43
+2026-05-20,Palmas,31
+2026-05-21,Palmas,45
+2026-05-22,Palmas,30
+2026-05-23,Palmas,34
+2026-05-24,Palmas,37
+2026-05-25,Palmas,53
+2026-05-26,Palmas,38
+2026-05-27,Palmas,37
+2026-05-28,Palmas,44
+2026-05-29,Palmas,36
+2026-05-30,Palmas,29
+2026-05-31,Palmas,28
+2026-01-05,Anápolis,39
+2026-01-06,Anápolis,36
+2026-01-07,Anápolis,20
+2026-01-08,Anápolis,38
+2026-01-09,Anápolis,21
+2026-01-10,Anápolis,27
+2026-01-11,Anápolis,16
+2026-01-12,Anápolis,35
+2026-01-13,Anápolis,28
+2026-01-14,Anápolis,34
+2026-01-15,Anápolis,38
+2026-01-16,Anápolis,33
+2026-01-17,Anápolis,26
+2026-01-18,Anápolis,24
+2026-01-19,Anápolis,33
+2026-01-20,Anápolis,33
+2026-01-21,Anápolis,25
+2026-01-22,Anápolis,25
+2026-01-23,Anápolis,24
+2026-01-24,Anápolis,30
+2026-01-25,Anápolis,19
+2026-01-26,Anápolis,23
+2026-01-27,Anápolis,34
+2026-01-28,Anápolis,32
+2026-01-29,Anápolis,43
+2026-01-30,Anápolis,36
+2026-01-31,Anápolis,27
+2026-02-01,Anápolis,24
+2026-02-02,Anápolis,40
+2026-02-03,Anápolis,33
+2026-02-04,Anápolis,33
+2026-02-05,Anápolis,36
+2026-02-06,Anápolis,42
+2026-02-07,Anápolis,25
+2026-02-08,Anápolis,27
+2026-02-09,Anápolis,38
+2026-02-10,Anápolis,33
+2026-02-11,Anápolis,30
+2026-02-12,Anápolis,30
+2026-02-13,Anápolis,27
+2026-02-14,Anápolis,15
+2026-02-15,Anápolis,20
+2026-02-16,Anápolis,32
+2026-02-17,Anápolis,26
+2026-02-18,Anápolis,29
+2026-02-19,Anápolis,45
+2026-02-20,Anápolis,34
+2026-02-21,Anápolis,34
+2026-02-22,Anápolis,17
+2026-02-23,Anápolis,36
+2026-02-24,Anápolis,36
+2026-02-25,Anápolis,33
+2026-02-26,Anápolis,38
+2026-02-27,Anápolis,34
+2026-02-28,Anápolis,37
+2026-03-01,Anápolis,27
+2026-03-02,Anápolis,40
+2026-03-03,Anápolis,37
+2026-03-04,Anápolis,25
+2026-03-05,Anápolis,54
+2026-03-06,Anápolis,39
+2026-03-07,Anápolis,40
+2026-03-08,Anápolis,24
+2026-03-09,Anápolis,44
+2026-03-10,Anápolis,36
+2026-03-11,Anápolis,47
+2026-03-12,Anápolis,35
+2026-03-13,Anápolis,36
+2026-03-14,Anápolis,30
+2026-03-15,Anápolis,36
+2026-03-16,Anápolis,49
+2026-03-17,Anápolis,38
+2026-03-18,Anápolis,41
+2026-03-19,Anápolis,33
+2026-03-20,Anápolis,31
+2026-03-21,Anápolis,25
+2026-03-22,Anápolis,26
+2026-03-23,Anápolis,38
+2026-03-24,Anápolis,45
+2026-03-25,Anápolis,32
+2026-03-26,Anápolis,39
+2026-03-27,Anápolis,40
+2026-03-28,Anápolis,24
+2026-03-29,Anápolis,21
+2026-03-30,Anápolis,45
+2026-03-31,Anápolis,41
+2026-04-01,Anápolis,48
+2026-04-02,Anápolis,33
+2026-04-03,Anápolis,27
+2026-04-04,Anápolis,26
+2026-04-05,Anápolis,35
+2026-04-06,Anápolis,33
+2026-04-07,Anápolis,39
+2026-04-08,Anápolis,34
+2026-04-09,Anápolis,39
+2026-04-10,Anápolis,36
+2026-04-11,Anápolis,25
+2026-04-12,Anápolis,29
+2026-04-13,Anápolis,49
+2026-04-14,Anápolis,27
+2026-04-15,Anápolis,40
+2026-04-16,Anápolis,35
+2026-04-17,Anápolis,43
+2026-04-18,Anápolis,16
+2026-04-19,Anápolis,29
+2026-04-20,Anápolis,37
+2026-04-21,Anápolis,44
+2026-04-22,Anápolis,35
+2026-04-23,Anápolis,39
+2026-04-24,Anápolis,34
+2026-04-25,Anápolis,35
+2026-04-26,Anápolis,25
+2026-04-27,Anápolis,39
+2026-04-28,Anápolis,32
+2026-04-29,Anápolis,27
+2026-04-30,Anápolis,41
+2026-05-01,Anápolis,33
+2026-05-02,Anápolis,25
+2026-05-03,Anápolis,26
+2026-05-04,Anápolis,43
+2026-05-05,Anápolis,33
+2026-05-06,Anápolis,38
+2026-05-07,Anápolis,39
+2026-05-08,Anápolis,37
+2026-05-09,Anápolis,16
+2026-05-10,Anápolis,21
+2026-05-11,Anápolis,38
+2026-05-12,Anápolis,31
+2026-05-13,Anápolis,29
+2026-05-14,Anápolis,30
+2026-05-15,Anápolis,32
+2026-05-16,Anápolis,29
+2026-05-17,Anápolis,27
+2026-05-18,Anápolis,46
+2026-05-19,Anápolis,38
+2026-05-20,Anápolis,45
+2026-05-21,Anápolis,39
+2026-05-22,Anápolis,32
+2026-05-23,Anápolis,25
+2026-05-24,Anápolis,27
+2026-05-25,Anápolis,40
+2026-05-26,Anápolis,37
+2026-05-27,Anápolis,38
+2026-05-28,Anápolis,35
+2026-05-29,Anápolis,24
+2026-05-30,Anápolis,25
+2026-05-31,Anápolis,22
